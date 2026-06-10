@@ -16197,6 +16197,20 @@ a.fr-book-fit:focus-visible {
   display: none;
 }
 
+.page-contents-home .home-vertical-children.home-vertical-children-leaf-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) !important;
+  gap: clamp(0.64rem, 1.2vw, 0.9rem);
+}
+
+.page-contents-home .home-vertical-children.home-vertical-children-leaf-grid > .home-vertical-node {
+  width: 100%;
+}
+
+.page-contents-home .home-vertical-children.home-vertical-children-leaf-grid > .home-vertical-node > .home-vertical-node-row > .home-vertical-card {
+  width: min(100%, 42rem);
+}
+
 
 /* World-map collection layout: preserve the full-world composition. */
 :where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="world"] :where(.interactive-map-canvas, .uap-world-map-canvas) {
