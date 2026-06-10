@@ -8,10 +8,21 @@ description: Browse the full structured site index.
 ---
 
 <section class="home-map-panel uap-world-map-panel" data-home-map-panel>
-  <div class="interactive-map-shell uap-world-map-shell" data-interactive-map data-uap-world-map data-map-item-type="country" data-map-label="UFO and UAP country map" data-map-fallback-summary="Open this country file from the map." data-map-src="{{ 'assets/maps/world.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/world-countries.json' | relative_url }}">
+  <section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-item-type="country" data-map-label="UFO and UAP country map" data-map-fallback-summary="Open this country file from the map." data-map-src="{{ 'assets/maps/world.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/world-countries.json' | relative_url }}" data-map-preview-preload="all">
     <div class="interactive-map-canvas uap-world-map-canvas" data-interactive-map-canvas data-uap-world-map-canvas></div>
-    <aside class="interactive-map-preview uap-world-map-preview" data-interactive-map-preview data-uap-world-map-preview></aside>
-  </div>
+    <article class="interactive-map-preview uap-world-map-preview" data-interactive-map-preview data-uap-world-map-preview>
+      <img src="{{ '/assets/images/Monaco_35ab1c-overview.webp' | relative_url }}" alt="" loading="eager" decoding="async" fetchpriority="high">
+      <span class="interactive-map-preview-meta uap-world-map-preview-meta">
+        <span class="interactive-map-preview-chip uap-world-map-preview-chip">MC</span>
+        <button type="button" class="interactive-map-preview-chip uap-world-map-preview-chip interactive-map-preview-chip-action uap-world-map-preview-chip-action" data-interactive-map-continent-focus="europe" data-uap-world-map-region-focus="europe" aria-label="Focus map on Europe">Europe</button>
+        <span class="interactive-map-preview-count uap-world-map-preview-count">5 pages</span>
+      </span>
+      <span class="interactive-map-preview-kicker uap-world-map-preview-kicker">Monaco</span>
+      <strong data-interactive-map-preview-title data-uap-world-map-preview-title>Are Monaco UFO Sightings Really Mysterious?</strong>
+      <span data-interactive-map-preview-summary data-uap-world-map-preview-summary>Monaco has a very small UFO record, and the strongest conclusion is not that the Principality is a hidden hotspot, but that its few public cases are mostly...</span>
+      <span class="interactive-map-preview-cta uap-world-map-preview-cta">Open file</span>
+    </article>
+  </section>
   <p class="home-map-panel-note">Use the map to jump into a country file, or browse the full country list below.</p>
   <p class="home-map-panel-actions"><a class="nav-pill" href="{{ '/contents/' | relative_url }}">Contents</a></p>
 </section>

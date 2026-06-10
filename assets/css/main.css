@@ -15871,9 +15871,15 @@ a.fr-book-fit:focus-visible {
 }
 
 :where(.interactive-map-controls, .uap-world-map-controls) {
+  position: absolute;
   top: 0.82rem;
   left: 0.82rem;
+  z-index: 5;
+  display: flex;
+  gap: 0.28rem;
   padding: 0.32rem;
+  border: 1px solid rgba(255, 255, 255, 0.58);
+  border-radius: 999px;
   border-color: rgba(255, 255, 255, 0.58);
   background: rgba(247, 252, 255, 0.76);
   box-shadow: 0 16px 34px rgba(14, 35, 55, 0.18);
@@ -15881,9 +15887,22 @@ a.fr-book-fit:focus-visible {
 }
 
 :where(.interactive-map-control, .uap-world-map-control) {
+  appearance: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   min-width: 2.12rem;
   height: 2.12rem;
+  padding: 0 0.58rem;
+  border: 0;
+  border-radius: 999px;
   background: rgba(12, 78, 94, 0.1);
+  color: var(--heading);
+  cursor: pointer;
+  font-family: var(--font-heading-stack);
+  font-size: 0.82rem;
+  font-weight: 820;
+  line-height: 1;
   transition: background 140ms ease, box-shadow 140ms ease, transform 140ms ease;
 }
 
@@ -15896,10 +15915,64 @@ a.fr-book-fit:focus-visible {
 }
 
 :where(.interactive-map-pan-control, .uap-world-map-pan-control) {
+  position: absolute;
+  min-width: 2.35rem;
+  width: 2.35rem;
+  height: 2.35rem;
+  padding: 0;
   background: rgba(247, 252, 255, 0.82);
   border: 1px solid rgba(255, 255, 255, 0.62);
   box-shadow: 0 16px 34px rgba(14, 35, 55, 0.2);
   backdrop-filter: blur(14px);
+  pointer-events: auto;
+}
+
+:where(.interactive-map-pan-controls, .uap-world-map-pan-controls) {
+  position: absolute;
+  inset: 0;
+  z-index: 4;
+  pointer-events: none;
+}
+
+:where(.interactive-map-pan-control-left, .uap-world-map-pan-control-left) {
+  left: 0.8rem;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+:where(.interactive-map-pan-control-right, .uap-world-map-pan-control-right) {
+  right: 0.8rem;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+:where(.interactive-map-pan-control-up, .uap-world-map-pan-control-up) {
+  left: 50%;
+  top: 0.8rem;
+  transform: translateX(-50%);
+}
+
+:where(.interactive-map-pan-control-down, .uap-world-map-pan-control-down) {
+  left: 50%;
+  bottom: 0.8rem;
+  transform: translateX(-50%);
+}
+
+:where(.interactive-map-pan-control-left, .uap-world-map-pan-control-left):hover,
+:where(.interactive-map-pan-control-left, .uap-world-map-pan-control-left):focus-visible {
+  transform: translateY(-50%);
+}
+
+:where(.interactive-map-pan-control-right, .uap-world-map-pan-control-right):hover,
+:where(.interactive-map-pan-control-right, .uap-world-map-pan-control-right):focus-visible {
+  transform: translateY(-50%);
+}
+
+:where(.interactive-map-pan-control-up, .uap-world-map-pan-control-up):hover,
+:where(.interactive-map-pan-control-up, .uap-world-map-pan-control-up):focus-visible,
+:where(.interactive-map-pan-control-down, .uap-world-map-pan-control-down):hover,
+:where(.interactive-map-pan-control-down, .uap-world-map-pan-control-down):focus-visible {
+  transform: translateX(-50%);
 }
 
 :where(.interactive-map-canvas, .uap-world-map-canvas) :where([data-interactive-map-item], [data-uap-country]) {

@@ -9130,6 +9130,23 @@
     var getItemTitle = function(item) {
       return item && (item.displayTitle || item.title || item.displayLabel || item.label || item.country || itemTypeTitle);
     };
+    var normalisePreviewHeadingText = function(value) {
+      return String(value || '').toLowerCase().replace(/&amp;/g, 'and').replace(/[^a-z0-9]+/g, ' ').trim();
+    };
+    var shouldShowPreviewKicker = function(label, title) {
+      var labelKey = normalisePreviewHeadingText(label);
+      var titleKey = normalisePreviewHeadingText(title);
+      if (!labelKey || !titleKey || labelKey === titleKey) {
+        return false;
+      }
+      if (labelKey.length > 8 && titleKey.indexOf(labelKey) !== -1) {
+        return false;
+      }
+      if (titleKey.length > 8 && labelKey.indexOf(titleKey) !== -1) {
+        return false;
+      }
+      return true;
+    };
     var getItemSummary = function(item) {
       return item && (item.displaySummary || item.summary || fallbackSummary);
     };
@@ -9750,10 +9767,15 @@
         var imageUrl = resolveSiteAssetUrl(item.image);
         warmPreviewImage(item);
         var imageHtml = imageUrl ? '<img src="' + escapeHtml(imageUrl) + '" alt="" loading="eager" decoding="async" fetchpriority="high">' : '';
+        var previewLabel = getItemLabel(item);
+        var previewTitle = getItemTitle(item);
+        var kickerHtml = shouldShowPreviewKicker(previewLabel, previewTitle)
+          ? '<span class="interactive-map-preview-kicker uap-world-map-preview-kicker">' + escapeHtml(previewLabel) + '</span>'
+          : '';
         preview.innerHTML = imageHtml
           + getPreviewMetaHtml(item)
-          + '<span class="interactive-map-preview-kicker uap-world-map-preview-kicker">' + escapeHtml(getItemLabel(item)) + '</span>'
-          + '<strong data-interactive-map-preview-title data-uap-world-map-preview-title>' + escapeHtml(getItemTitle(item)) + '</strong>'
+          + kickerHtml
+          + '<strong data-interactive-map-preview-title data-uap-world-map-preview-title>' + escapeHtml(previewTitle) + '</strong>'
           + '<span data-interactive-map-preview-summary data-uap-world-map-preview-summary>' + escapeHtml(getItemSummary(item)) + '</span>'
           + (item.url ? '<span class="interactive-map-preview-cta uap-world-map-preview-cta">Open file</span>' : '');
       };
