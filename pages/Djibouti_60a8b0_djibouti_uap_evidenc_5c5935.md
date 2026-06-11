@@ -245,7 +245,7 @@ next_link:
   permalink: /ir-video-evidence/
   short_title: IR Video Evidence
   heading_title: What Can Infrared UAP Footage Near Djibouti Tell US?
-date: '2026-06-11 14:28:25 '
+date: '2026-06-11 19:33:02 '
 header:
   og_image: /assets/images/Djibouti_60a8b0_djibouti_uap_evidenc_5c5935-Illustration-1-social.jpg
   preview_image: /assets/images/Djibouti_60a8b0_djibouti_uap_evidenc_5c5935-Illustration-1.webp
@@ -255,7 +255,6 @@ image: /assets/images/Djibouti_60a8b0_djibouti_uap_evidenc_5c5935-Illustration-1
 ## Introduction
 
 [Djibouti]({{ 'djibouti/' | relative_url }})’s UFO and UAP evidence base is exceptionally thin by international standards. The country has no long-running civilian reporting culture, no known state investigative programme, and almost no archival case history comparable to better documented regions in Europe, North America, or parts of Latin America. What does exist is a narrow and fragmented collection of military-linked reports, scattered online submissions, and secondary database references with limited corroboration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/dow-uap-d8-mission-report-djibouti-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">UFO Transparency Two Round White-Hot UAPs at 240 Knots, Department of War</span><span class="citation-popover-snippet">military MISREP documenting a 1653Z observation of two round, white-hot UAPs traveling south at approximately 240 knots over a grid...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/djibouti-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[UFO Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-snippet">UFO Research CenterGlobal UFOs: Djibouti UFO Sightings &amp; ReportsBrowse or report Djibouti UFO UAP or USO sightings and other strange para...</span></span></span>
-
 
 <img src="{{ "/assets/images/Djibouti_60a8b0_djibouti_uap_evidenc_5c5935-Illustration-1-dark.svg" | relative_url }}" alt="Evidence Assessment illustration 1" data-theme-src-dark="{{ "/assets/images/Djibouti_60a8b0_djibouti_uap_evidenc_5c5935-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Djibouti_60a8b0_djibouti_uap_evidenc_5c5935-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That scarcity matters because Djibouti occupies a strategically important location at the entrance to the Red Sea and hosts several foreign military presences, including major United States operations centred on Camp Lemonnier. In theory, such an environment could generate useful sensor data on unusual aerial events. In practice, almost none of that material is publicly accessible, independently verified, or sufficiently contextualised to support strong conclusions. The result is an evidence landscape defined less by dramatic incidents than by missing records, heavy redactions, uncertain provenance, and weak continuity between reports.
@@ -267,7 +266,6 @@ The most striking feature of Djibouti’s UAP landscape is not the presence of c
 Unlike countries with active civilian UFO organisations, newspaper archives, amateur skywatching networks, or decades of military declassification disputes, Djibouti has little documented public culture surrounding UFO reports. Large public repositories such as the National UFO Reporting Center (NUFORC) and MUFON contain either no substantial Djibouti case history or only isolated references without meaningful investigative depth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UA...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mufon.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufon.com">[MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufon.com</span><span class="citation-popover-snippet">HomeThe Mutual UFO Network (MUFON) is the leading authority for reporting and investigating sightings, abductions, and other unexp...</span></span></span>
 
 Several structural reasons likely contribute to this:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -291,7 +289,6 @@ The most discussed Djibouti-linked case is a partially released military mission
 
 The report has some strengths:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * It appears to originate from a formal military reporting process rather than an anonymous internet submission.
@@ -305,7 +302,6 @@ However, the weaknesses are more important than the strengths.
 The core narrative text remains heavily redacted. The available coordinates appear more consistent with the eastern Mediterranean than with Djibouti itself, raising the possibility that the “Djibouti” label refers to the reporting chain or deployment origin rather than the actual sighting location. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/dow-uap-d8-mission-report-djibouti-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">UFO Transparency Two Round White-Hot UAPs at 240 Knots, Department of War</span><span class="citation-popover-snippet">military MISREP documenting a 1653Z observation of two round, white-hot UAPs traveling south at approximately 240 knots over a grid...</span></span></span>
 
 Crucially, the public lacks:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -328,7 +324,6 @@ A second Djibouti-linked case involves short infrared footage reportedly associa
 
 Again, the existence of formal military handling increases the credibility of the report as a genuine operational observation. But the evidentiary ceiling remains low because:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The clip is extremely short.
@@ -341,7 +336,6 @@ Again, the existence of formal military handling increases the credibility of th
 
 In practical terms, the footage is “unresolved” only in the narrow sense that insufficient information exists to determine the object conclusively. That is very different from proving anomalous aerospace performance.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1S3PhfNHclU" title="Why Every Country Has Military Bases in Djibouti" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1S3PhfNHclU" target="_blank" rel="noopener noreferrer">Why Every Country Has Military Bases in Djibouti</a></p><p class="youtube-embed-meta">Channel: RealLifeLore &middot; Views: 3.3M &middot; Uploaded: April 2023 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1S3PhfNHclU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1S3PhfNHclU">Open on YouTube</a></p></div></div></div>
 
 ## Civilian Reporting Is Nearly Non-Existent
@@ -349,7 +343,6 @@ In practical terms, the footage is “unresolved” only in the narrow sense tha
 Djibouti’s civilian UFO record is too weak to support trend analysis, geographic clustering, or behavioural pattern studies.
 
 Some websites advertise “Djibouti UFO sightings”, but these are largely placeholder pages or open submission portals rather than curated investigative archives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usufocenter.com/ufo-sighting-reports/worldwide/djibouti-ufo-sightings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usufocenter.com">[UFO Research Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usufocenter.com</span><span class="citation-popover-snippet">UFO Research CenterGlobal UFOs: Djibouti UFO Sightings &amp; ReportsBrowse or report Djibouti UFO UAP or USO sightings and other strange para...</span></span></span> The few anecdotal claims that do circulate online often lack:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -379,7 +372,6 @@ Neither category currently provides a robust independent evidence chain.
 The central weakness in Djibouti’s UAP record is not necessarily false reporting. It is missing context.
 
 Many UAP cases become more interpretable once researchers obtain:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -411,7 +403,6 @@ The lack of context therefore increases uncertainty in both directions:
 * extraordinary explanations cannot be confirmed,
 * but ordinary explanations also cannot always be confidently demonstrated.
 
-
 <img src="{{ "/assets/images/Djibouti_60a8b0_djibouti_uap_evidenc_5c5935-Illustration-2-dark.svg" | relative_url }}" alt="Evidence Assessment illustration 2" data-theme-src-dark="{{ "/assets/images/Djibouti_60a8b0_djibouti_uap_evidenc_5c5935-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Djibouti_60a8b0_djibouti_uap_evidenc_5c5935-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Evidence Strength Versus Evidence Quality
 
@@ -429,7 +420,6 @@ The limited military-linked incidents are more credible than anonymous online st
 * and preserved documentation.
 
 That distinguishes them from purely folkloric or internet-driven claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotransparency.com/files/dow-uap-d8-mission-report-djibouti-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotransparency.com">[UFO Transparency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotransparency.com</span><span class="citation-popover-title">UFO Transparency Two Round White-Hot UAPs at 240 Knots, Department of War</span><span class="citation-popover-snippet">military MISREP documenting a 1653Z observation of two round, white-hot UAPs traveling south at approximately 240 knots over a grid...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/waUVHmQYtus" title="Inside the U.S. Base in Djibouti As Military Race with China Escalates" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=waUVHmQYtus" target="_blank" rel="noopener noreferrer">Inside the U.S. Base in Djibouti As Military Race with China Escalates</a></p><p class="youtube-embed-meta">Channel: NBC News &middot; Views: 287.0K &middot; Uploaded: November 2021 &middot; Length: 3 minutes 33 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=waUVHmQYtus" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=waUVHmQYtus">Open on YouTube</a></p></div></div></div>
 
@@ -466,7 +456,6 @@ This differs from stronger historical UFO cases where investigators possessed:
 * or physical trace claims.
 
 In Djibouti, the main obstacle is not successful debunking by sceptics. It is the inability of either sceptics or proponents to access enough primary information to conduct rigorous analysis.
-
 
 <img src="{{ "/assets/images/Djibouti_60a8b0_djibouti_uap_evidenc_5c5935-Illustration-3-dark.svg" | relative_url }}" alt="Evidence Assessment illustration 3" data-theme-src-dark="{{ "/assets/images/Djibouti_60a8b0_djibouti_uap_evidenc_5c5935-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Djibouti_60a8b0_djibouti_uap_evidenc_5c5935-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Data Gaps That Most Limit Serious Research
@@ -510,7 +499,6 @@ That creates several problems:
 * and fragmented archival control.
 
 Even when material is released, it may be detached from operational context for security reasons.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BSItX-WvGQ8" title="UFOs Unlocked: Inside the Pentagon’s secret files | This Is America" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BSItX-WvGQ8" target="_blank" rel="noopener noreferrer">UFOs Unlocked: Inside the Pentagon’s secret files | This Is America</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 99.7K &middot; Uploaded: May 2026 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BSItX-WvGQ8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BSItX-WvGQ8">Open on YouTube</a></p></div></div></div>
 
@@ -663,71 +651,75 @@ For researchers, the country is therefore less important as a source of compelli
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-search-grid">
+      <div class="fr-books-grid">
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-assessment-4ecf0d-how-strong-is-the-ufo-evidence-base-in-djibouti-djibouti-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="evidence-assessment-4ecf0d-how-strong-is-the-ufo-evidence-base-in-djibouti-djibouti-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Top pick</p>
-        <h4 class="fr-search-title">UFO poster</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-assessment-4ecf0d-how-strong-is-the-ufo-evidence-base-in-djibouti-djibouti-ufo-poster-book-books-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="evidence-assessment-4ecf0d-how-strong-is-the-ufo-evidence-base-in-djibouti-djibouti-ufo-poster-book-books-series-televis" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-ufo-evidence-base-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-ufo-evidence-base-in-djibouti-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-ufo-evidence-base-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-ufo-evidence-base-in-djibouti-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-ufo-evidence-base-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-ufo-evidence-base-in-djibouti-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-ufo-evidence-base-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-ufo-evidence-base-in-djibouti-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-assessment-4ecf0d-how-strong-is-the-ufo-evidence-base-in-djibouti-djibouti-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="evidence-assessment-4ecf0d-how-strong-is-the-ufo-evidence-base-in-djibouti-djibouti-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">alien art print</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-assessment-4ecf0d-how-strong-is-the-ufo-evidence-base-in-djibouti-djibouti-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="evidence-assessment-4ecf0d-how-strong-is-the-ufo-evidence-base-in-djibouti-djibouti-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-ufo-evidence-base-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-ufo-evidence-base-in-djibouti-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-ufo-evidence-base-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-ufo-evidence-base-in-djibouti-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-ufo-evidence-base-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-ufo-evidence-base-in-djibouti-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-ufo-evidence-base-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-ufo-evidence-base-in-djibouti-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-assessment-4ecf0d-how-strong-is-the-ufo-evidence-base-in-djibouti-djibouti-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="evidence-assessment-4ecf0d-how-strong-is-the-ufo-evidence-base-in-djibouti-djibouti-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">flying saucer model</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-assessment-4ecf0d-how-strong-is-the-ufo-evidence-base-in-djibouti-djibouti-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="evidence-assessment-4ecf0d-how-strong-is-the-ufo-evidence-base-in-djibouti-djibouti-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-ufo-evidence-base-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-ufo-evidence-base-in-djibouti-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-ufo-evidence-base-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-ufo-evidence-base-in-djibouti-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-ufo-evidence-base-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-ufo-evidence-base-in-djibouti-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-ufo-evidence-base-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-ufo-evidence-base-in-djibouti-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-assessment-4ecf0d-how-strong-is-the-ufo-evidence-base-in-djibouti-djibouti-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="evidence-assessment-4ecf0d-how-strong-is-the-ufo-evidence-base-in-djibouti-djibouti-ufo-t-shirt-gerry-anderson-series-te" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">UFO t shirt</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-assessment-4ecf0d-how-strong-is-the-ufo-evidence-base-in-djibouti-djibouti-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="evidence-assessment-4ecf0d-how-strong-is-the-ufo-evidence-base-in-djibouti-djibouti-ufo-t-shirt-gerry-anderson-series-te" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-ufo-evidence-base-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-ufo-evidence-base-in-djibouti-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-ufo-evidence-base-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-ufo-evidence-base-in-djibouti-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-ufo-evidence-base-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-ufo-evidence-base-in-djibouti-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-ufo-evidence-base-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-ufo-evidence-base-in-djibouti-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-assessment-4ecf0d-how-strong-is-the-ufo-evidence-base-in-djibouti-djibouti-ufo-poster-book-books-series-televis&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on eBay
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-the-ufo-evidence-base-in-djibouti-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="how-strong-is-the-ufo-evidence-base-in-djibouti-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>

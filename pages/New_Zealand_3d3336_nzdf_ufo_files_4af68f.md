@@ -19,6 +19,8 @@ description: New Zealand's declassified defence files show decades of reports, b
 hero_summary: New Zealand's declassified defence files show decades of reports, but today's official role is far narrower than many readers expect.
 layout: default
 permalink: /official-files-f636ca/
+sidebar_expanded_urls:
+- /what-new-zealands-ufo-files-really-show/
 nav_short_title: Official Files
 title: What Is Inside New Zealand's UFO Files?
 title_full: What Is Inside New Zealand's UFO Files?
@@ -200,6 +202,16 @@ parent_title: NZ UFOs
 parent_permalink: /what-new-zealands-ufo-files-really-show/
 parent_nav_short_title: NZ UFOs
 parent_heading_title: What New Zealand's UFO Files Really Show
+ancestor_links:
+- basename: New_Zealand_3d3336
+  title: NZ UFOs
+  permalink: /what-new-zealands-ufo-files-really-show/
+  short_title: NZ UFOs
+breadcrumb_links:
+- basename: New_Zealand_3d3336
+  title: NZ UFOs
+  permalink: /what-new-zealands-ufo-files-really-show/
+  short_title: NZ UFOs
 sibling_links:
 - basename: New_Zealand_3d3336_early_nz_ufo_cases_b4b984
   title: Early Cases | What New Zealand's UFO Files Really Show
@@ -216,13 +228,18 @@ sibling_links:
   permalink: /kaikoura-lights/
   short_title: Kaikoura Lights
   heading_title: Why the Kaikoura Lights Still Matter
+up_link:
+  basename: New_Zealand_3d3336
+  title: NZ UFOs
+  permalink: /what-new-zealands-ufo-files-really-show/
+  short_title: NZ UFOs
 prev_link:
   basename: New_Zealand_3d3336_kaikoura_lights_a0b5bc
   title: Kaikoura Lights | What New Zealand's UFO Files Really Show
   permalink: /kaikoura-lights/
   short_title: Kaikoura Lights
   heading_title: Why the Kaikoura Lights Still Matter
-date: '2026-06-11 14:37:49 '
+date: '2026-06-11 19:42:22 '
 header:
   og_image: /assets/images/New_Zealand_3d3336_nzdf_ufo_files_4af68f-Illustration-1-social.jpg
   preview_image: /assets/images/New_Zealand_3d3336_nzdf_ufo_files_4af68f-Illustration-1.webp
@@ -232,7 +249,6 @@ image: /assets/images/New_Zealand_3d3336_nzdf_ufo_files_4af68f-Illustration-1-so
 ## Introduction
 
 New Zealand’s UFO archive is often described as proof that the state secretly investigated unexplained aerial phenomena for decades. The released record tells a more complicated story. The New Zealand Defence Force (NZDF) did accumulate and preserve a large collection of UFO-related material, but much of it consisted of correspondence, public reports, newspaper clippings, aviation incidents and occasional military assessments rather than a dedicated, permanent UFO investigation programme. The files are valuable because they show how government agencies handled reports in practice, not because they contain a hidden final explanation. Today the official position is even narrower: the NZDF says it has no responsibility for UFO or UAP reporting, does not investigate such sightings, and does not maintain a current UFO database. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nzdf.mil.nz/assets/Uploads/DocumentLibrary/OIA-2023-4763_UAP-UFO-USO.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mil.nz">[NZDF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mil.nz</span><span class="citation-popover-title">OIA 2023 4763 UAP UFO USO</span><span class="citation-popover-snippet">NZDFOIA-2023-4763Documentation of historical (2010 to present day) and ongoing efforts relating to any unidentified anomalous phenomena (...</span></span></span>
-
 
 <img src="{{ "/assets/images/New_Zealand_3d3336_nzdf_ufo_files_4af68f-Illustration-1-dark.svg" | relative_url }}" alt="Official Files illustration 1" data-theme-src-dark="{{ "/assets/images/New_Zealand_3d3336_nzdf_ufo_files_4af68f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Zealand_3d3336_nzdf_ufo_files_4af68f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The result is an archive that captures more than half a century of public concern, aviation safety questions and unexplained observations while also revealing the limits of official involvement. Understanding what is actually inside those files is essential to understanding New Zealand’s place in the wider UFO history.
@@ -255,7 +271,6 @@ One of the most cited files, AIR 244/10/1, illustrates the mixed nature of the a
 
 The collection therefore functions less like a solved casebook and more like an administrative record of how unusual reports moved through government channels.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ez_YkKnPBpY" title="The Kaikoura UFOs - 1978" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ez_YkKnPBpY" target="_blank" rel="noopener noreferrer">The Kaikoura UFOs - 1978</a></p><p class="youtube-embed-meta">Channel: Marlborough Video Vault &middot; Views: 79.0K &middot; Uploaded: May 2020 &middot; Length: 37 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ez_YkKnPBpY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ez_YkKnPBpY">Open on YouTube</a></p></div></div></div>
 
 ## Why the archive contains both credible incidents and obvious noise
@@ -270,7 +285,6 @@ For researchers, this distinction matters. The archive demonstrates that a repor
 
 This is one reason the Kaikōura incidents remain disproportionately important in New Zealand UFO discussions. They generated aviation records, witness testimony, media footage and official attention. Many other reports in the archive lack that level of corroboration. The files therefore require case-by-case assessment rather than blanket acceptance or dismissal.
 
-
 <img src="{{ "/assets/images/New_Zealand_3d3336_nzdf_ufo_files_4af68f-Illustration-2-dark.svg" | relative_url }}" alt="Official Files illustration 2" data-theme-src-dark="{{ "/assets/images/New_Zealand_3d3336_nzdf_ufo_files_4af68f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Zealand_3d3336_nzdf_ufo_files_4af68f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What official responsibility actually looked like
 
@@ -282,7 +296,6 @@ The documents also show recurring uncertainty inside government about who, if an
 
 This administrative history explains why the archive appears fragmented. Different agencies handled different reports at different times. Some records concern defence matters, some aviation issues, some media enquiries and some simply reflect public correspondence being filed and retained.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/j9iyUHmHaEo" title="Caught on Camera and Radar | Kaikoura UFO Lights Incident, New Zealand | Short Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=j9iyUHmHaEo" target="_blank" rel="noopener noreferrer">Caught on Camera and Radar | Kaikoura UFO Lights Incident, New Zealand | Short Documentary</a></p><p class="youtube-embed-meta">Channel: Curiosity Vault &middot; Views: 552.1K &middot; Uploaded: March 2023 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=j9iyUHmHaEo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=j9iyUHmHaEo">Open on YouTube</a></p></div></div></div>
 
 ## The 2010 release and what it did not reveal
@@ -292,7 +305,6 @@ Media coverage of the 2010 disclosure often described the files as "secret UFO r
 The declassification demonstrated that the government had retained decades of UFO-related material and was willing to release much of it publicly. It did not reveal evidence that officials had confirmed extraterrestrial visitors, recovered alien technology or operated a concealed investigation programme. Instead, it exposed the underlying paperwork behind many long-circulating stories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://natlib.govt.nz/records/22979464" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: natlib.govt.nz">[National Library of New Zealand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">natlib.govt.nz</span><span class="citation-popover-snippet">National Library of New ZealandUnidentified flying objects (UFO) files: copies for release...These copied and redacted files of corresp...</span></span></span> DigitalNZ Many readers expected definitive answers. What emerged was something more useful historically but less dramatic: a documentary record showing <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalnz.org/stories/5b03db151257577580bb9571" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalnz.org">[digitalnz.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalnz.org</span><span class="citation-popover-snippet">UFOs over NZ &#124; StoryNZ UFO FILES MADE PUBLIC in 2010. The NZ Defence Force released files held by Archives New Zealand totalling about 20...</span></span></span> how reports were received, discussed, archived and sometimes investigated.
 
 The release also made clear that the files were heavily administrative in character. Researchers gained access to correspondence trails, assessments, witness statements and bureaucratic handling processes rather than a hidden explanatory report resolving New Zealand's UFO history.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/B82tiKjy3Eg" title="New Zealand military declassifies UFO files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=B82tiKjy3Eg" target="_blank" rel="noopener noreferrer">New Zealand military declassifies UFO files</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 73.9K &middot; Uploaded: December 2010 &middot; Length: 1 minute 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=B82tiKjy3Eg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=B82tiKjy3Eg">Open on YouTube</a></p></div></div></div>
 
@@ -307,7 +319,6 @@ A 2023 response further stated that the 2010 disclosure consisted of fifteen vol
 This marks a significant contrast with public assumptions. Because the historical files are extensive, many people assume a continuing government monitoring effort exists. Official statements indicate that this is not the case. The archived collection is primarily a historical record, not evidence of an active investigative structure.
 
 For contemporary sightings, the issue is generally treated through aviation safety channels rather than as a defence intelligence programme. That distinction is central to understanding New Zealand's current position.
-
 
 <img src="{{ "/assets/images/New_Zealand_3d3336_nzdf_ufo_files_4af68f-Illustration-3-dark.svg" | relative_url }}" alt="Official Files illustration 3" data-theme-src-dark="{{ "/assets/images/New_Zealand_3d3336_nzdf_ufo_files_4af68f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/New_Zealand_3d3336_nzdf_ufo_files_4af68f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the files ultimately tell us about New Zealand's UFO history
@@ -432,71 +443,75 @@ For historians and researchers, that may be the collection's greatest value. The
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-search-grid">
+      <div class="fr-books-grid">
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-f636ca-what-is-inside-new-zealand-s-ufo-files-new-zealand-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="official-files-f636ca-what-is-inside-new-zealand-s-ufo-files-new-zealand-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Top pick</p>
-        <h4 class="fr-search-title">UFO poster</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-f636ca-what-is-inside-new-zealand-s-ufo-files-new-zealand-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="official-files-f636ca-what-is-inside-new-zealand-s-ufo-files-new-zealand-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-inside-new-zealand-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-inside-new-zealand-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-inside-new-zealand-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-inside-new-zealand-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-inside-new-zealand-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-inside-new-zealand-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-inside-new-zealand-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-inside-new-zealand-s-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-f636ca-what-is-inside-new-zealand-s-ufo-files-new-zealand-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="official-files-f636ca-what-is-inside-new-zealand-s-ufo-files-new-zealand-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">alien art print</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-f636ca-what-is-inside-new-zealand-s-ufo-files-new-zealand-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="official-files-f636ca-what-is-inside-new-zealand-s-ufo-files-new-zealand-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-inside-new-zealand-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-inside-new-zealand-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-inside-new-zealand-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-inside-new-zealand-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-inside-new-zealand-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-inside-new-zealand-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-inside-new-zealand-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-inside-new-zealand-s-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-f636ca-what-is-inside-new-zealand-s-ufo-files-new-zealand-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="official-files-f636ca-what-is-inside-new-zealand-s-ufo-files-new-zealand-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">flying saucer model</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-f636ca-what-is-inside-new-zealand-s-ufo-files-new-zealand-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="official-files-f636ca-what-is-inside-new-zealand-s-ufo-files-new-zealand-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-inside-new-zealand-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-inside-new-zealand-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-inside-new-zealand-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-inside-new-zealand-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-inside-new-zealand-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-inside-new-zealand-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-inside-new-zealand-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-inside-new-zealand-s-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-f636ca-what-is-inside-new-zealand-s-ufo-files-new-zealand-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="official-files-f636ca-what-is-inside-new-zealand-s-ufo-files-new-zealand-ufo-t-shirt-gerry-anderson-series-television-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">UFO t shirt</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-f636ca-what-is-inside-new-zealand-s-ufo-files-new-zealand-ufo-t-shirt-gerry-anderson-series-television-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="official-files-f636ca-what-is-inside-new-zealand-s-ufo-files-new-zealand-ufo-t-shirt-gerry-anderson-series-television-ba" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-inside-new-zealand-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-inside-new-zealand-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-inside-new-zealand-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-inside-new-zealand-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-inside-new-zealand-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-inside-new-zealand-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-inside-new-zealand-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-inside-new-zealand-s-ufo-files-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=official-files-f636ca-what-is-inside-new-zealand-s-ufo-files-new-zealand-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on eBay
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-inside-new-zealand-s-ufo-files-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster" data-ebay-reference="what-is-inside-new-zealand-s-ufo-files-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>

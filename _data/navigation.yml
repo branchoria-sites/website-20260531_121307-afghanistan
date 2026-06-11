@@ -749,9 +749,6 @@ sidebar_generated:
   - title: Sightings
     title_full: Where Do Dominican UFO Reports Come From?
     url: /sightings-61ee63/
-- title: Early Cases
-  title_full: Before Kaikoura, What Did People See?
-  url: /early-cases/
 - title: Ecuador
   url: /what-evidence-exists-for-ufos-in-ecuador/
   children:
@@ -872,9 +869,6 @@ sidebar_generated:
   - title: Sightings Map
     title_full: Do Ethiopia UFO Reports Form a Real Pattern?
     url: /sightings-map-717571/
-- title: Explanations
-  title_full: When New Zealand UFOs Stop Being UFOs
-  url: /explanations-61f9e4/
 - title: Fiji
   url: /fiji/
   children:
@@ -1295,9 +1289,6 @@ sidebar_generated:
   - title: Jafr Hoax
     title_full: The April Fool's UFO That Frightened Jafr
     url: /jafr-hoax/
-- title: Kaikoura Lights
-  title_full: Why the Kaikoura Lights Still Matter
-  url: /kaikoura-lights/
 - title: Kazakhstan
   url: /what-is-really-seen-over-kazakhstan/
   children:
@@ -1838,6 +1829,21 @@ sidebar_generated:
   - title: Soesterberg
     title_full: The Dutch Air Base Case That Would Not Fade
     url: /soesterberg/
+- title: New Zealand
+  url: /what-new-zealands-ufo-files-really-show/
+  children:
+  - title: Early Cases
+    title_full: Before Kaikoura, What Did People See?
+    url: /early-cases/
+  - title: Explanations
+    title_full: When New Zealand UFOs Stop Being UFOs
+    url: /explanations-61f9e4/
+  - title: Kaikoura Lights
+    title_full: Why the Kaikoura Lights Still Matter
+    url: /kaikoura-lights/
+  - title: Official Files
+    title_full: What Is Inside New Zealand's UFO Files?
+    url: /official-files-f636ca/
 - title: Nicaragua
   url: /what-really-happened-in-nicaraguas-ufo/
   children:
@@ -1928,9 +1934,6 @@ sidebar_generated:
   - title: Records
     title_full: Who Actually Investigated Norway's UFO Reports?
     url: /records-2b5d25/
-- title: Official Files
-  title_full: What Is Inside New Zealand's UFO Files?
-  url: /official-files-f636ca/
 - title: Oman
   url: /what-really-counts-as-an-oman-ufo/
   children:

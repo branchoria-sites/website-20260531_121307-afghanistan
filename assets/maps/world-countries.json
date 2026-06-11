@@ -103,21 +103,6 @@
       "region": "Europe"
     },
     {
-      "id": "NZ",
-      "iso": "NZ",
-      "country": "New Zealand",
-      "label": "New Zealand",
-      "mapAliases": [
-        "new zealand"
-      ],
-      "title": "Early Cases",
-      "summary": "Early New Zealand UFO stories reveal how witness reports, press waves, and claimed physical traces shaped the local mystery before Kaikoura.",
-      "url": "early-cases/",
-      "image": "assets/images/New_Zealand_3d3336_early_nz_ufo_cases_b4b984-Illustration-1.webp",
-      "pageCount": 1,
-      "region": "Oceania"
-    },
-    {
       "id": "KM",
       "iso": "KM",
       "country": "Comoros",
@@ -1947,6 +1932,21 @@
       "image": "assets/images/Republic_of_Moldova_a6ad94-overview.webp",
       "pageCount": 5,
       "region": "Europe"
+    },
+    {
+      "id": "NZ",
+      "iso": "NZ",
+      "country": "New Zealand",
+      "label": "New Zealand",
+      "mapAliases": [
+        "new zealand"
+      ],
+      "title": "What New Zealand's UFO Files Really Show",
+      "summary": "New Zealand’s UFO record is unusually useful because it combines folklore-like local stories, press-driven sighting waves, private investigators, sceptical...",
+      "url": "what-new-zealands-ufo-files-really-show/",
+      "image": "assets/images/New_Zealand_3d3336-overview.webp",
+      "pageCount": 5,
+      "region": "Oceania"
     },
     {
       "id": "SD",
@@ -3191,21 +3191,6 @@
       "region": "Europe"
     },
     {
-      "id": "NZ",
-      "iso": "NZ",
-      "country": "New Zealand",
-      "label": "New Zealand",
-      "mapAliases": [
-        "new zealand"
-      ],
-      "title": "Early Cases",
-      "summary": "Early New Zealand UFO stories reveal how witness reports, press waves, and claimed physical traces shaped the local mystery before Kaikoura.",
-      "url": "early-cases/",
-      "image": "assets/images/New_Zealand_3d3336_early_nz_ufo_cases_b4b984-Illustration-1.webp",
-      "pageCount": 1,
-      "region": "Oceania"
-    },
-    {
       "id": "KM",
       "iso": "KM",
       "country": "Comoros",
@@ -5037,6 +5022,21 @@
       "region": "Europe"
     },
     {
+      "id": "NZ",
+      "iso": "NZ",
+      "country": "New Zealand",
+      "label": "New Zealand",
+      "mapAliases": [
+        "new zealand"
+      ],
+      "title": "What New Zealand's UFO Files Really Show",
+      "summary": "New Zealand’s UFO record is unusually useful because it combines folklore-like local stories, press-driven sighting waves, private investigators, sceptical...",
+      "url": "what-new-zealands-ufo-files-really-show/",
+      "image": "assets/images/New_Zealand_3d3336-overview.webp",
+      "pageCount": 5,
+      "region": "Oceania"
+    },
+    {
       "id": "SD",
       "iso": "SD",
       "country": "Sudan",
@@ -6183,6 +6183,6 @@
     }
   ],
   "matchedCount": 193,
-  "totalTopTopics": 196,
+  "totalTopTopics": 193,
   "source": "Generated from Stage 3 country collection pages; base SVG from SimpleMaps world.svg."
 }

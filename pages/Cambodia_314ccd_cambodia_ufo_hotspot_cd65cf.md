@@ -245,7 +245,7 @@ next_link:
   permalink: /kampot-case/
   short_title: Kampot Case
   heading_title: Did the Kampot Explosion Really Involve a UFO?
-date: '2026-06-11 14:26:15 '
+date: '2026-06-11 19:30:55 '
 header:
   og_image: /assets/images/Cambodia_314ccd_cambodia_ufo_hotspot_cd65cf-Illustration-1-social.jpg
   preview_image: /assets/images/Cambodia_314ccd_cambodia_ufo_hotspot_cd65cf-Illustration-1.webp
@@ -256,7 +256,6 @@ image: /assets/images/Cambodia_314ccd_cambodia_ufo_hotspot_cd65cf-Illustration-1
 
 Cambodia’s UFO stories tend to emerge from very specific landscapes: remote border provinces, lightly monitored coastal zones, and rural areas where dark skies and weak infrastructure make aerial objects difficult to identify. That geographical pattern explains far more about the country’s UFO reputation than any evidence of extraordinary craft.
 
-
 <img src="{{ "/assets/images/Cambodia_314ccd_cambodia_ufo_hotspot_cd65cf-Illustration-1-dark.svg" | relative_url }}" alt="Hotspots illustration 1" data-theme-src-dark="{{ "/assets/images/Cambodia_314ccd_cambodia_ufo_hotspot_cd65cf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cambodia_314ccd_cambodia_ufo_hotspot_cd65cf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The most widely discussed Cambodian incidents have appeared near the Gulf of Thailand coastline, around border districts facing Thailand or Vietnam, or in sparsely populated provinces where investigation capacity is limited. In these environments, aircraft lights, drones, military activity, falling debris, and atmospheric effects can remain unexplained long enough to become “UFO” stories. Cambodia therefore offers an unusually clear example of how geography, infrastructure, and regional politics shape unidentified aerial claims. The country’s hotspot regions are real, but they are hotspots of ambiguity rather than hotspots of proven anomalous phenomena.
 
@@ -265,7 +264,6 @@ The most widely discussed Cambodian incidents have appeared near the Gulf of Tha
 Cambodia’s southern coastline has produced the country’s most persistent UFO-associated narratives, especially around Kampot province and the waters facing Vietnam’s Phu Quoc Island.
 
 The reason is practical rather than mysterious. The Gulf of Thailand combines:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -287,7 +285,6 @@ Several features of Cambodia’s coastline make misidentification more likely th
 
 At night, lights over water are difficult to judge accurately because:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * there are few visual reference points,
@@ -306,7 +303,6 @@ Sihanoukville has become more prominent in online UFO discussion during the last
 
 Modern drone usage is especially relevant. Consumer drones equipped with LEDs can appear highly unusual when viewed from beaches or boats at night:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * hovering motion appears unnatural,
@@ -319,7 +315,6 @@ Many online Cambodian UFO clips from coastal areas show exactly these characteri
 
 The coastal regions therefore generate repeated UFO claims not because they produce stronger evidence, but because they create observation conditions where ordinary explanations are harder to confirm quickly.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1-oShBroXyg" title="LIVE: Thailand-Cambodia Clashes Explained | Preah Vihear Temple Attacked | Vantage with Palki Sharma" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1-oShBroXyg" target="_blank" rel="noopener noreferrer">LIVE: Thailand-Cambodia Clashes Explained | Preah Vihear Temple Attacked | Vantage with Palki Sharma</a></p><p class="youtube-embed-meta">Channel: Firstpost &middot; Views: 11.4K &middot; Uploaded: July 2025 &middot; Length: 7 hours 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1-oShBroXyg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1-oShBroXyg">Open on YouTube</a></p></div></div></div>
 
 ## Remote Provinces and Limited Investigation
@@ -327,7 +322,6 @@ The coastal regions therefore generate repeated UFO claims not because they prod
 Cambodia’s northern and western provinces form a second major environment behind UFO claims. Regions such as Preah Vihear, Oddar Meanchey, Mondulkiri, and Ratanakiri are sparsely populated, heavily forested in places, and historically linked to military or border activity.
 
 These areas share several characteristics:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -346,7 +340,6 @@ A useful example came from Preah Vihear province in 2018, when villagers reporte
 
 The pattern repeated elements seen in the 2008 coastal incident:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. witnesses observed something unusual,
@@ -357,7 +350,6 @@ The pattern repeated elements seen in the 2008 coastal incident:
 </div>
 
 Without laboratory analysis, radar tracking, or official technical reports, the case remained unresolved in the literal sense while still offering little support for extraordinary claims.
-
 
 <img src="{{ "/assets/images/Cambodia_314ccd_cambodia_ufo_hotspot_cd65cf-Illustration-2-dark.svg" | relative_url }}" alt="Hotspots illustration 2" data-theme-src-dark="{{ "/assets/images/Cambodia_314ccd_cambodia_ufo_hotspot_cd65cf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cambodia_314ccd_cambodia_ufo_hotspot_cd65cf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Border regions and military uncertainty
@@ -372,7 +364,6 @@ Historical conflict also matters. Border areas around Preah Vihear have experien
 
 In practical terms, this means some Cambodian UFO stories emerge from areas where:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * military aircraft operate intermittently,
@@ -382,7 +373,6 @@ In practical terms, this means some Cambodian UFO stories emerge from areas wher
 </div>
 
 That combination naturally sustains long-term ambiguity.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jd-jMeA4vgY" title="UFO LOCATION SPOTTED IN CAMBODIA!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jd-jMeA4vgY" target="_blank" rel="noopener noreferrer">UFO LOCATION SPOTTED IN CAMBODIA!</a></p><p class="youtube-embed-meta">Channel: Tom Trips Out &middot; Views: 451 &middot; Uploaded: April 2024 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jd-jMeA4vgY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jd-jMeA4vgY">Open on YouTube</a></p></div></div></div>
 
@@ -400,7 +390,6 @@ This kind of late-filed report is difficult to verify because:
 * supporting witnesses become difficult to locate,
 * and no physical evidence remains.
 
-
 <img src="{{ "/assets/images/Cambodia_314ccd_cambodia_ufo_hotspot_cd65cf-Illustration-3-dark.svg" | relative_url }}" alt="Hotspots illustration 3" data-theme-src-dark="{{ "/assets/images/Cambodia_314ccd_cambodia_ufo_hotspot_cd65cf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cambodia_314ccd_cambodia_ufo_hotspot_cd65cf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Angkor tourism and skywatching culture
 
@@ -417,7 +406,6 @@ In such conditions:
 can appear unusually vivid to travellers unfamiliar with local conditions.
 
 Internet-era UFO culture amplifies this further. Viral videos from Angkor or nearby countryside locations often circulate detached from their original context, encouraging speculative interpretations unsupported by evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/raeline.brady.1/posts/ufo-pod-emerging-from-a-cloud-portal-in-angkor-wat-temple-siem-reap-cambodia/10162946078112885/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">ufo pod emerging from a cloud portal in angkor wat temple siem reap cambodia</span><span class="citation-popover-snippet">Viral video of UFO sightings at Angkor Wat, March 2025 ￼.Read more...</span><span class="citation-popover-meta">Published: March 2025</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8z0qvR6ZjH8" title="What is this flying in Siem Reap, Cambodia? UFO?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8z0qvR6ZjH8" target="_blank" rel="noopener noreferrer">What is this flying in Siem Reap, Cambodia? UFO?</a></p><p class="youtube-embed-meta">Channel: Unapologetic Nomads &middot; Views: 956 &middot; Uploaded: December 2019 &middot; Length: 1 minute 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8z0qvR6ZjH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8z0qvR6ZjH8">Open on YouTube</a></p></div></div></div>
 
@@ -572,71 +560,75 @@ Cambodia’s “UFO hotspots” therefore reveal more about observation environm
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-search-grid">
+      <div class="fr-books-grid">
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Top pick</p>
-        <h4 class="fr-search-title">UFO poster</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books-series-television-gerry" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cambodia%27s+Border+Regions+Produce+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cambodia-s-border-regions-produce-ufo-stories-cambodia-s-border-regions-produce-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cambodia&#x27;s Border Regions Produce poster" data-ebay-reference="why-cambodia-s-border-regions-produce-ufo-stories-cambodia-s-border-regions-produce-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Cambodia Pnompenh Tourism Poster Print A3/A4"><img src="https://i.ebayimg.com/images/g/HnkAAOSwJJFfXpiK/s-l225.jpg" alt="Listing image for Vintage Cambodia Pnompenh Tourism Poster Print A3/A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cambodia%27s+Border+Regions+Produce+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cambodia-s-border-regions-produce-ufo-stories-cambodia-s-border-regions-produce-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cambodia&#x27;s Border Regions Produce poster" data-ebay-reference="why-cambodia-s-border-regions-produce-ufo-stories-cambodia-s-border-regions-produce-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Cambodia Pnompenh Tourism Poster Print A3/A4</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cambodia%27s+Border+Regions+Produce+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cambodia-s-border-regions-produce-ufo-stories-cambodia-s-border-regions-produce-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cambodia&#x27;s Border Regions Produce poster" data-ebay-reference="why-cambodia-s-border-regions-produce-ufo-stories-cambodia-s-border-regions-produce-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cambodia&#x27;s Border Regions Produce poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cambodia&#x27;s Border Regions Produce poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cambodia%27s+Border+Regions+Produce+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cambodia-s-border-regions-produce-ufo-stories-cambodia-s-border-regions-produce-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cambodia&#x27;s Border Regions Produce poster" data-ebay-reference="why-cambodia-s-border-regions-produce-ufo-stories-cambodia-s-border-regions-produce-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">alien art print</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cambodia%27s+Border+Regions+Produce+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cambodia-s-border-regions-produce-ufo-stories-cambodia-s-border-regions-produce-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cambodia&#x27;s Border Regions Produce poster" data-ebay-reference="why-cambodia-s-border-regions-produce-ufo-stories-cambodia-s-border-regions-produce-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Visit Cambodia Tourism Poster 2 Print A3/A4"><img src="https://i.ebayimg.com/images/g/V-oAAOSwcrNbcDQl/s-l225.jpg" alt="Listing image for Vintage Visit Cambodia Tourism Poster 2 Print A3/A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cambodia%27s+Border+Regions+Produce+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cambodia-s-border-regions-produce-ufo-stories-cambodia-s-border-regions-produce-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cambodia&#x27;s Border Regions Produce poster" data-ebay-reference="why-cambodia-s-border-regions-produce-ufo-stories-cambodia-s-border-regions-produce-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Visit Cambodia Tourism Poster 2 Print A3/A4</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cambodia%27s+Border+Regions+Produce+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cambodia-s-border-regions-produce-ufo-stories-cambodia-s-border-regions-produce-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cambodia&#x27;s Border Regions Produce poster" data-ebay-reference="why-cambodia-s-border-regions-produce-ufo-stories-cambodia-s-border-regions-produce-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cambodia&#x27;s Border Regions Produce poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cambodia&#x27;s Border Regions Produce poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cambodia%27s+Border+Regions+Produce+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cambodia-s-border-regions-produce-ufo-stories-cambodia-s-border-regions-produce-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cambodia&#x27;s Border Regions Produce poster" data-ebay-reference="why-cambodia-s-border-regions-produce-ufo-stories-cambodia-s-border-regions-produce-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">flying saucer model</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cambodia%27s+Border+Regions+Produce+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cambodia-s-border-regions-produce-ufo-stories-cambodia-s-border-regions-produce-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cambodia&#x27;s Border Regions Produce poster" data-ebay-reference="why-cambodia-s-border-regions-produce-ufo-stories-cambodia-s-border-regions-produce-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cambodia City Travel Poster | Contemporary illustration Art Print"><img src="https://i.ebayimg.com/images/g/3U8AAOSw7pdiswtJ/s-l225.jpg" alt="Listing image for Cambodia City Travel Poster | Contemporary illustration Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cambodia%27s+Border+Regions+Produce+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cambodia-s-border-regions-produce-ufo-stories-cambodia-s-border-regions-produce-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cambodia&#x27;s Border Regions Produce poster" data-ebay-reference="why-cambodia-s-border-regions-produce-ufo-stories-cambodia-s-border-regions-produce-poster" target="_blank" rel="sponsored noopener noreferrer">Cambodia City Travel Poster | Contemporary illustration Art Print</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cambodia%27s+Border+Regions+Produce+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cambodia-s-border-regions-produce-ufo-stories-cambodia-s-border-regions-produce-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cambodia&#x27;s Border Regions Produce poster" data-ebay-reference="why-cambodia-s-border-regions-produce-ufo-stories-cambodia-s-border-regions-produce-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cambodia&#x27;s Border Regions Produce poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cambodia&#x27;s Border Regions Produce poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cambodia%27s+Border+Regions+Produce+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cambodia-s-border-regions-produce-ufo-stories-cambodia-s-border-regions-produce-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cambodia&#x27;s Border Regions Produce poster" data-ebay-reference="why-cambodia-s-border-regions-produce-ufo-stories-cambodia-s-border-regions-produce-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-t-shirt-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-t-shirt-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">UFO t shirt</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-t-shirt-gerry-anderson-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-t-shirt-gerry-anderson-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cambodia%27s+Border+Regions+Produce+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cambodia-s-border-regions-produce-ufo-stories-cambodia-s-border-regions-produce-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cambodia&#x27;s Border Regions Produce poster" data-ebay-reference="why-cambodia-s-border-regions-produce-ufo-stories-cambodia-s-border-regions-produce-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cambodia Minimal Travel Poster"><img src="https://i.ebayimg.com/images/g/CwYAAOSwk8hmlUUz/s-l225.jpg" alt="Listing image for Cambodia Minimal Travel Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cambodia%27s+Border+Regions+Produce+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cambodia-s-border-regions-produce-ufo-stories-cambodia-s-border-regions-produce-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cambodia&#x27;s Border Regions Produce poster" data-ebay-reference="why-cambodia-s-border-regions-produce-ufo-stories-cambodia-s-border-regions-produce-poster" target="_blank" rel="sponsored noopener noreferrer">Cambodia Minimal Travel Poster</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cambodia%27s+Border+Regions+Produce+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cambodia-s-border-regions-produce-ufo-stories-cambodia-s-border-regions-produce-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cambodia&#x27;s Border Regions Produce poster" data-ebay-reference="why-cambodia-s-border-regions-produce-ufo-stories-cambodia-s-border-regions-produce-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Cambodia&#x27;s Border Regions Produce poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Cambodia&#x27;s Border Regions Produce poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Cambodia%27s+Border+Regions+Produce+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cambodia-s-border-regions-produce-ufo-stories-cambodia-s-border-regions-produce-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cambodia&#x27;s Border Regions Produce poster" data-ebay-reference="why-cambodia-s-border-regions-produce-ufo-stories-cambodia-s-border-regions-produce-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hotspots-23963f-why-cambodia-s-border-regions-produce-ufo-stories-cambodia-ufo-poster-book-books-series-television-gerry&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on eBay
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Cambodia%27s+Border+Regions+Produce+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-cambodia-s-border-regions-produce-ufo-stories-cambodia-s-border-regions-produce-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Cambodia&#x27;s Border Regions Produce poster" data-ebay-reference="why-cambodia-s-border-regions-produce-ufo-stories-cambodia-s-border-regions-produce-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -982,4 +974,4 @@ Cambodia’s “UFO hotspots” therefore reveal more about observation environm
    Title: pieces of ufo exploded in mid air over  
    Link: <a href="https://ki-media.blogspot.com/2008/05/pieces-of-ufo-exploded-in-mid-air-over.html" target="_blank" rel="noopener noreferrer nofollow">https://ki-media.blogspot.com/2008/05/pieces-of-ufo-exploded-in-mid-air-over.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pieces of the UFO exploded in mid-air over Kampot28 May 2008 — Wednesday, May 28, 2008. Pieces of the UFO exploded in mid-air over Kampot...</p></details>
-   Published: May 28, 2008  
+   Published: May 28, 2008

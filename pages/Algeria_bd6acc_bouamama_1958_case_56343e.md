@@ -245,7 +245,7 @@ next_link:
   permalink: /geography-effects/
   short_title: Geography Effects
   heading_title: How Does Geography Shape UFO Sightings in Algeria?
-date: '2026-06-11 14:22:51 '
+date: '2026-06-11 19:27:28 '
 header:
   og_image: /assets/images/Algeria_bd6acc_bouamama_1958_case_56343e-Illustration-1-social.jpg
   preview_image: /assets/images/Algeria_bd6acc_bouamama_1958_case_56343e-Illustration-1.webp
@@ -255,7 +255,6 @@ image: /assets/images/Algeria_bd6acc_bouamama_1958_case_56343e-Illustration-1-so
 ## Introduction
 
 The 1958 Bouamama Foreign Legion UFO case is one of the most discussed and disputed UFO reports connected to [Algeria]({{ 'algeria/' | relative_url }}). According to later retellings, a French Foreign Legion sentry stationed near Bouamama during the Algerian War encountered a gigantic hovering object in the early hours of the morning. The story became well known in French-language UFO literature because the witness was described as disciplined, psychologically stable and professionally trained to observe danger under combat conditions. Yet the case remains deeply controversial because almost every dramatic element rests on a single testimony recorded years after the event, with little surviving documentary support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thinkaboutitdocs.com/1958-enormous-ufo-seen-during-algerian-war/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thinkaboutitdocs.com">[Think About It Docs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thinkaboutitdocs.com</span><span class="citation-popover-snippet">Think About It Docs1958: Enormous UFO seen during Algerian WarApril 8, 2013 — No footprints, no marks, no alien material was found in the...</span><span class="citation-popover-meta">Published: April 8, 2013</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://worldufophotosandnews.org/?tag=algeria-ufo-close-encounter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldufophotosandnews.org">[World UFO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldufophotosandnews.org</span><span class="citation-popover-snippet">World UFO Photos and NewsTag Archives: ALGERIA UFO CLOSE ENCOUNTER26 Aug 2023 — An extraordinary UFO sighting was reported one night in M...</span></span></span> Photos and News
-
 
 <img src="{{ "/assets/images/Algeria_bd6acc_bouamama_1958_case_56343e-Illustration-1-dark.svg" | relative_url }}" alt="Bouamama 1958 illustration 1" data-theme-src-dark="{{ "/assets/images/Algeria_bd6acc_bouamama_1958_case_56343e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Algeria_bd6acc_bouamama_1958_case_56343e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 What makes the Bouamama account important in Algerian UFO history is not the strength of its physical evidence, which is weak, but the tension between witness credibility and investigative gaps. The incident sits at the intersection of war-zone stress, memory reconstruction, folklore growth and Cold War-era fascination with unidentified aerial phenomena. For researchers of Algerian UFO claims, it is less a solved mystery than a case study in how extraordinary narratives emerge from sparse records.
@@ -278,7 +277,6 @@ The most difficult aspect of the Bouamama story is scale. If the witness estimat
 
 This creates a major contradiction at the centre of the case:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The witness is presented as disciplined and sincere.
@@ -299,7 +297,6 @@ The Bouamama encounter became better known through later UFO publications rather
 
 This delay matters because memory reliability declines over time, especially after emotionally charged experiences. Historians of anomalous claims often distinguish between:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * reports recorded immediately after an event;
@@ -312,7 +309,6 @@ The Bouamama narrative largely survives in the third category. Many modern websi
 
 This is one reason why the case has remained famous despite weak evidence. The story possesses several features that strongly attract UFO researchers:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * a military witness;
@@ -324,7 +320,6 @@ This is one reason why the case has remained famous despite weak evidence. The s
 </div>
 
 These elements make the case memorable even though its evidential foundation is narrow.
-
 
 <img src="{{ "/assets/images/Algeria_bd6acc_bouamama_1958_case_56343e-Illustration-2-dark.svg" | relative_url }}" alt="Bouamama 1958 illustration 2" data-theme-src-dark="{{ "/assets/images/Algeria_bd6acc_bouamama_1958_case_56343e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Algeria_bd6acc_bouamama_1958_case_56343e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Skeptical Analysis and Alternative Explanations
@@ -343,7 +338,6 @@ Humans are notoriously poor at estimating size and distance in darkness, particu
 
 This is especially relevant in Algeria’s sparsely populated interior, where moonlight, dry air and open terrain can produce unusual visual impressions. Similar problems affected many Cold War-era UFO reports worldwide.
 
-
 <img src="{{ "/assets/images/Algeria_bd6acc_bouamama_1958_case_56343e-Illustration-3-dark.svg" | relative_url }}" alt="Bouamama 1958 illustration 3" data-theme-src-dark="{{ "/assets/images/Algeria_bd6acc_bouamama_1958_case_56343e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Algeria_bd6acc_bouamama_1958_case_56343e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Folklore Expansion
 
@@ -356,7 +350,6 @@ As the story circulated through UFO culture, the lack of documentation paradoxic
 Despite its weaknesses, the Bouamama case remains significant because it illustrates the character of Algeria’s UFO record more broadly. Unlike countries with large civilian UFO archives or formal investigative bodies, Algeria’s historical cases are fragmented, often preserved indirectly through foreign military, intelligence or UFO publications.
 
 The Bouamama report also reflects the unusual conditions of late-colonial Algeria:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -485,71 +478,59 @@ That unresolved tension explains why Bouamama has endured for decades. It is nei
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-search-grid">
+      <div class="fr-books-grid">
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bouamama-1958-how-credible-is-the-1958-bouamama-ufo-encounter-algeria-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="bouamama-1958-how-credible-is-the-1958-bouamama-ufo-encounter-algeria-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Top pick</p>
-        <h4 class="fr-search-title">UFO poster</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bouamama-1958-how-credible-is-the-1958-bouamama-ufo-encounter-algeria-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="bouamama-1958-how-credible-is-the-1958-bouamama-ufo-encounter-algeria-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-the-1958-bouamama-ufo-encounter-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster" data-ebay-reference="how-credible-is-the-1958-bouamama-ufo-encounter-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO POSTER PRINT A4 (2 )"><img src="https://i.ebayimg.com/images/g/lvYAAOSwNGBmBCYi/s-l225.jpg" alt="Listing image for UFO POSTER PRINT A4 (2 )" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-the-1958-bouamama-ufo-encounter-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster" data-ebay-reference="how-credible-is-the-1958-bouamama-ufo-encounter-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer">UFO POSTER PRINT A4 (2 )</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-the-1958-bouamama-ufo-encounter-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster" data-ebay-reference="how-credible-is-the-1958-bouamama-ufo-encounter-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Most Notable UFO Sightings poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Most Notable UFO Sightings poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-the-1958-bouamama-ufo-encounter-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster" data-ebay-reference="how-credible-is-the-1958-bouamama-ufo-encounter-most-notable-ufo-sightings-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bouamama-1958-how-credible-is-the-1958-bouamama-ufo-encounter-algeria-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="bouamama-1958-how-credible-is-the-1958-bouamama-ufo-encounter-algeria-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien art print on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20art%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Art%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien art print on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">alien art print</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Art</span><span class="fr-search-tag">Print</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+art+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bouamama-1958-how-credible-is-the-1958-bouamama-ufo-encounter-algeria-alien-art-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien art print -book -books" data-ebay-reference="bouamama-1958-how-credible-is-the-1958-bouamama-ufo-encounter-algeria-alien-art-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-the-1958-bouamama-ufo-encounter-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster" data-ebay-reference="how-credible-is-the-1958-bouamama-ufo-encounter-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO POSTER PRINT A4 (3 )"><img src="https://i.ebayimg.com/images/g/aOcAAOSwYP1mBCaS/s-l225.jpg" alt="Listing image for UFO POSTER PRINT A4 (3 )" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-the-1958-bouamama-ufo-encounter-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster" data-ebay-reference="how-credible-is-the-1958-bouamama-ufo-encounter-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer">UFO POSTER PRINT A4 (3 )</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-the-1958-bouamama-ufo-encounter-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster" data-ebay-reference="how-credible-is-the-1958-bouamama-ufo-encounter-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Most Notable UFO Sightings poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Most Notable UFO Sightings poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-the-1958-bouamama-ufo-encounter-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster" data-ebay-reference="how-credible-is-the-1958-bouamama-ufo-encounter-most-notable-ufo-sightings-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bouamama-1958-how-credible-is-the-1958-bouamama-ufo-encounter-algeria-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="bouamama-1958-how-credible-is-the-1958-bouamama-ufo-encounter-algeria-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open flying saucer model on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20flying%20saucer%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFlying%20Saucer%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFlying%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESaucer%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for flying saucer model on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">flying saucer model</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Flying</span><span class="fr-search-tag">Saucer</span><span class="fr-search-tag">Model</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bouamama-1958-how-credible-is-the-1958-bouamama-ufo-encounter-algeria-flying-saucer-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer model" data-ebay-reference="bouamama-1958-how-credible-is-the-1958-bouamama-ufo-encounter-algeria-flying-saucer-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
-      </div>
-    </article>
-
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bouamama-1958-how-credible-is-the-1958-bouamama-ufo-encounter-algeria-ufo-t-shirt-gerry-anderson-series-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="bouamama-1958-how-credible-is-the-1958-bouamama-ufo-encounter-algeria-ufo-t-shirt-gerry-anderson-series-television-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">UFO t shirt</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bouamama-1958-how-credible-is-the-1958-bouamama-ufo-encounter-algeria-ufo-t-shirt-gerry-anderson-series-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="bouamama-1958-how-credible-is-the-1958-bouamama-ufo-encounter-algeria-ufo-t-shirt-gerry-anderson-series-television-band" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-the-1958-bouamama-ufo-encounter-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster" data-ebay-reference="how-credible-is-the-1958-bouamama-ufo-encounter-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO POSTER PRINT A4 (2 )"><img src="https://i.ebayimg.com/images/g/07IAAOSw0-1mBCYB/s-l225.jpg" alt="Listing image for UFO POSTER PRINT A4 (2 )" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-the-1958-bouamama-ufo-encounter-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster" data-ebay-reference="how-credible-is-the-1958-bouamama-ufo-encounter-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer">UFO POSTER PRINT A4 (2 )</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-the-1958-bouamama-ufo-encounter-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster" data-ebay-reference="how-credible-is-the-1958-bouamama-ufo-encounter-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Most Notable UFO Sightings poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Most Notable UFO Sightings poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-the-1958-bouamama-ufo-encounter-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster" data-ebay-reference="how-credible-is-the-1958-bouamama-ufo-encounter-most-notable-ufo-sightings-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bouamama-1958-how-credible-is-the-1958-bouamama-ufo-encounter-algeria-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on eBay
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Most+Notable+UFO+Sightings+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-the-1958-bouamama-ufo-encounter-most-notable-ufo-sightings-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Most Notable UFO Sightings poster" data-ebay-reference="how-credible-is-the-1958-bouamama-ufo-encounter-most-notable-ufo-sightings-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
