@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /burundi-461758-index/
 description: Focused pages that expand on What Is Really Known About Burundi UFOs?.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: Burundi_461758
 parent_title: What Is Really Known About Burundi UFOs?

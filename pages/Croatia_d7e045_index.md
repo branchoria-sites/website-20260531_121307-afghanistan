@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /croatia-d7e045-index/
 description: Focused pages that expand on What Croatia’s UFO Records Reveal About....
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: Croatia_d7e045
 parent_title: What Croatia’s UFO Records Reveal About...

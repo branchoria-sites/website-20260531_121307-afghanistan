@@ -23,7 +23,7 @@ sidebar_expanded_urls:
 - /what-really-happened-in-australias-ufo/
 nav_short_title: Westall
 title: Why Westall Still Grips Australian UFO Readers
-title_full: Why Westall Still Grips Australian UFO Readers | Australia UFOs
+title_full: Why Westall Still Grips Australian UFO Readers
 display_title_short: Westall
 display_title: Westall
 heading_title: Why Westall Still Grips Australian UFO Readers
@@ -239,7 +239,7 @@ prev_link:
   permalink: /valentich/
   short_title: Valentich
   heading_title: 'The Valentich Case: UFO Mystery or Aviation Tragedy?'
-date: '2026-06-10 01:39:40 '
+date: '2026-06-11 14:23:37 '
 header:
   og_image: /assets/images/Australia_ceafb5_westall_mass_witness_503b4e-Illustration-1-social.jpg
   preview_image: /assets/images/Australia_ceafb5_westall_mass_witness_503b4e-Illustration-1.webp
@@ -265,9 +265,6 @@ Eyewitness accounts from Westall converge on a striking pattern: on a clear autu
 
 Fellow witness Ken Stallard remembered the craft as “large, easily visible, circular, silver” — a description consistent across many accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.abc.net.au/news/2026-04-06/the-westall-ufo-mystery-/106528518" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News The Westall UFO Mystery</span><span class="citation-popover-snippet">ABC NewsThe Westall UFO Mystery - ABC News...</span></span></span>
 * **Teacher testimony:** Science teacher Andrew Greenwood, initially sceptical of UFO claims, ran outside with students and observed the object directly; decades later he affirmed the details of what he saw and maintained that his account remained unchanged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.searchufos.com/cases/westall-ufo-1966.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: searchufos.com">[searchufos.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">searchufos.com</span><span class="citation-popover-title">Westall UFO Landing — UFO Case File</span><span class="citation-popover-snippet">April 6, 1966...</span><span class="citation-popover-meta">Published: April 6, 1966</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PjbTJIrMfsg" title="Phenom Westall &#x27;66 - A Suburban UFO Mystery | HS Documentary." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PjbTJIrMfsg" target="_blank" rel="noopener noreferrer">Phenom Westall &#x27;66 - A Suburban UFO Mystery | HS Documentary.</a></p><p class="youtube-embed-meta">Channel: HS Documentary.</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PjbTJIrMfsg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PjbTJIrMfsg">Open on YouTube</a></p></div></div></div>
 
 ## Movement, Duration and Group Observation
 
@@ -299,9 +296,6 @@ Beyond sighting descriptions, many witnesses recall **institutional responses th
 
 These recollections have become part of the collective memory of Westall, even as they reflect an absence of **public‑facing documentation** from defence or government archives that would definitively confirm or explain these interactions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.abc.net.au/news/2026-04-06/the-westall-ufo-mystery-/106528518" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News The Westall UFO Mystery</span><span class="citation-popover-snippet">ABC NewsThe Westall UFO Mystery - ABC News...</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
 ## Why the Witness Evidence Matters
 
 The Westall incident is often described as Australia’s **largest mass UFO sighting** precisely because of the number and detail of independent witnesses who came forward, both in 1966 and in **retrospective testimonials** provided decades later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Westall UFO</span><span class="citation-popover-snippet">Westall UFO</span></span></span>
@@ -310,14 +304,14 @@ This accumulation of first‑hand evidence — from schoolchildren, educators, a
 
 Yet without robust official documentation and preserved contemporaneous records — such as photographs, government reports, or physical samples — interpretations remain contested, and the **mass witness evidence remains central** to why Westall continues to capture public attention and specialist interest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.abc.net.au/news/2026-04-06/the-westall-ufo-mystery-/106528518" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News The Westall UFO Mystery</span><span class="citation-popover-snippet">ABC NewsThe Westall UFO Mystery - ABC News...</span></span></span>
 
+
+<img src="{{ "/assets/images/Australia_ceafb5_westall_mass_witness_503b4e-Illustration-3-dark.svg" | relative_url }}" alt="Westall illustration 3" data-theme-src-dark="{{ "/assets/images/Australia_ceafb5_westall_mass_witness_503b4e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Australia_ceafb5_westall_mass_witness_503b4e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Debate on Eyewitness Reliability
 
 While witness testimony is compelling in volume and detail, scholars and sceptics caution that **human memory can be fallible**, especially across decades. Some argue that social reinforcement, cultural context, and the passage of time can shape recollections in ways that make uniform narratives seem more consistent than they were at the moment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.abc.net.au/news/2026-04-06/the-westall-ufo-mystery-/106528518" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News The Westall UFO Mystery</span><span class="citation-popover-snippet">ABC NewsThe Westall UFO Mystery - ABC News...</span></span></span>
 
 Still, for many former Westall students and staff, the strength of collective recollection — across generations of interviews and memoirs — is a key reason they believe their accounts deserve formal investigation rather than dismissal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.abc.net.au/news/2026-04-06/the-westall-ufo-mystery-/106528518" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc.net.au">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc.net.au</span><span class="citation-popover-title">ABC News The Westall UFO Mystery</span><span class="citation-popover-snippet">ABC NewsThe Westall UFO Mystery - ABC News...</span></span></span>
 
-
-<img src="{{ "/assets/images/Australia_ceafb5_westall_mass_witness_503b4e-Illustration-3-dark.svg" | relative_url }}" alt="Westall illustration 3" data-theme-src-dark="{{ "/assets/images/Australia_ceafb5_westall_mass_witness_503b4e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Australia_ceafb5_westall_mass_witness_503b4e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Summary of Mass Witness Evidence
 
 In the broader landscape of Australian UFO cases, the Westall incident stands out for **how many people saw something unusual and persisted in recounting what they saw**:
@@ -334,49 +328,87 @@ In the broader landscape of Australian UFO cases, the Westall incident stands ou
 
 In the absence of complete official records, it is this **mass witness testimony — consistent, detailed, and enduring — that forms the core of what remains an unsolved and widely debated phenomenon** in Australia’s UFO history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Westall_UFO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Westall UFO</span><span class="citation-popover-snippet">Westall UFO</span></span></span>
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DZP-x4Ko_JI" title="Australia’s Biggest UFO Cover-Up | The Westall Incident (1966)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DZP-x4Ko_JI" target="_blank" rel="noopener noreferrer">Australia’s Biggest UFO Cover-Up | The Westall Incident (1966)</a></p><p class="youtube-embed-meta">Channel: Project Unknown: Field Files</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DZP-x4Ko_JI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DZP-x4Ko_JI">Open on YouTube</a></p></div></div></div>
-
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Why Westall Still Grips Australian UFO Readers, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Why Westall Still Grips Australian UFO Readers. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        
+        <p class="fr-book-desc">Examines patterns found in large-scale sighting reports.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">scientific UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Provides broader context for major witness cases.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+        </h4>
+        <p class="fr-book-author">By Carl Sagan</p>
+        
+        <p class="fr-book-desc">Helps readers assess witness testimony and extraordinary claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience, A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience, A Scientific Inquiry">The UFO Experience, A Scientific Inquiry</a>
+        </h4>
+        <p class="fr-book-author">By J. Allen Hynek</p>
+        
+        <p class="fr-book-desc">First published 1972.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience%2C+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -413,7 +445,7 @@ In the absence of complete official records, it is this **mass witness testimony
       <div class="fr-search-grid">
 
     <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=westall-why-westall-still-grips-australian-ufo-readers-australia-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="westall-why-westall-still-grips-australian-ufo-readers-australia-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=westall-why-westall-still-grips-australian-ufo-readers-australia-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="westall-why-westall-still-grips-australian-ufo-readers-australia-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
         <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
       </a>
       <div class="fr-search-info">
@@ -421,7 +453,7 @@ In the absence of complete official records, it is this **mass witness testimony
         <h4 class="fr-search-title">UFO poster</h4>
         <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
         <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=westall-why-westall-still-grips-australian-ufo-readers-australia-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="westall-why-westall-still-grips-australian-ufo-readers-australia-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=westall-why-westall-still-grips-australian-ufo-readers-australia-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="westall-why-westall-still-grips-australian-ufo-readers-australia-ufo-poster-book-books-series-television-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
           Browse eBay
         </a>
       </div>
@@ -458,7 +490,7 @@ In the absence of complete official records, it is this **mass witness testimony
     </article>
 
     <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=westall-why-westall-still-grips-australian-ufo-readers-australia-ufo-t-shirt-gerry-anderson-series-television-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="westall-why-westall-still-grips-australian-ufo-readers-australia-ufo-t-shirt-gerry-anderson-series-television-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=westall-why-westall-still-grips-australian-ufo-readers-australia-ufo-t-shirt-gerry-anderson-series-television-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="westall-why-westall-still-grips-australian-ufo-readers-australia-ufo-t-shirt-gerry-anderson-series-television-band-conce" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
         <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
       </a>
       <div class="fr-search-info">
@@ -466,14 +498,14 @@ In the absence of complete official records, it is this **mass witness testimony
         <h4 class="fr-search-title">UFO t shirt</h4>
         <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
         <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=westall-why-westall-still-grips-australian-ufo-readers-australia-ufo-t-shirt-gerry-anderson-series-television-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="westall-why-westall-still-grips-australian-ufo-readers-australia-ufo-t-shirt-gerry-anderson-series-television-band-conce" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=westall-why-westall-still-grips-australian-ufo-readers-australia-ufo-t-shirt-gerry-anderson-series-television-band-conce&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="westall-why-westall-still-grips-australian-ufo-readers-australia-ufo-t-shirt-gerry-anderson-series-television-band-conce" target="_blank" rel="sponsored noopener noreferrer">
           Browse eBay
         </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=westall-why-westall-still-grips-australian-ufo-readers-australia-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=westall-why-westall-still-grips-australian-ufo-readers-australia-ufo-poster-book-books-series-television-gerry-anderson&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>

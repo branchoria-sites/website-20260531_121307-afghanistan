@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /kyrgyzstan-c78791-index/
 description: Focused pages that expand on What Really Explains Kyrgyzstan's UFO....
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: Kyrgyzstan_c78791
 parent_title: What Really Explains Kyrgyzstan's UFO...

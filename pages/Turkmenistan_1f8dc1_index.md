@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /turkmenistan-1f8dc1-index/
 description: Focused pages that expand on What Is Really Known About Turkmenistan....
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: Turkmenistan_1f8dc1
 parent_title: What Is Really Known About Turkmenistan...

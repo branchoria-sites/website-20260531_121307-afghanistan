@@ -23,7 +23,7 @@ sidebar_expanded_urls:
 - /what-makes-perus-ufo-story-so/
 nav_short_title: Debunked Claims
 title: Where Peru's Alien Claims Fall Apart
-title_full: Where Peru's Alien Claims Fall Apart | Peru UFOs
+title_full: Where Peru's Alien Claims Fall Apart
 display_title_short: Debunked Claims
 display_title: Debunked Claims
 heading_title: Where Peru's Alien Claims Fall Apart
@@ -245,7 +245,7 @@ next_link:
   permalink: /difaa/
   short_title: DIFAA
   heading_title: What Peru's UFO Office Actually Did
-date: '2026-06-10 02:03:55 '
+date: '2026-06-11 14:39:33 '
 header:
   og_image: /assets/images/Peru_36c572_debunked_alien_claim_3ec45a-Illustration-1-social.jpg
   preview_image: /assets/images/Peru_36c572_debunked_alien_claim_3ec45a-Illustration-1.webp
@@ -254,7 +254,7 @@ image: /assets/images/Peru_36c572_debunked_alien_claim_3ec45a-Illustration-1-soc
 
 ## Introduction
 
-Peru’s Nazca region sits at the intersection of archaeology, tourism, UFO culture, internet conspiracy theories and outright fraud. Few places on Earth have been pulled more aggressively into alien narratives. The Nazca Lines are frequently presented as evidence of extraterrestrial visitors, while the so-called “alien mummies” promoted in recent years became one of the most widely circulated UFO stories in the Spanish-speaking world. Yet the strongest available evidence points in a different direction: the geoglyphs are products of ancient human cultures, and many of the most sensational mummy claims have been challenged or directly debunked by forensic and archaeological investigations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/nazca-lines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Nazca Lines</span><span class="citation-popover-snippet">Nazca Lines - Peru, Astronaut &amp; DefinitionDec 4, 2017 — The Nazca Lines are a collection of giant geoglyphs—designs or motifs etch...</span></span></span>
+Perus Nazca region sits at the intersection of archaeology, tourism, UFO culture, internet conspiracy theories and outright fraud. Few places on Earth have been pulled more aggressively into alien narratives. The Nazca Lines are frequently presented as evidence of extraterrestrial visitors, while the so-called alien mummies promoted in recent years became one of the most widely circulated UFO stories in the Spanish-speaking world. Yet the strongest available evidence points in a different direction: the geoglyphs are products of ancient human cultures, and many of the most sensational mummy claims have been challenged or directly debunked by forensic and archaeological investigations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/articles/nazca-lines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Nazca Lines</span><span class="citation-popover-snippet">Nazca Lines - Peru, Astronaut &amp; DefinitionDec 4, 2017  The Nazca Lines are a collection of giant geoglyphsdesigns or motifs etch...</span></span></span>
 
 
 <img src="{{ "/assets/images/Peru_36c572_debunked_alien_claim_3ec45a-Illustration-1-dark.svg" | relative_url }}" alt="Debunked Claims illustration 1" data-theme-src-dark="{{ "/assets/images/Peru_36c572_debunked_alien_claim_3ec45a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Peru_36c572_debunked_alien_claim_3ec45a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -279,11 +279,11 @@ These gaps in public understanding created fertile ground for ancient-astronaut 
 
 The problem is that none of those claims is required to explain the site. Archaeologists have documented how the lines were created using simple but effective techniques: removing darker surface stones exposed lighter soil beneath, producing visible designs that survive in the dry desert climate. Experimental archaeology has repeatedly shown that large figures can be laid out using ropes, stakes and basic surveying methods without advanced technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Peru" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">PeruPeru has a population of over 32 million, and its capital and largest city is Lima. At 1,285,216 km 2 (496,225 sq mi), Peru is the...</span></span></span>
 
-### The “only visible from the air” myth
+### The only visible from the air myth
 
 One of the most persistent alien arguments is that the Nazca Lines could only be seen from the sky and therefore must have been designed for flying beings.
 
-This claim is misleading. While aircraft provide the most dramatic views, many geoglyphs can be observed from surrounding hills, ridges and elevated terrain. Researchers have long argued that the Nazca people did not need aeroplanes to design or appreciate large-scale figures. Some geoglyphs were also positioned in ways that connected them to ceremonial routes, landscape features and ritual spaces rather than hypothetical flight paths. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thearchaeologist.org/blog/from-the-earth-not-the-sky-debunking-extraterrestrial-theories-of-the-nazca-lines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thearchaeologist.org">[The Archaeologist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thearchaeologist.org</span><span class="citation-popover-snippet">The ArchaeologistDebunking Extraterrestrial Theories of the Nazca Lines27 Apr 2024 — This visibility refutes the more fantastical theorie...</span></span></span>
+This claim is misleading. While aircraft provide the most dramatic views, many geoglyphs can be observed from surrounding hills, ridges and elevated terrain. Researchers have long argued that the Nazca people did not need aeroplanes to design or appreciate large-scale figures. Some geoglyphs were also positioned in ways that connected them to ceremonial routes, landscape features and ritual spaces rather than hypothetical flight paths. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thearchaeologist.org/blog/from-the-earth-not-the-sky-debunking-extraterrestrial-theories-of-the-nazca-lines" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thearchaeologist.org">[The Archaeologist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thearchaeologist.org</span><span class="citation-popover-snippet">The ArchaeologistDebunking Extraterrestrial Theories of the Nazca Lines27 Apr 2024  This visibility refutes the more fantastical theorie...</span></span></span>
 
 Modern discoveries have reinforced this human-centred interpretation. Archaeologists using drones and artificial intelligence have identified hundreds of additional geoglyphs, many of them much smaller than the famous figures. These newly documented images often depict human activities, animals and symbolic scenes that fit naturally within known Andean cultural traditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2024/sep/26/nazca-lines-peru-new-geoglyphs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The team from Yamagata University in Japan, in partnership with IBM Research, identified these previously unknown geoglyphs depicting var...</span></span></span>
 
@@ -306,9 +306,9 @@ Archaeological research, by contrast, has generated testable findings:
 The more researchers learn about Nazca culture, the less necessary alien explanations become.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EILw-mKefew" title="Solving the Nazca Lines’ Ancient Archeological Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EILw-mKefew" target="_blank" rel="noopener noreferrer">Solving the Nazca Lines’ Ancient Archeological Mystery</a></p><p class="youtube-embed-meta">Channel: SciShow &middot; Views: 324.0K &middot; Uploaded: April 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EILw-mKefew" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EILw-mKefew">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EILw-mKefew" title="Solving the Nazca Lines Ancient Archeological Mystery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EILw-mKefew" target="_blank" rel="noopener noreferrer">Solving the Nazca Lines Ancient Archeological Mystery</a></p><p class="youtube-embed-meta">Channel: SciShow &middot; Views: 324.0K &middot; Uploaded: April 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EILw-mKefew" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EILw-mKefew">Open on YouTube</a></p></div></div></div>
 
-## The 2023–2024 “Alien Mummy” Controversy
+## The 20232024 Alien Mummy Controversy
 
 If the Nazca Lines represent Peru's longest-running alien narrative, the alleged Nazca mummies became its most explosive modern version.
 
@@ -322,9 +322,9 @@ The dispute quickly became less about UFOs and more about evidence quality.
 
 In January 2024, Peruvian forensic specialists publicly rejected claims that seized specimens represented extraterrestrial beings. According to analyses presented by Peru's prosecutor's office and forensic experts, several examined objects were assembled from terrestrial materials including paper, glue, metal, and a mixture of human and animal bones. Reuters <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/2ab059d55d3d0352e41ad2a4c312d1ed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News They&#x27;re not aliens</span><span class="citation-popover-snippet">That&#x27;s the verdict from Peru officials who seized 2 doll-like figuresPeruvian forensic experts have debunked claims that two doll-like fi...</span></span></span>
 
-Forensic archaeologist Flavio Estrada stated that the objects were not ancient alien remains but constructed dolls assembled with modern materials. Investigators highlighted synthetic glues and composite construction methods inconsistent with claims of genuine non-human biological bodies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/2ab059d55d3d0352e41ad2a4c312d1ed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News They&#x27;re not aliens</span><span class="citation-popover-snippet">That&#x27;s the verdict from Peru officials who seized 2 doll-like figuresPeruvian forensic experts have debunked claims that two doll-like fi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://globalnews.ca/news/10226698/peru-alien-corpses-human-animal-bones-glue/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">peru alien corpses human animal bones glue</span><span class="citation-popover-snippet">Totally made up story&#x27;: Mystery of Peru &#x27;alien&#x27; corpses...Jan 15, 2024 — Peru&#x27;s prosecutor&#x27;s office said the objects, which included tw...</span></span></span>
+Forensic archaeologist Flavio Estrada stated that the objects were not ancient alien remains but constructed dolls assembled with modern materials. Investigators highlighted synthetic glues and composite construction methods inconsistent with claims of genuine non-human biological bodies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/2ab059d55d3d0352e41ad2a4c312d1ed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News They&#x27;re not aliens</span><span class="citation-popover-snippet">That&#x27;s the verdict from Peru officials who seized 2 doll-like figuresPeruvian forensic experts have debunked claims that two doll-like fi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://globalnews.ca/news/10226698/peru-alien-corpses-human-animal-bones-glue/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalnews.ca">[Global News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalnews.ca</span><span class="citation-popover-title">peru alien corpses human animal bones glue</span><span class="citation-popover-snippet">Totally made up story&#x27;: Mystery of Peru &#x27;alien&#x27; corpses...Jan 15, 2024  Peru&#x27;s prosecutor&#x27;s office said the objects, which included tw...</span></span></span>
 
-The findings did not necessarily address every specimen ever promoted under the broader “Nazca mummies” label. That distinction is important. Various groups have discussed different bodies, scans and collections over several years. However, the investigations substantially weakened claims that the publicly promoted examples represented authenticated extraterrestrial organisms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/americas/scientists-assert-alien-mummies-peru-are-really-dolls-made-earthly-bones-2024-01-13/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Scientists assert &#x27;alien mummies&#x27; in Peru are really dolls...Jan 13, 2024 — A separate three-fingered hand believed to be from Pe...</span></span></span>
+The findings did not necessarily address every specimen ever promoted under the broader Nazca mummies label. That distinction is important. Various groups have discussed different bodies, scans and collections over several years. However, the investigations substantially weakened claims that the publicly promoted examples represented authenticated extraterrestrial organisms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/americas/scientists-assert-alien-mummies-peru-are-really-dolls-made-earthly-bones-2024-01-13/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Scientists assert &#x27;alien mummies&#x27; in Peru are really dolls...Jan 13, 2024  A separate three-fingered hand believed to be from Pe...</span></span></span>
 
 
 <img src="{{ "/assets/images/Peru_36c572_debunked_alien_claim_3ec45a-Illustration-2-dark.svg" | relative_url }}" alt="Debunked Claims illustration 2" data-theme-src-dark="{{ "/assets/images/Peru_36c572_debunked_alien_claim_3ec45a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Peru_36c572_debunked_alien_claim_3ec45a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -351,7 +351,7 @@ One of the most troubling aspects of the Nazca mummy controversy is that it inte
 
 The Nazca region contains thousands of vulnerable archaeological sites. For decades, tomb robbers, traffickers and black-market networks have targeted ancient remains and artefacts. When objects are removed from their original context, crucial information about age, purpose and authenticity is often lost permanently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/americas/alien-fever-dreams-fuel-peruvian-grave-robbings-2024-04-06/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-title">Alien fever dreams fuel Peruvian grave robbings</span><span class="citation-popover-snippet">Nazca, known for its ancient geoglyphs and archaeological significance, is prone to grave robbing. Rivera was convicted in 2022 for unear...</span></span></span>
 
-Reuters reported that some of the remains associated with alien narratives emerged from discoveries in caves and burial areas later connected to illegal excavation activity. Heritage specialists warned that sensational extraterrestrial claims can increase demand for questionable artefacts while distracting attention from the destruction of archaeological evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/americas/scientists-assert-alien-mummies-peru-are-really-dolls-made-earthly-bones-2024-01-13/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Scientists assert &#x27;alien mummies&#x27; in Peru are really dolls...Jan 13, 2024 — A separate three-fingered hand believed to be from Pe...</span></span></span>
+Reuters reported that some of the remains associated with alien narratives emerged from discoveries in caves and burial areas later connected to illegal excavation activity. Heritage specialists warned that sensational extraterrestrial claims can increase demand for questionable artefacts while distracting attention from the destruction of archaeological evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/world/americas/scientists-assert-alien-mummies-peru-are-really-dolls-made-earthly-bones-2024-01-13/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Scientists assert &#x27;alien mummies&#x27; in Peru are really dolls...Jan 13, 2024  A separate three-fingered hand believed to be from Pe...</span></span></span>
 
 This creates a feedback loop:
 
@@ -414,47 +414,89 @@ The strongest lessons from Peru's Nazca controversies are not about hidden alien
 
 Meanwhile, the actual archaeology remains fascinating on its own terms. The Nazca culture produced enormous landscape art visible across the desert, and researchers continue discovering previously unknown geoglyphs through modern technology. Those discoveries reveal a sophisticated human civilisation rather than evidence of extraterrestrial intervention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2024/sep/26/nazca-lines-peru-new-geoglyphs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The team from Yamagata University in Japan, in partnership with IBM Research, identified these previously unknown geoglyphs depicting var...</span></span></span>
 
-In the context of Peru's wider UFO history, Nazca serves as a cautionary example. Some Peruvian aerial cases remain debated or unresolved, but the country's most famous “alien” stories increasingly point toward a different conclusion: archaeology, folklore, media spectacle and heritage crime can create mysteries that appear extraterrestrial until closer examination reveals entirely human origins. Reuters <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/2ab059d55d3d0352e41ad2a4c312d1ed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News They&#x27;re not aliens</span><span class="citation-popover-snippet">That&#x27;s the verdict from Peru officials who seized 2 doll-like figuresPeruvian forensic experts have debunked claims that two doll-like fi...</span></span></span>
+In the context of Peru's wider UFO history, Nazca serves as a cautionary example. Some Peruvian aerial cases remain debated or unresolved, but the country's most famous alien stories increasingly point toward a different conclusion: archaeology, folklore, media spectacle and heritage crime can create mysteries that appear extraterrestrial until closer examination reveals entirely human origins. Reuters <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/2ab059d55d3d0352e41ad2a4c312d1ed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">AP News They&#x27;re not aliens</span><span class="citation-popover-snippet">That&#x27;s the verdict from Peru officials who seized 2 doll-like figuresPeruvian forensic experts have debunked claims that two doll-like fi...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Where Peru&#x27;s Alien Claims Fall Apart, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Where Peru&#x27;s Alien Claims Fall Apart. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+        </h4>
+        <p class="fr-book-author">By Carl Sagan</p>
+        
+        <p class="fr-book-desc">Addresses extraordinary claims and evidence assessment.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Frauds%2C+myths%2C+and+mysteries+Kenneth+L.+Feder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Frauds, myths, and mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/527319-M.jpg" alt="Cover for Frauds, myths, and mysteries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Frauds%2C+myths%2C+and+mysteries+Kenneth+L.+Feder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Frauds, myths, and mysteries">Frauds, myths, and mysteries</a>
+        </h4>
+        <p class="fr-book-author">By Kenneth L. Feder</p>
+        
+        <p class="fr-book-desc">First published 1990. Subjects: Forgery of antiquities, Archaeology, Arqueología, Archäologie, Irrtum.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Frauds%2C+myths%2C+and+mysteries+Kenneth+L.+Feder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Between+the+lines+Anthony+F.+Aveni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Between the lines on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/156309-M.jpg" alt="Cover for Between the lines" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Between+the+lines+Anthony+F.+Aveni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Between the lines">Between the lines</a>
+        </h4>
+        <p class="fr-book-author">By Anthony F. Aveni</p>
+        
+        <p class="fr-book-desc">First published 2000. Subjects: Antiquities, Peru, antiquities, Excavations (Archaeology).</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Between+the+lines+Anthony+F.+Aveni&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chariots of the gods? on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chariots of the gods?">Chariots of the gods?</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
+        
+        <p class="fr-book-desc">Central to the Nazca-as-alien-evidence narrative being examined and challenged.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Frauds%2C+myths%2C+and+mysteries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Frauds, myths, and mysteries</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Between+the+lines&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Between the lines</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -491,7 +533,7 @@ In the context of Peru's wider UFO history, Nazca serves as a cautionary example
       <div class="fr-search-grid">
 
     <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-claims-where-peru-s-alien-claims-fall-apart-peru-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="debunked-claims-where-peru-s-alien-claims-fall-apart-peru-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-claims-where-peru-s-alien-claims-fall-apart-peru-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="debunked-claims-where-peru-s-alien-claims-fall-apart-peru-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
         <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
       </a>
       <div class="fr-search-info">
@@ -499,7 +541,7 @@ In the context of Peru's wider UFO history, Nazca serves as a cautionary example
         <h4 class="fr-search-title">UFO poster</h4>
         <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
         <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-claims-where-peru-s-alien-claims-fall-apart-peru-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="debunked-claims-where-peru-s-alien-claims-fall-apart-peru-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-claims-where-peru-s-alien-claims-fall-apart-peru-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="debunked-claims-where-peru-s-alien-claims-fall-apart-peru-ufo-poster-book-books-series-television-gerry-anderson-band-co" target="_blank" rel="sponsored noopener noreferrer">
           Browse eBay
         </a>
       </div>
@@ -536,7 +578,7 @@ In the context of Peru's wider UFO history, Nazca serves as a cautionary example
     </article>
 
     <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-claims-where-peru-s-alien-claims-fall-apart-peru-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="debunked-claims-where-peru-s-alien-claims-fall-apart-peru-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-claims-where-peru-s-alien-claims-fall-apart-peru-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="debunked-claims-where-peru-s-alien-claims-fall-apart-peru-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
         <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
       </a>
       <div class="fr-search-info">
@@ -544,14 +586,14 @@ In the context of Peru's wider UFO history, Nazca serves as a cautionary example
         <h4 class="fr-search-title">UFO t shirt</h4>
         <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
         <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-claims-where-peru-s-alien-claims-fall-apart-peru-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="debunked-claims-where-peru-s-alien-claims-fall-apart-peru-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-claims-where-peru-s-alien-claims-fall-apart-peru-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="debunked-claims-where-peru-s-alien-claims-fall-apart-peru-ufo-t-shirt-gerry-anderson-series-television-band-concert-tour" target="_blank" rel="sponsored noopener noreferrer">
           Browse eBay
         </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-claims-where-peru-s-alien-claims-fall-apart-peru-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=debunked-claims-where-peru-s-alien-claims-fall-apart-peru-ufo-poster-book-books-series-television-gerry-anderson-band-co&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -768,7 +810,7 @@ In the context of Peru's wider UFO history, Nazca serves as a cautionary example
    Source: history.com  
    Title: Nazca Lines  
    Link: <a href="https://www.history.com/articles/nazca-lines" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/articles/nazca-lines</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nazca Lines - Peru, Astronaut &amp; DefinitionDec 4, 2017 — The Nazca Lines are a collection of giant geoglyphs—designs or motifs etch...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nazca Lines - Peru, Astronaut &amp; DefinitionDec 4, 2017  The Nazca Lines are a collection of giant geoglyphsdesigns or motifs etch...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
@@ -778,7 +820,7 @@ In the context of Peru's wider UFO history, Nazca serves as a cautionary example
 3. <a id="endnote-3"></a>
    Source: reuters.com  
    Link: <a href="https://www.reuters.com/world/americas/scientists-assert-alien-mummies-peru-are-really-dolls-made-earthly-bones-2024-01-13/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/world/americas/scientists-assert-alien-mummies-peru-are-really-dolls-made-earthly-bones-2024-01-13/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists assert &#x27;alien mummies&#x27; in Peru are really dolls...Jan 13, 2024 — A separate three-fingered hand believed to be from Pe...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientists assert &#x27;alien mummies&#x27; in Peru are really dolls...Jan 13, 2024  A separate three-fingered hand believed to be from Pe...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reuters.com  
@@ -794,24 +836,24 @@ In the context of Peru's wider UFO history, Nazca serves as a cautionary example
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Link: <a href="https://de.wikipedia.org/wiki/Peru" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Peru</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PeruBevölkerungsstruktur · Mestizen: 60,2 · Indigene: 25,8 · Weiße: 5,9 · Afroperuaner: 3,6 · Sonstige, darunter Peruaner asiatischer...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>PeruBevlkerungsstruktur  Mestizen: 60,2  Indigene: 25,8  Weie: 5,9  Afroperuaner: 3,6  Sonstige, darunter Peruaner asiatischer...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Jaime Maussan  
    Link: <a href="https://en.wikipedia.org/wiki/Jaime_Maussan" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jaime_Maussan</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jaime Maussan... Alien in Nazca, Peru?&quot;. Snopes. Archived from the original on 20 September 2023. Retrieved 7 August 2017. ↑ &quot;They&#x27;re...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jaime Maussan... Alien in Nazca, Peru?&quot;. Snopes. Archived from the original on 20 September 2023. Retrieved 7 August 2017.  &quot;They&#x27;re...</p></details>
    Published: September 2023  
 
 8. <a id="endnote-8"></a>
    Source: news.sky.com  
    Link: <a href="https://news.sky.com/story/mummified-alien-corpses-are-from-single-skeletons-and-were-not-assembled-mexican-doctors-say-12964858" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/mummified-alien-corpses-are-from-single-skeletons-and-were-not-assembled-mexican-doctors-say-12964858</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;alien corpses&#x27; are from single skeletons and...19 Sept 2023 — Academics, archaeologists, and scientists have said mummified remains tha...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;alien corpses&#x27; are from single skeletons and...19 Sept 2023  Academics, archaeologists, and scientists have said mummified remains tha...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: thearchaeologist.org  
    Link: <a href="https://www.thearchaeologist.org/blog/from-the-earth-not-the-sky-debunking-extraterrestrial-theories-of-the-nazca-lines" target="_blank" rel="noopener noreferrer nofollow">https://www.thearchaeologist.org/blog/from-the-earth-not-the-sky-debunking-extraterrestrial-theories-of-the-nazca-lines</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The ArchaeologistDebunking Extraterrestrial Theories of the Nazca Lines27 Apr 2024 — This visibility refutes the more fantastical theorie...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The ArchaeologistDebunking Extraterrestrial Theories of the Nazca Lines27 Apr 2024  This visibility refutes the more fantastical theorie...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: theguardian.com  
@@ -828,13 +870,13 @@ In the context of Peru's wider UFO history, Nazca serves as a cautionary example
    Source: globalnews.ca  
    Title: peru alien corpses human animal bones glue  
    Link: <a href="https://globalnews.ca/news/10226698/peru-alien-corpses-human-animal-bones-glue/" target="_blank" rel="noopener noreferrer nofollow">https://globalnews.ca/news/10226698/peru-alien-corpses-human-animal-bones-glue/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Totally made up story&#x27;: Mystery of Peru &#x27;alien&#x27; corpses...Jan 15, 2024 — Peru&#x27;s prosecutor&#x27;s office said the objects, which included tw...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Totally made up story&#x27;: Mystery of Peru &#x27;alien&#x27; corpses...Jan 15, 2024  Peru&#x27;s prosecutor&#x27;s office said the objects, which included tw...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reutersconnect.com  
    Title: d GFn On Jld XRlcn Mu Y29t LDIw Mj Q6bm V3c21s X1JDMkt HNUFEMFl FWg  
    Link: <a href="https://www.reutersconnect.com/item/a-picture-of-a-study-carried-out-by-the-institute-of-legal-medicine-of-peru-on-the-alien-mummies-that-concluded-that-they-are-dolls-made-with-animal-bones-is-displayed-in-lima/dGFnOnJldXRlcnMuY29tLDIwMjQ6bmV3c21sX1JDMktHNUFEMFlFWg" target="_blank" rel="noopener noreferrer nofollow">https://www.reutersconnect.com/item/a-picture-of-a-study-carried-out-by-the-institute-of-legal-medicine-of-peru-on-the-alien-mummies-that-concluded-that-they-are-dolls-made-with-animal-bones-is-displayed-in-lima/dGFnOnJldXRlcnMuY29tLDIwMjQ6bmV3c21sX1JDMktHNUFEMFlFWg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A picture of a study carried out by the Institute of Legal...12 Jan 2024 — A picture of a study carried out by the Institute of Legal Me...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A picture of a study carried out by the Institute of Legal...12 Jan 2024  A picture of a study carried out by the Institute of Legal Me...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reutersconnect.com  
@@ -853,13 +895,13 @@ In the context of Peru's wider UFO history, Nazca serves as a cautionary example
    Source: kuodatravel.com  
    Title: nazca lines  
    Link: <a href="https://www.kuodatravel.com/blog/nazca-lines/" target="_blank" rel="noopener noreferrer nofollow">https://www.kuodatravel.com/blog/nazca-lines/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Mysteries of the Nazca Lines: Peru&#x27;s Ancient...19 Nov 2024 — Alien Theories and Ancient Astronauts: Although less scientif...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the Mysteries of the Nazca Lines: Peru&#x27;s Ancient...19 Nov 2024  Alien Theories and Ancient Astronauts: Although less scientif...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pages.palomar.edu  
    Title: nazca lines  
    Link: <a href="https://pages.palomar.edu/mcastillo/peru-a-land-of-mountains-and-megalithic-walls/nazca-lines/" target="_blank" rel="noopener noreferrer nofollow">https://pages.palomar.edu/mcastillo/peru-a-land-of-mountains-and-megalithic-walls/nazca-lines/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Peru – the Nazca Lines | iTravel2LearnThe Nazca lines were originally discovered b Peruvian archaeologist Toribis Majia Xesspe in 1927...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Peru  the Nazca Lines | iTravel2LearnThe Nazca lines were originally discovered b Peruvian archaeologist Toribis Majia Xesspe in 1927...</p></details>
 
 ### Additional References
 
@@ -871,7 +913,7 @@ In the context of Peru's wider UFO history, Nazca serves as a cautionary example
 19. <a id="endnote-19"></a>
    Source: facebook.com  
    Link: <a href="https://www.facebook.com/groups/149844915349213/posts/2266891030311247/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/149844915349213/posts/2266891030311247/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking the Nazca Lines Alien Conspiracy TheoryDebunking the Nazca Lines Alien Conspiracy Theory. Fraudulent... Anderson Luis ▻ Ancien...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking the Nazca Lines Alien Conspiracy TheoryDebunking the Nazca Lines Alien Conspiracy Theory. Fraudulent... Anderson Luis  Ancien...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: thenews.com.pk  
@@ -886,7 +928,7 @@ In the context of Peru's wider UFO history, Nazca serves as a cautionary example
 22. <a id="endnote-22"></a>
    Source: reddit.com  
    Link: <a href="https://www.reddit.com/r/interestingasfuck/comments/17emvmr/the_nazca_lines_in_peru_seen_from_above_some/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/17emvmr/the_nazca_lines_in_peru_seen_from_above_some/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Nazca Lines in Peru seen from aboveNazca Mummies and Fingerprints of the Gods · Nazca Lines · 10,000-year-old rock paintings depictin...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Nazca Lines in Peru seen from aboveNazca Mummies and Fingerprints of the Gods  Nazca Lines  10,000-year-old rock paintings depictin...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: paranormalphenomena.medium.com  
@@ -897,13 +939,13 @@ In the context of Peru's wider UFO history, Nazca serves as a cautionary example
    Source: aa.com.tr  
    Title: questions arise over authenticity of alien corpses unveiled in mexican congress  
    Link: <a href="https://www.aa.com.tr/en/americas/questions-arise-over-authenticity-of-alien-corpses-unveiled-in-mexican-congress/2991697" target="_blank" rel="noopener noreferrer nofollow">https://www.aa.com.tr/en/americas/questions-arise-over-authenticity-of-alien-corpses-unveiled-in-mexican-congress/2991697</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Questions arise over authenticity of &#x27;alien&#x27; corpses unveiled...14 Sept 2023 — Instead, they were found in diatom (algae) mines and subs...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Questions arise over authenticity of &#x27;alien&#x27; corpses unveiled...14 Sept 2023  Instead, they were found in diatom (algae) mines and subs...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: itv.com  
    Title: aliens which sparked global debate are actually dolls say peru scientists  
    Link: <a href="https://www.itv.com/news/2024-01-12/aliens-which-sparked-global-debate-are-actually-dolls-say-peru-scientists" target="_blank" rel="noopener noreferrer nofollow">https://www.itv.com/news/2024-01-12/aliens-which-sparked-global-debate-are-actually-dolls-say-peru-scientists</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Aliens&#x27; which sparked global debate are actually dolls, say...12 Jan 2024 — A report by the Peruvian prosecutor&#x27;s office that year foun...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Aliens&#x27; which sparked global debate are actually dolls, say...12 Jan 2024  A report by the Peruvian prosecutor&#x27;s office that year foun...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
@@ -914,5 +956,5 @@ In the context of Peru's wider UFO history, Nazca serves as a cautionary example
    Source: geo.tv  
    Title: Peruvian 'alien mummies' unearthed at Lima airport are earthly dolls  
    Link: <a href="https://www.geo.tv/latest/526989-peruvian-alien-mummies-unearthed-at-lima-airport-are-earthly-dolls-scientists-reveal" target="_blank" rel="noopener noreferrer nofollow">https://www.geo.tv/latest/526989-peruvian-alien-mummies-unearthed-at-lima-airport-are-earthly-dolls-scientists-reveal</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 14, 2024 — Scientific analysis has debunked the mystery surrounding two &quot;alien mummies&quot; discovered at Lima airport in Peru last O...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 14, 2024  Scientific analysis has debunked the mystery surrounding two &quot;alien mummies&quot; discovered at Lima airport in Peru last O...</p></details>
    Published: January 14, 2024  

@@ -23,7 +23,7 @@ sidebar_expanded_urls:
 - /what-counts-as-a-south-sudan-ufo-case/
 nav_short_title: Juba Reports
 title: Why Do UFO Rumours Cluster Around Juba?
-title_full: Why Do UFO Rumours Cluster Around Juba? | South Sudan UFOs
+title_full: Why Do UFO Rumours Cluster Around Juba?
 display_title_short: Juba Reports
 display_title: Juba Reports
 heading_title: Why Do UFO Rumours Cluster Around Juba?
@@ -245,7 +245,7 @@ next_link:
   permalink: /regional-gaps/
   short_title: Regional Gaps
   heading_title: What Might Be Missing Outside Juba?
-date: '2026-06-10 02:08:24 '
+date: '2026-06-11 14:42:56 '
 header:
   og_image: /assets/images/South_Sudan_80ac9c_juba_sky_reports_6312a0-Illustration-1-social.jpg
   preview_image: /assets/images/South_Sudan_80ac9c_juba_sky_reports_6312a0-Illustration-1.webp
@@ -321,9 +321,6 @@ When an aircraft is approaching nearly head-on:
 Near Juba, this effect is especially relevant because aircraft routinely approach and depart from a major airport serving both civilian and humanitarian operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/South" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">SouthSouth is one of the cardinal directions or compass points. The direction is the opposite of north and is perpendicular to both we...</span></span></span>
 
 A witness who sees a bright light remaining in roughly the same position for several minutes may actually be watching an aircraft on approach rather than a stationary object.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q8pymWSKAPQ" title="Children talk about witnessing the 1994 UFO landing at the Ariel School in Ruwa, Zimbabwe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q8pymWSKAPQ" target="_blank" rel="noopener noreferrer">Children talk about witnessing the 1994 UFO landing at the Ariel School in Ruwa, Zimbabwe</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q8pymWSKAPQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q8pymWSKAPQ">Open on YouTube</a></p></div></div></div>
 
 ### Helicopters create unusual light patterns
 
@@ -412,9 +409,6 @@ people become more likely to interpret unusual lights through a security lens ra
 
 A bright object over Juba may therefore generate speculation about spying, military activity, or secret technology long before anyone checks flight records or astronomical data.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gxreSxkvETI" title="Barack Obama Asked if Aliens Were in Government Lab" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gxreSxkvETI" target="_blank" rel="noopener noreferrer">Barack Obama Asked if Aliens Were in Government Lab</a></p><p class="youtube-embed-meta">Channel: Inside Edition</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gxreSxkvETI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gxreSxkvETI">Open on YouTube</a></p></div></div></div>
-
 ## Why most public Juba reports remain weak evidence
 
 The main problem with available Juba UFO claims is not that they are definitely false. It is that they rarely contain enough information to support a strong conclusion either way.
@@ -460,9 +454,6 @@ An observation recorded to the minute allows investigators to compare it against
 
 Without precise timing, many ordinary explanations remain impossible to rule out.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rB6OQV2gD-E" title="The Proof Is Out There: UFO SPOTTED ON U.S. MILITARY BASE (Season 2) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rB6OQV2gD-E" target="_blank" rel="noopener noreferrer">The Proof Is Out There: UFO SPOTTED ON U.S. MILITARY BASE (Season 2) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rB6OQV2gD-E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rB6OQV2gD-E">Open on YouTube</a></p></div></div></div>
-
 ### Original media files
 
 Investigators need access to unedited photographs or videos.
@@ -489,44 +480,86 @@ The strongest cases are not those that merely look strange. They are the ones th
 The available evidence suggests that Juba's role in South Sudan UFO reporting is primarily a product of visibility rather than a demonstrated concentration of anomalous phenomena. The city combines dense population, active airspace, humanitarian aviation, military and security activity, expanding night operations, and a highly networked media environment. Those conditions are ideal for generating reports of unusual lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.radiotamazuj.org/en/news/article/juba-airport-upgrades-night-flights-reshape-travel-landscape" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: radiotamazuj.org">[Radio Tamazuj]</a><span class="citation-popover" role="note"><span class="citation-popover-source">radiotamazuj.org</span><span class="citation-popover-title">Radio Tamazuj Juba airport upgrades, night flights reshape travel landscape</span><span class="citation-popover-snippet">Radio TamazujJuba airport upgrades, night flights reshape travel landscapeApril 30, 2026 — 30 Apr 2026 — Stakeholders say the introductio...</span><span class="citation-popover-meta">Published: April 30, 2026</span></span></span> Wikipedia That does not mean every sighting is explained. It means that ordinary explanations deserve priority until stronger evidence appears. For now <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Juba_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Juba International Airport</span><span class="citation-popover-snippet">Juba International Airport</span></span></span>, Juba's UFO reputation says more about where South Sudan's observations are recorded and shared than about the existence of a verified unexplained aerial phenomenon over the capital. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sscaa.gov.ss/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sscaa.gov.ss">[SSCAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sscaa.gov.ss</span><span class="citation-popover-title">SSCAASouth Sudan Civil Aviation Authority South Sudan Civil Aviation Authority</span><span class="citation-popover-snippet">South Sudan Civil Aviation AuthoritySouth Sudan Civil Aviation Authority - Your gateway to flight operations, licensing, and safety...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Juba_International_Airport" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Juba International Airport</span><span class="citation-popover-snippet">Juba International Airport</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Why Do UFO Rumours Cluster Around Juba?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Why Do UFO Rumours Cluster Around Juba?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Covers aviation-linked observations and witness evaluation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+        </h4>
+        <p class="fr-book-author">By David Clarke</p>
+        
+        <p class="fr-book-desc">Examines how reports become cases and how explanations emerge.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Files+by+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eInnwg77gbkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
+        </h4>
+        <p class="fr-book-author">By Philip C. Plait</p>
+        
+        <p class="fr-book-desc">Useful for understanding satellites, planets and visual misidentifications.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Unidentified on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1VQ0EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Unidentified" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Unidentified">The Unidentified</a>
+        </h4>
+        <p class="fr-book-author">By Colin Dickey</p>
+        
+        <p class="fr-book-desc">Explains why urban centres generate recurring mystery stories.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Unidentified+by+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Astronomy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Astronomy</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -563,7 +596,7 @@ The available evidence suggests that Juba's role in South Sudan UFO reporting is
       <div class="fr-search-grid">
 
     <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=juba-reports-why-do-ufo-rumours-cluster-around-juba-south-sudan-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="juba-reports-why-do-ufo-rumours-cluster-around-juba-south-sudan-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=juba-reports-why-do-ufo-rumours-cluster-around-juba-south-sudan-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="juba-reports-why-do-ufo-rumours-cluster-around-juba-south-sudan-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
         <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
       </a>
       <div class="fr-search-info">
@@ -571,7 +604,7 @@ The available evidence suggests that Juba's role in South Sudan UFO reporting is
         <h4 class="fr-search-title">UFO poster</h4>
         <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
         <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=juba-reports-why-do-ufo-rumours-cluster-around-juba-south-sudan-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="juba-reports-why-do-ufo-rumours-cluster-around-juba-south-sudan-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=juba-reports-why-do-ufo-rumours-cluster-around-juba-south-sudan-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="juba-reports-why-do-ufo-rumours-cluster-around-juba-south-sudan-ufo-poster-book-books-series-television-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">
           Browse eBay
         </a>
       </div>
@@ -608,7 +641,7 @@ The available evidence suggests that Juba's role in South Sudan UFO reporting is
     </article>
 
     <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=juba-reports-why-do-ufo-rumours-cluster-around-juba-south-sudan-ufo-t-shirt-gerry-anderson-series-television-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="juba-reports-why-do-ufo-rumours-cluster-around-juba-south-sudan-ufo-t-shirt-gerry-anderson-series-television-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=juba-reports-why-do-ufo-rumours-cluster-around-juba-south-sudan-ufo-t-shirt-gerry-anderson-series-television-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="juba-reports-why-do-ufo-rumours-cluster-around-juba-south-sudan-ufo-t-shirt-gerry-anderson-series-television-band-concer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
         <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
       </a>
       <div class="fr-search-info">
@@ -616,14 +649,14 @@ The available evidence suggests that Juba's role in South Sudan UFO reporting is
         <h4 class="fr-search-title">UFO t shirt</h4>
         <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
         <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=juba-reports-why-do-ufo-rumours-cluster-around-juba-south-sudan-ufo-t-shirt-gerry-anderson-series-television-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="juba-reports-why-do-ufo-rumours-cluster-around-juba-south-sudan-ufo-t-shirt-gerry-anderson-series-television-band-concer" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=juba-reports-why-do-ufo-rumours-cluster-around-juba-south-sudan-ufo-t-shirt-gerry-anderson-series-television-band-concer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="juba-reports-why-do-ufo-rumours-cluster-around-juba-south-sudan-ufo-t-shirt-gerry-anderson-series-television-band-concer" target="_blank" rel="sponsored noopener noreferrer">
           Browse eBay
         </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=juba-reports-why-do-ufo-rumours-cluster-around-juba-south-sudan-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=juba-reports-why-do-ufo-rumours-cluster-around-juba-south-sudan-ufo-poster-book-books-series-television-gerry-anderson-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>

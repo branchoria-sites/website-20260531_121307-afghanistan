@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /monaco-35ab1c-index/
 description: Focused pages that expand on Are Monaco UFO Sightings Really Mysterious?.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: Monaco_35ab1c
 parent_title: Are Monaco UFO Sightings Really Mysterious?

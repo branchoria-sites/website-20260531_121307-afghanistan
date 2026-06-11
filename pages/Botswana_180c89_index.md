@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /botswana-180c89-index/
 description: Focused pages that expand on What Does Botswana's UFO Record Really....
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: Botswana_180c89
 parent_title: What Does Botswana's UFO Record Really...

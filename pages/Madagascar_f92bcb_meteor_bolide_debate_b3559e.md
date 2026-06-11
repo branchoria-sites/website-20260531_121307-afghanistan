@@ -23,7 +23,7 @@ sidebar_expanded_urls:
 - /madagascars-ufo-record-famous-case-thin/
 nav_short_title: Meteor Debate
 title: Meteor, Bolide or Something Harder to Explain?
-title_full: Meteor, Bolide or Something Harder to Explain? | Madagascar UFOs
+title_full: Meteor, Bolide or Something Harder to Explain?
 display_title_short: Meteor Debate
 display_title: Meteor Debate
 heading_title: Meteor, Bolide or Something Harder to Explain?
@@ -245,7 +245,7 @@ next_link:
   permalink: /tananarive-1954/
   short_title: Tananarive 1954
   heading_title: What Really Happened Over Tananarive in 1954?
-date: '2026-06-10 01:58:19 '
+date: '2026-06-11 14:35:13 '
 header:
   og_image: /assets/images/Madagascar_f92bcb_meteor_bolide_debate_b3559e-Illustration-1-social.jpg
   preview_image: /assets/images/Madagascar_f92bcb_meteor_bolide_debate_b3559e-Illustration-1.webp
@@ -353,45 +353,106 @@ Supporters of the controlled-craft interpretation focus on a different set of fa
 
 Their reasoning usually centres on four points:
 
+1. **Experienced witnesses were present.** Edmond Campagnac was associated with Air France technical operations and aviation, making simple misidentification seem less likely to proponents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Cometa Report [UFO&#x27;s And Defense3.1 Phenomenon Observed by Numerous Witnesses at Antananarivo (August 1...</span></span></span>
+2. **Hundreds of people reportedly observed the event.** Advocates argue that a large witness pool reduces the likelihood of a purely subjective misunderstanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Cometa Report [UFO&#x27;s And Defense3.1 Phenomenon Observed by Numerous Witnesses at Antananarivo (August 1...</span></span></span>
+3. **Animal reactions were reported.** Panic among animals is frequently cited as evidence that something physical passed through the area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Cometa Report [UFO&#x27;s And Defense3.1 Phenomenon Observed by Numerous Witnesses at Antananarivo (August 1...</span></span></span>
+4. **The object was allegedly seen again far away.** Some accounts describe a similar object being reported roughly 150 kilometres from Antananarivo shortly afterwards. If accurate, that creates a difficult speed calculation that neither fits a conventional aircraft nor comfortably matches a simple meteor narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Cometa Report [UFO&#x27;s And Defense3.1 Phenomenon Observed by Numerous Witnesses at Antananarivo (August 1...</span></span></span>
+
+The weakness of this interpretation is evidential rather than conceptual. The more extraordinary claims depend on testimony preserved through later UFO literature. No publicly available radar data, photographs, physical traces or surviving official technical investigation has emerged to independently verify the most dramatic aspects of the case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Cometa Report [UFO&#x27;s And Defense3.1 Phenomenon Observed by Numerous Witnesses at Antananarivo (August 1...</span></span></span>
+
+
+<img src="{{ "/assets/images/Madagascar_f92bcb_meteor_bolide_debate_b3559e-Illustration-3-dark.svg" | relative_url }}" alt="Meteor Debate illustration 3" data-theme-src-dark="{{ "/assets/images/Madagascar_f92bcb_meteor_bolide_debate_b3559e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Madagascar_f92bcb_meteor_bolide_debate_b3559e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Why the case remains unresolved
+
+The Madagascar sighting survives because neither side fully eliminates the other.
+
+The meteor explanation accounts naturally for the green colour, the speed, the initial appearance and the broad visibility of the phenomenon. Those are among the strongest and most consistently reported features. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Cometa Report [UFO&#x27;s And Defense3.1 Phenomenon Observed by Numerous Witnesses at Antananarivo (August 1...</span></span></span>
+
+The controlled-craft interpretation draws strength from the reported low-altitude behaviour, apparent structure, electrical effects and claims of manoeuvring. Yet those are also the elements most dependent on witness estimation and retrospective reconstruction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Cometa Report [UFO&#x27;s And Defense3.1 Phenomenon Observed by Numerous Witnesses at Antananarivo (August 1...</span></span></span>
+
+As a result, the Antananarivo incident occupies an unusual middle ground in Madagascar’s UFO history. It is neither a clearly solved meteor case nor a well-documented demonstration of an unknown craft. The strongest conventional explanation remains a bright bolide, but whether that explanation can absorb every reported detail depends largely on how much confidence one places in the witnesses’ estimates of distance, altitude, shape and motion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Cometa Report [UFO&#x27;s And Defense3.1 Phenomenon Observed by Numerous Witnesses at Antananarivo (August 1...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/tana54gepa24.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Head of Air France Technical Services in Madagascar, professional airplane pilot...Read more...</span></span></span>
+
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Meteor, Bolide or Something Harder to Explain?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Meteor, Bolide or Something Harder to Explain?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        
+        <p class="fr-book-desc">Directly addresses witness perception and competing explanations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">scientific UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
+        </h4>
+        <p class="fr-book-author">By Terence Dickinson</p>
+        
+        <p class="fr-book-desc">Helps explain meteors, bolides and sky-object misidentifications.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Anomaly+by+Daniel+Coumbe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Anomaly on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3maAEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Anomaly" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Anomaly+by+Daniel+Coumbe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Anomaly">Anomaly</a>
+        </h4>
+        <p class="fr-book-author">By Daniel Coumbe</p>
+        
+        <p class="fr-book-desc">Examines UFO cases using analytical and scientific methods.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Anomaly+by+Daniel+Coumbe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+        </h4>
+        <p class="fr-book-author">By J. Allen Hynek</p>
+        
+        <p class="fr-book-desc">Contains examples where natural explanations compete with extraordinary claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Anomaly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Anomaly</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -428,7 +489,7 @@ Their reasoning usually centres on four points:
       <div class="fr-search-grid">
 
     <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-meteor-bolide-or-something-harder-to-explain-madagascar-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="meteor-debate-meteor-bolide-or-something-harder-to-explain-madagascar-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-meteor-bolide-or-something-harder-to-explain-madagascar-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="meteor-debate-meteor-bolide-or-something-harder-to-explain-madagascar-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
         <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
       </a>
       <div class="fr-search-info">
@@ -436,7 +497,7 @@ Their reasoning usually centres on four points:
         <h4 class="fr-search-title">UFO poster</h4>
         <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
         <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-meteor-bolide-or-something-harder-to-explain-madagascar-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="meteor-debate-meteor-bolide-or-something-harder-to-explain-madagascar-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-meteor-bolide-or-something-harder-to-explain-madagascar-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="meteor-debate-meteor-bolide-or-something-harder-to-explain-madagascar-ufo-poster-book-books-series-television-gerry-ande" target="_blank" rel="sponsored noopener noreferrer">
           Browse eBay
         </a>
       </div>
@@ -473,7 +534,7 @@ Their reasoning usually centres on four points:
     </article>
 
     <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-meteor-bolide-or-something-harder-to-explain-madagascar-ufo-t-shirt-gerry-anderson-series-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="meteor-debate-meteor-bolide-or-something-harder-to-explain-madagascar-ufo-t-shirt-gerry-anderson-series-television-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-meteor-bolide-or-something-harder-to-explain-madagascar-ufo-t-shirt-gerry-anderson-series-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="meteor-debate-meteor-bolide-or-something-harder-to-explain-madagascar-ufo-t-shirt-gerry-anderson-series-television-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
         <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
       </a>
       <div class="fr-search-info">
@@ -481,14 +542,14 @@ Their reasoning usually centres on four points:
         <h4 class="fr-search-title">UFO t shirt</h4>
         <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
         <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-meteor-bolide-or-something-harder-to-explain-madagascar-ufo-t-shirt-gerry-anderson-series-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="meteor-debate-meteor-bolide-or-something-harder-to-explain-madagascar-ufo-t-shirt-gerry-anderson-series-television-band" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-meteor-bolide-or-something-harder-to-explain-madagascar-ufo-t-shirt-gerry-anderson-series-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="meteor-debate-meteor-bolide-or-something-harder-to-explain-madagascar-ufo-t-shirt-gerry-anderson-series-television-band" target="_blank" rel="sponsored noopener noreferrer">
           Browse eBay
         </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-meteor-bolide-or-something-harder-to-explain-madagascar-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-debate-meteor-bolide-or-something-harder-to-explain-madagascar-ufo-poster-book-books-series-television-gerry-ande&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -698,25 +759,6 @@ Their reasoning usually centres on four points:
 })();
 </script>
 </section>
-
-1. **Experienced witnesses were present.** Edmond Campagnac was associated with Air France technical operations and aviation, making simple misidentification seem less likely to proponents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Cometa Report [UFO&#x27;s And Defense3.1 Phenomenon Observed by Numerous Witnesses at Antananarivo (August 1...</span></span></span>
-2. **Hundreds of people reportedly observed the event.** Advocates argue that a large witness pool reduces the likelihood of a purely subjective misunderstanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Cometa Report [UFO&#x27;s And Defense3.1 Phenomenon Observed by Numerous Witnesses at Antananarivo (August 1...</span></span></span>
-3. **Animal reactions were reported.** Panic among animals is frequently cited as evidence that something physical passed through the area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Cometa Report [UFO&#x27;s And Defense3.1 Phenomenon Observed by Numerous Witnesses at Antananarivo (August 1...</span></span></span>
-4. **The object was allegedly seen again far away.** Some accounts describe a similar object being reported roughly 150 kilometres from Antananarivo shortly afterwards. If accurate, that creates a difficult speed calculation that neither fits a conventional aircraft nor comfortably matches a simple meteor narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Cometa Report [UFO&#x27;s And Defense3.1 Phenomenon Observed by Numerous Witnesses at Antananarivo (August 1...</span></span></span>
-
-The weakness of this interpretation is evidential rather than conceptual. The more extraordinary claims depend on testimony preserved through later UFO literature. No publicly available radar data, photographs, physical traces or surviving official technical investigation has emerged to independently verify the most dramatic aspects of the case. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Cometa Report [UFO&#x27;s And Defense3.1 Phenomenon Observed by Numerous Witnesses at Antananarivo (August 1...</span></span></span>
-
-
-<img src="{{ "/assets/images/Madagascar_f92bcb_meteor_bolide_debate_b3559e-Illustration-3-dark.svg" | relative_url }}" alt="Meteor Debate illustration 3" data-theme-src-dark="{{ "/assets/images/Madagascar_f92bcb_meteor_bolide_debate_b3559e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Madagascar_f92bcb_meteor_bolide_debate_b3559e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## Why the case remains unresolved
-
-The Madagascar sighting survives because neither side fully eliminates the other.
-
-The meteor explanation accounts naturally for the green colour, the speed, the initial appearance and the broad visibility of the phenomenon. Those are among the strongest and most consistently reported features. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Cometa Report [UFO&#x27;s And Defense3.1 Phenomenon Observed by Numerous Witnesses at Antananarivo (August 1...</span></span></span>
-
-The controlled-craft interpretation draws strength from the reported low-altitude behaviour, apparent structure, electrical effects and claims of manoeuvring. Yet those are also the elements most dependent on witness estimation and retrospective reconstruction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Cometa Report [UFO&#x27;s And Defense3.1 Phenomenon Observed by Numerous Witnesses at Antananarivo (August 1...</span></span></span>
-
-As a result, the Antananarivo incident occupies an unusual middle ground in Madagascar’s UFO history. It is neither a clearly solved meteor case nor a well-documented demonstration of an unknown craft. The strongest conventional explanation remains a bright bolide, but whether that explanation can absorb every reported detail depends largely on how much confidence one places in the witnesses’ estimates of distance, altitude, shape and motion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/stream/pdfy-NRIQie2ooVehep7K/The%20Cometa%20Report%20%5BUFO%27s%20And%20Defense%20-%20What%20Should%20We%20Prepare%20For%5D_djvu.txt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-snippet">Internet ArchiveFull text of &quot;The Cometa Report [UFO&#x27;s And Defense3.1 Phenomenon Observed by Numerous Witnesses at Antananarivo (August 1...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufologie.patrickgross.org/htm/tana54gepa24.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufologie.patrickgross.org">[Ufologie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufologie.patrickgross.org</span><span class="citation-popover-snippet">Head of Air France Technical Services in Madagascar, professional airplane pilot...Read more...</span></span></span>
 
 ## Endnotes
 

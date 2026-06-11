@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /el-salvador-9b83b7-index/
 description: Focused pages that expand on What Really Flies Over El Salvador?.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: El_Salvador_9b83b7
 parent_title: What Really Flies Over El Salvador?

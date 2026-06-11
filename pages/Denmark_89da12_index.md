@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /denmark-89da12-index/
 description: Focused pages that expand on What We Know About UFO Phenomena in Denmark.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: Denmark_89da12
 parent_title: What We Know About UFO Phenomena in Denmark

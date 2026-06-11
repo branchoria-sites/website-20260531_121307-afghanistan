@@ -23,7 +23,7 @@ sidebar_expanded_urls:
 - /bosnia-and-herzegovina/
 nav_short_title: Sightings Archive
 title: Comprehensive Timeline of UFO Sightings in Bosnia
-title_full: Comprehensive Timeline of UFO Sightings in Bosnia | Bosnia UFOs
+title_full: Comprehensive Timeline of UFO Sightings in Bosnia
 display_title_short: Sightings Archive
 display_title: Sightings Archive
 heading_title: Comprehensive Timeline of UFO Sightings in Bosnia
@@ -239,7 +239,7 @@ prev_link:
   permalink: /regional-patterns/
   short_title: Regional Patterns
   heading_title: Mapping UFO Sightings Across Bosnian Regions
-date: '2026-06-10 01:45:30 '
+date: '2026-06-11 14:25:18 '
 header:
   og_image: /assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_sightings_9633fd-Illustration-1-social.jpg
   preview_image: /assets/images/Bosnia_and_Herzegovi_552c9f_bosnia_ufo_sightings_9633fd-Illustration-1.webp
@@ -298,7 +298,7 @@ Although often repeated in UFO forums, the account remains unverified. No local 
 By the 2000s, internet forums and online reporting systems transformed how Bosnian sightings circulated. Cases that once remained local anecdotes became searchable international entries.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bGYEQlBvJIc" title="Pentagon releases declassified UFO files detailing more than 400 incidents" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bGYEQlBvJIc" target="_blank" rel="noopener noreferrer">Pentagon releases declassified UFO files detailing more than 400 incidents</a></p><p class="youtube-embed-meta">Channel: NBC News &middot; Views: 190.9K &middot; Uploaded: May 2026 &middot; Length: 1 minute 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bGYEQlBvJIc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bGYEQlBvJIc">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zNZHTlRFD6E" title="Alien Encounters You Won&#x27;t Believe | Ancient Aliens | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zNZHTlRFD6E" target="_blank" rel="noopener noreferrer">Alien Encounters You Won&#x27;t Believe | Ancient Aliens | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 38.5M &middot; Uploaded: December 2022 &middot; Length: 57 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zNZHTlRFD6E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zNZHTlRFD6E">Open on YouTube</a></p></div></div></div>
 
 ### Novi Travnik and earthquake-linked speculation
 
@@ -354,7 +354,7 @@ One of the latest publicly indexed Bosnian cases concerns a reported disc-shaped
 The report nevertheless illustrates how Bosnia remains part of wider international UFO reporting networks despite lacking domestic investigative institutions.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pZTyF5m2n8w" title="2Hr+ UFO Files/ Ancient Alien Theories | History Channel Alien Documentary Compilation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pZTyF5m2n8w" target="_blank" rel="noopener noreferrer">2Hr+ UFO Files/ Ancient Alien Theories | History Channel Alien Documentary Compilation</a></p><p class="youtube-embed-meta">Channel: Rare Files - UFO &middot; Views: 223.6K &middot; Uploaded: October 2024 &middot; Length: 2 hours 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pZTyF5m2n8w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pZTyF5m2n8w">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bGYEQlBvJIc" title="Pentagon releases declassified UFO files detailing more than 400 incidents" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bGYEQlBvJIc" target="_blank" rel="noopener noreferrer">Pentagon releases declassified UFO files detailing more than 400 incidents</a></p><p class="youtube-embed-meta">Channel: NBC News &middot; Views: 190.9K &middot; Uploaded: May 2026 &middot; Length: 1 minute 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bGYEQlBvJIc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bGYEQlBvJIc">Open on YouTube</a></p></div></div></div>
 
 ### Social media amplification
 
@@ -400,7 +400,7 @@ Bosnia and Herzegovina presents unusual challenges for UFO documentation and his
 Unlike countries that periodically released military UFO files, Bosnia has no known central repository for unexplained aerial reports. There are no publicly documented defence-ministry investigations into UFOs.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KgVMBQLAmt4" title="A Mysterious Alien Encounter That Will Blow Your Mind 😳" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KgVMBQLAmt4" target="_blank" rel="noopener noreferrer">A Mysterious Alien Encounter That Will Blow Your Mind 😳</a></p><p class="youtube-embed-meta">Channel: Shawn Ryan Clips &middot; Views: 1.4M &middot; Uploaded: July 2023 &middot; Length: 40 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KgVMBQLAmt4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KgVMBQLAmt4">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pZTyF5m2n8w" title="2Hr+ UFO Files/ Ancient Alien Theories | History Channel Alien Documentary Compilation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pZTyF5m2n8w" target="_blank" rel="noopener noreferrer">2Hr+ UFO Files/ Ancient Alien Theories | History Channel Alien Documentary Compilation</a></p><p class="youtube-embed-meta">Channel: Rare Files - UFO &middot; Views: 223.6K &middot; Uploaded: October 2024 &middot; Length: 2 hours 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pZTyF5m2n8w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pZTyF5m2n8w">Open on YouTube</a></p></div></div></div>
 
 ### Delayed reporting
 
@@ -435,44 +435,86 @@ The absence of radar data, multiple calibrated recordings or physical evidence m
 Even so, the archive remains culturally revealing. The sightings reflect changing media environments, post-war anxieties, internet-era folklore and the spread of global UFO narratives into the Balkans. Bosnia’s UFO chronology is therefore less a record of confirmed extraterrestrial events than a history of how unexplained aerial experiences were interpreted, shared and remembered across different eras of the country’s modern history.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for Comprehensive Timeline of UFO Sightings in Bosnia, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to Comprehensive Timeline of UFO Sightings in Bosnia. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Documents notable sightings and investigations over time.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        
+        <p class="fr-book-desc">Ideal for understanding sighting timelines and categories.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QRjzPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Passport to Magonia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+        </h4>
+        <p class="fr-book-author">By Jacques Vallee</p>
+        
+        <p class="fr-book-desc">Places sightings into longer historical patterns.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Provides modern cases that fit a timeline approach.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Passport+to+Magonia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Passport to Magonia</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -509,7 +551,7 @@ Even so, the archive remains culturally revealing. The sightings reflect changin
       <div class="fr-search-grid">
 
     <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-archive-comprehensive-timeline-of-ufo-sightings-in-bosnia-bosnia-and-herzegovina-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sightings-archive-comprehensive-timeline-of-ufo-sightings-in-bosnia-bosnia-and-herzegovina-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-archive-comprehensive-timeline-of-ufo-sightings-in-bosnia-bosnia-and-herzegovina-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sightings-archive-comprehensive-timeline-of-ufo-sightings-in-bosnia-bosnia-and-herzegovina-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
         <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
       </a>
       <div class="fr-search-info">
@@ -517,7 +559,7 @@ Even so, the archive remains culturally revealing. The sightings reflect changin
         <h4 class="fr-search-title">UFO poster</h4>
         <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
         <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-archive-comprehensive-timeline-of-ufo-sightings-in-bosnia-bosnia-and-herzegovina-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sightings-archive-comprehensive-timeline-of-ufo-sightings-in-bosnia-bosnia-and-herzegovina-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-archive-comprehensive-timeline-of-ufo-sightings-in-bosnia-bosnia-and-herzegovina-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="sightings-archive-comprehensive-timeline-of-ufo-sightings-in-bosnia-bosnia-and-herzegovina-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer">
           Browse eBay
         </a>
       </div>
@@ -554,7 +596,7 @@ Even so, the archive remains culturally revealing. The sightings reflect changin
     </article>
 
     <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-archive-comprehensive-timeline-of-ufo-sightings-in-bosnia-bosnia-and-herzegovina-ufo-t-shirt-gerry-anderson-se&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="sightings-archive-comprehensive-timeline-of-ufo-sightings-in-bosnia-bosnia-and-herzegovina-ufo-t-shirt-gerry-anderson-se" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-archive-comprehensive-timeline-of-ufo-sightings-in-bosnia-bosnia-and-herzegovina-ufo-t-shirt-gerry-anderson-se&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="sightings-archive-comprehensive-timeline-of-ufo-sightings-in-bosnia-bosnia-and-herzegovina-ufo-t-shirt-gerry-anderson-se" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
         <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
       </a>
       <div class="fr-search-info">
@@ -562,14 +604,14 @@ Even so, the archive remains culturally revealing. The sightings reflect changin
         <h4 class="fr-search-title">UFO t shirt</h4>
         <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
         <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-archive-comprehensive-timeline-of-ufo-sightings-in-bosnia-bosnia-and-herzegovina-ufo-t-shirt-gerry-anderson-se&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="sightings-archive-comprehensive-timeline-of-ufo-sightings-in-bosnia-bosnia-and-herzegovina-ufo-t-shirt-gerry-anderson-se" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-archive-comprehensive-timeline-of-ufo-sightings-in-bosnia-bosnia-and-herzegovina-ufo-t-shirt-gerry-anderson-se&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="sightings-archive-comprehensive-timeline-of-ufo-sightings-in-bosnia-bosnia-and-herzegovina-ufo-t-shirt-gerry-anderson-se" target="_blank" rel="sponsored noopener noreferrer">
           Browse eBay
         </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-archive-comprehensive-timeline-of-ufo-sightings-in-bosnia-bosnia-and-herzegovina-ufo-poster-book-books-series&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sightings-archive-comprehensive-timeline-of-ufo-sightings-in-bosnia-bosnia-and-herzegovina-ufo-poster-book-books-series&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>

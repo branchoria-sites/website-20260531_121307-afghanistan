@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /comoros-e5bb59-index/
 description: Focused pages that expand on Have UFOs Really Been Seen Over Comoros?.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: Comoros_e5bb59
 parent_title: Have UFOs Really Been Seen Over Comoros?

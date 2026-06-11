@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /turkiye-c8c5d5-index/
 description: Focused pages that expand on Turkiye.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: Turkiye_c8c5d5
 parent_title: Turkiye

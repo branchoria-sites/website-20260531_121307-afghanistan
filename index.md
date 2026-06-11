@@ -179,7 +179,7 @@ site_image_description: A night view of a remote Afghan airfield with mountains 
 ---
 
 <section class="home-map-panel uap-world-map-panel" data-home-map-panel>
-  <section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-map-kind="world" data-uap-world-map data-map-item-type="country" data-map-label="UFO and UAP country map" data-map-fallback-summary="Open this country file from the map." data-map-src="{{ 'assets/maps/world.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/world-countries.json' | relative_url }}" data-map-preview-preload="all">
+  <section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="world" data-map-item-type="country" data-map-label="UFO and UAP country map" data-map-fallback-summary="Open this country file from the map." data-map-src="{{ 'assets/maps/world.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/world-countries.json' | relative_url }}" data-map-preview-preload="all">
     <div class="interactive-map-canvas uap-world-map-canvas" data-interactive-map-canvas data-uap-world-map-canvas></div>
     <article class="interactive-map-preview uap-world-map-preview" data-interactive-map-preview data-uap-world-map-preview>
       <img src="{{ '/assets/images/Monaco_35ab1c-overview.webp' | relative_url }}" alt="" loading="eager" decoding="async" fetchpriority="high">
@@ -197,3 +197,4 @@ site_image_description: A night view of a remote Afghan airfield with mountains 
   <p class="home-map-panel-note">Use the map to jump into a country file, or browse the full country list below.</p>
   <p class="home-map-panel-actions"><a class="nav-pill" href="{{ '/contents/' | relative_url }}">Contents</a></p>
 </section>
+

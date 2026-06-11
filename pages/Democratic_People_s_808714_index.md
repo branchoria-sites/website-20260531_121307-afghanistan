@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /democratic-people-s-808714-index/
 description: Focused pages that expand on Democratic People s Republic of Korea.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: Democratic_People_s_808714
 parent_title: Democratic People s Republic of Korea

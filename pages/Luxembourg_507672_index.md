@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /luxembourg-507672-index/
 description: Focused pages that expand on Uncovering UFO Activity Across Luxembourg:....
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: Luxembourg_507672
 parent_title: Uncovering UFO Activity Across Luxembourg:...

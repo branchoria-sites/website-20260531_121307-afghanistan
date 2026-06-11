@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /germany-17d53e-index/
 description: Focused pages that expand on What Germany's UFO Record Really Shows.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: Germany_17d53e
 parent_title: What Germany's UFO Record Really Shows

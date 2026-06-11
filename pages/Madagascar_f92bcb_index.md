@@ -7,7 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /madagascar-f92bcb-index/
 description: 'Focused pages that expand on Madagascar''s UFO Record: Famous Case,
   Thin....'
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: Madagascar_f92bcb
 parent_title: 'Madagascar''s UFO Record: Famous Case, Thin...'

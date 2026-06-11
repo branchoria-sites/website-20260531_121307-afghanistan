@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /republic-of-moldova-a6ad94-index/
 description: Focused pages that expand on Republic of Moldova.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: Republic_of_Moldova_a6ad94
 parent_title: Republic of Moldova

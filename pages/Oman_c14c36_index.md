@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /oman-c14c36-index/
 description: Focused pages that expand on What Really Counts as an Oman UFO?.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: Oman_c14c36
 parent_title: What Really Counts as an Oman UFO?

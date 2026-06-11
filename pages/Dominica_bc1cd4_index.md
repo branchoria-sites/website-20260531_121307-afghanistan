@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /dominica-bc1cd4-index/
 description: Focused pages that expand on Does Dominica Have Real UFO Cases?.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: Dominica_bc1cd4
 parent_title: Does Dominica Have Real UFO Cases?

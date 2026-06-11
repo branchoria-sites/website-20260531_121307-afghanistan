@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /nepal-0e1d58-index/
 description: Focused pages that expand on What Really Happened in Nepal's UFO Record?.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: Nepal_0e1d58
 parent_title: What Really Happened in Nepal's UFO Record?

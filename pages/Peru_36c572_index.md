@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /peru-36c572-index/
 description: Focused pages that expand on What Makes Peru's UFO Story So Complicated?.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: Peru_36c572
 parent_title: What Makes Peru's UFO Story So Complicated?

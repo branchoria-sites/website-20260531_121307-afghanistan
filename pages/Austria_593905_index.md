@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /austria-593905-index/
 description: Focused pages that expand on What Do Austria's UFO Reports Really Show?.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: Austria_593905
 parent_title: What Do Austria's UFO Reports Really Show?

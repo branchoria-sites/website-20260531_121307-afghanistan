@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /viet-nam-82ecdd-index/
 description: Focused pages that expand on What Did Viet Nam's UFO Reports Really Show?.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: Viet_Nam_82ecdd
 parent_title: What Did Viet Nam's UFO Reports Really Show?

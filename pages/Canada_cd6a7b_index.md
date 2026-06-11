@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /canada-cd6a7b-index/
 description: Focused pages that expand on What Canada UFO Reports Really Show.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: Canada_cd6a7b
 parent_title: What Canada UFO Reports Really Show

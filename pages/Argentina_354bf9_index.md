@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /argentina-354bf9-index/
 description: Focused pages that expand on Argentina's UFO Stories, Records, and....
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: Argentina_354bf9
 parent_title: Argentina's UFO Stories, Records, and...

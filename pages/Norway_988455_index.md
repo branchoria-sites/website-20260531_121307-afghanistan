@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /norway-988455-index/
 description: Focused pages that expand on What Makes Norway's UFO Record Different?.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: Norway_988455
 parent_title: What Makes Norway's UFO Record Different?

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /andorra-9d3bd1-index/
 description: Focused pages that expand on What Is Actually Known About Andorra UFOs?.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: Andorra_9d3bd1
 parent_title: What Is Actually Known About Andorra UFOs?

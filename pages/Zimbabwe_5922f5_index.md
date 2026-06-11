@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /zimbabwe-5922f5-index/
 description: Focused pages that expand on What Really Happened in Zimbabwe's UFO....
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: Zimbabwe_5922f5
 parent_title: What Really Happened in Zimbabwe's UFO...

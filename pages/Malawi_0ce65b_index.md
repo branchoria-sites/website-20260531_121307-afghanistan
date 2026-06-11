@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /malawi-0ce65b-index/
 description: Focused pages that expand on What Are Malawi's Documented UFOs and Sky....
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: Malawi_0ce65b
 parent_title: What Are Malawi's Documented UFOs and Sky...

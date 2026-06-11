@@ -15,19 +15,19 @@ keywords:
 - vranov-1987
 affiliate_category: czechia
 show_ads: true
-description: The Vranov nad Dyjí UFO case combined radar tracking, aircrew reports, and military orders, making it a key contested Czech UFO event.
-hero_summary: The Vranov nad Dyjí UFO case combined radar tracking, aircrew reports, and military orders, making it a key contested Czech UFO event.
+description: The Vranov nad Dyj UFO case combined radar tracking, aircrew reports, and military orders, making it a key contested Czech UFO event.
+hero_summary: The Vranov nad Dyj UFO case combined radar tracking, aircrew reports, and military orders, making it a key contested Czech UFO event.
 layout: default
 permalink: /vranov-1987/
 sidebar_expanded_urls:
 - /czechia/
 nav_short_title: Vranov 1987
-title: What Happened During the 1987 Vranov nad Dyjí UFO Interception?
-title_full: What Happened During the 1987 Vranov nad Dyjí UFO Interception? | Czech UFOs
+title: What Happened During the 1987 Vranov nad Dyj UFO Interception?
+title_full: What Happened During the 1987 Vranov nad Dyj UFO Interception?
 display_title_short: Vranov 1987
 display_title: Vranov 1987
-heading_title: What Happened During the 1987 Vranov nad Dyjí UFO Interception?
-page_heading_title: What Happened During the 1987 Vranov nad Dyjí UFO Interception?
+heading_title: What Happened During the 1987 Vranov nad Dyj UFO Interception?
+page_heading_title: What Happened During the 1987 Vranov nad Dyj UFO Interception?
 source_count: 38
 infographic_count: 3
 planned_sections:
@@ -219,14 +219,14 @@ sibling_links:
   short_title: Czech Science
   heading_title: What Scientific Methods Help Explain Czech UFO Reports?
 - basename: Czechia_045e2f_milicin_1991_folklor_92a5d4
-  title: Miličín 1991 | What Makes Czech UFO Sightings So Intriguing?
-  permalink: /miličín-1991/
-  short_title: Miličín 1991
-  heading_title: How Did the 1991 Miličín UFO Sightings Shape Local Folklore?
+  title: Milin 1991 | What Makes Czech UFO Sightings So Intriguing?
+  permalink: /milin-1991/
+  short_title: Milin 1991
+  heading_title: How Did the 1991 Milin UFO Sightings Shape Local Folklore?
 - basename: Czechia_045e2f_projekt_zare_analysi_1ad2ea
-  title: Projekt Záře | What Makes Czech UFO Sightings So Intriguing?
-  permalink: /projekt-záře/
-  short_title: Projekt Záře
+  title: Projekt Ze | What Makes Czech UFO Sightings So Intriguing?
+  permalink: /projekt-ze/
+  short_title: Projekt Ze
   heading_title: How Have Civilian Groups Documented UFOs in Czechia?
 up_link:
   basename: Czechia_045e2f
@@ -235,11 +235,11 @@ up_link:
   short_title: Czech UFOs
 prev_link:
   basename: Czechia_045e2f_projekt_zare_analysi_1ad2ea
-  title: Projekt Záře | What Makes Czech UFO Sightings So Intriguing?
-  permalink: /projekt-záře/
-  short_title: Projekt Záře
+  title: Projekt Ze | What Makes Czech UFO Sightings So Intriguing?
+  permalink: /projekt-ze/
+  short_title: Projekt Ze
   heading_title: How Have Civilian Groups Documented UFOs in Czechia?
-date: '2026-06-10 01:49:48 '
+date: '2026-06-11 14:27:52 '
 header:
   og_image: /assets/images/Czechia_045e2f_vranov_1987_case_daf4d1-Illustration-1-social.jpg
   preview_image: /assets/images/Czechia_045e2f_vranov_1987_case_daf4d1-Illustration-1.webp
@@ -248,15 +248,15 @@ image: /assets/images/Czechia_045e2f_vranov_1987_case_daf4d1-Illustration-1-soci
 
 ## Introduction
 
-The 12 July 1987 Vranov nad Dyjí incident remains the most discussed military UFO case in [Czechia]({{ 'czechia/' | relative_url }}) because it combined several forms of evidence that rarely appear together in Central European reports: radar tracking, military command involvement, helicopter interception attempts, and later testimony from trained aircrew. According to the surviving accounts, a Czechoslovak Mi-24 helicopter crew was scrambled after radar operators detected an unidentified target moving near the Austrian border over southern Moravia. The object was reportedly tracked for an extended period, visually observed by crew members, and considered important enough for military command to issue engagement instructions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://praguepig.com/2018/08/vranov-nad-dyji-ufo-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: praguepig.com">[PraguePig.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">praguepig.com</span><span class="citation-popover-title">Prague Pig.com The Vranov nad Dyjí UFO Case</span><span class="citation-popover-snippet">The Vranov nad Dyjí UFO Case - PraguePig.com31 Aug 2018 — An English-language account of an amazing Czech UFO case: a military helicopter...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cs.wikipedia.org/wiki/UFO_nad_Vranovem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">e Jedenapadesátý aneb historie 51...Read more...</span></span></span>, the case is heavily constrained by missing documentation. No publicly released radar tapes, cockpit recordings, or complete operational reports have surfaced. Much of the modern narrative depends on later retellings linked to former pilot Jaroslav Špaček and secondary reporting by Czech UFO researchers and journalists. That combination — unusually strong military context but incomplete surviving evidence — is exactly why the Vranov case remains controversial rather than resolved.
+The 12 July 1987 Vranov nad Dyj incident remains the most discussed military UFO case in [Czechia]({{ 'czechia/' | relative_url }}) because it combined several forms of evidence that rarely appear together in Central European reports: radar tracking, military command involvement, helicopter interception attempts, and later testimony from trained aircrew. According to the surviving accounts, a Czechoslovak Mi-24 helicopter crew was scrambled after radar operators detected an unidentified target moving near the Austrian border over southern Moravia. The object was reportedly tracked for an extended period, visually observed by crew members, and considered important enough for military command to issue engagement instructions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://praguepig.com/2018/08/vranov-nad-dyji-ufo-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: praguepig.com">[PraguePig.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">praguepig.com</span><span class="citation-popover-title">Prague Pig.com The Vranov nad Dyj UFO Case</span><span class="citation-popover-snippet">The Vranov nad Dyj UFO Case - PraguePig.com31 Aug 2018  An English-language account of an amazing Czech UFO case: a military helicopter...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cs.wikipedia.org/wiki/UFO_nad_Vranovem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">e Jedenapadest aneb historie 51...Read more...</span></span></span>, the case is heavily constrained by missing documentation. No publicly released radar tapes, cockpit recordings, or complete operational reports have surfaced. Much of the modern narrative depends on later retellings linked to former pilot Jaroslav paek and secondary reporting by Czech UFO researchers and journalists. That combination  unusually strong military context but incomplete surviving evidence  is exactly why the Vranov case remains controversial rather than resolved.
 
 
 <img src="{{ "/assets/images/Czechia_045e2f_vranov_1987_case_daf4d1-Illustration-1-dark.svg" | relative_url }}" alt="Vranov 1987 illustration 1" data-theme-src-dark="{{ "/assets/images/Czechia_045e2f_vranov_1987_case_daf4d1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Czechia_045e2f_vranov_1987_case_daf4d1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the Vranov incident mattered to the Cold War military
 
-The incident occurred during the late Cold War, when the southern Moravian border region was strategically sensitive. Vranov nad Dyjí lies close to Austria, which in 1987 bordered the Warsaw Pact frontier. Unknown radar contacts near border zones were therefore treated as potential military intrusions before they were treated as anomalies.
+The incident occurred during the late Cold War, when the southern Moravian border region was strategically sensitive. Vranov nad Dyj lies close to Austria, which in 1987 bordered the Warsaw Pact frontier. Unknown radar contacts near border zones were therefore treated as potential military intrusions before they were treated as anomalies.
 
-Several later reconstructions describe radar operators detecting an unidentified target moving from the Austrian direction toward Czechoslovak airspace. The response reportedly involved the 51st Helicopter Regiment, equipped with Mi-24 attack helicopters. In the military environment of the time, scrambling aircraft against an unidentified contact was not extraordinary by itself. What made the case unusual was the reported inability of the helicopter crew and controllers to classify the target despite sustained pursuit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.armyweb.cz/clanek/v-roce-1987-se-stretl-cesky-vrtulnik-s-pravdepodobnym-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armyweb.cz">[Armyweb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armyweb.cz</span><span class="citation-popover-title">v roce 1987 se stretl cesky vrtulnik s pravdepodobnym ufo</span><span class="citation-popover-snippet">V roce 1987 se český armádní vrtulník střetl s...15 Jul 2022 — Letos v červenci je tomu přesně 35 let ode dne, kdy vrtulník tehdejší Čes...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://praguepig.com/2018/08/vranov-nad-dyji-ufo-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: praguepig.com">[PraguePig.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">praguepig.com</span><span class="citation-popover-title">Prague Pig.com The Vranov nad Dyjí UFO Case</span><span class="citation-popover-snippet">The Vranov nad Dyjí UFO Case - PraguePig.com31 Aug 2018 — An English-language account of an amazing Czech UFO case: a military helicopter...</span></span></span> Wikipedia The Mi-24 mattered because it was not a lightly equipped observation platform. The aircraft was designed for combat interception and battlefi <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cs.wikipedia.org/wiki/UFO_nad_Vranovem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">e Jedenapadesátý aneb historie 51...Read more...</span></span></span> eld operations. Yet the commonly repeated account states that the crew struggled to maintain visual tracking and could not position themselves effectively for engagement. This has become one of the central points in UFO-oriented interpretations of the case.
+Several later reconstructions describe radar operators detecting an unidentified target moving from the Austrian direction toward Czechoslovak airspace. The response reportedly involved the 51st Helicopter Regiment, equipped with Mi-24 attack helicopters. In the military environment of the time, scrambling aircraft against an unidentified contact was not extraordinary by itself. What made the case unusual was the reported inability of the helicopter crew and controllers to classify the target despite sustained pursuit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.armyweb.cz/clanek/v-roce-1987-se-stretl-cesky-vrtulnik-s-pravdepodobnym-ufo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armyweb.cz">[Armyweb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armyweb.cz</span><span class="citation-popover-title">v roce 1987 se stretl cesky vrtulnik s pravdepodobnym ufo</span><span class="citation-popover-snippet">V roce 1987 se esk armdn vrtulnk stetl s...15 Jul 2022  Letos v ervenci je tomu pesn 35 let ode dne, kdy vrtulnk tehdej es...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://praguepig.com/2018/08/vranov-nad-dyji-ufo-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: praguepig.com">[PraguePig.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">praguepig.com</span><span class="citation-popover-title">Prague Pig.com The Vranov nad Dyj UFO Case</span><span class="citation-popover-snippet">The Vranov nad Dyj UFO Case - PraguePig.com31 Aug 2018  An English-language account of an amazing Czech UFO case: a military helicopter...</span></span></span> Wikipedia The Mi-24 mattered because it was not a lightly equipped observation platform. The aircraft was designed for combat interception and battlefi <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cs.wikipedia.org/wiki/UFO_nad_Vranovem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">e Jedenapadest aneb historie 51...Read more...</span></span></span> eld operations. Yet the commonly repeated account states that the crew struggled to maintain visual tracking and could not position themselves effectively for engagement. This has become one of the central points in UFO-oriented interpretations of the case.
 
 Sceptical analysts, however, argue that Cold War border alert systems were prone to confusion caused by atmospheric clutter, partial radar returns, weather phenomena, and fragmented command information. The surviving public evidence does not allow outside investigators to reconstruct what radar operators actually saw on their scopes or how consistently the object was tracked.
 
@@ -264,15 +264,15 @@ Sceptical analysts, however, argue that Cold War border alert systems were prone
 
 ### Initial radar detection near the Austrian border
 
-The most widely circulated chronology says the event began around midday on 12 July 1987. Ground radar stations reportedly identified an unknown airborne object moving near the border area between Vranov nad Dyjí and Slavonice. According to later summaries attributed to Jaroslav Špaček, controllers initially suspected an ordinary aerial target or even a weather-related return. <span class="citation-chip-wrap"><a class="citation-chip" href="https://praguepig.com/2018/08/vranov-nad-dyji-ufo-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: praguepig.com">[PraguePig.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">praguepig.com</span><span class="citation-popover-title">Prague Pig.com The Vranov nad Dyjí UFO Case</span><span class="citation-popover-snippet">The Vranov nad Dyjí UFO Case - PraguePig.com31 Aug 2018 — An English-language account of an amazing Czech UFO case: a military helicopter...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://znojemsky.denik.cz/zpravy_region/ufo-vranov-prehrada-vrtulnik-cil-hranice-inspirace-film-franta-mimozemstan-brno.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: znojemsky.denik.cz">[2Znojemský Deník]</a><span class="citation-popover" role="note"><span class="citation-popover-source">znojemsky.denik.cz</span><span class="citation-popover-snippet">Znojemský DeníkUFO nad Vranovem ožívá ve filmu Franta mimozemšťan8 Feb 2024 — Zamířit měli do Vranova nad Dyjí a objekt, který měli sledo...</span></span></span>
+The most widely circulated chronology says the event began around midday on 12 July 1987. Ground radar stations reportedly identified an unknown airborne object moving near the border area between Vranov nad Dyj and Slavonice. According to later summaries attributed to Jaroslav paek, controllers initially suspected an ordinary aerial target or even a weather-related return. <span class="citation-chip-wrap"><a class="citation-chip" href="https://praguepig.com/2018/08/vranov-nad-dyji-ufo-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: praguepig.com">[PraguePig.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">praguepig.com</span><span class="citation-popover-title">Prague Pig.com The Vranov nad Dyj UFO Case</span><span class="citation-popover-snippet">The Vranov nad Dyj UFO Case - PraguePig.com31 Aug 2018  An English-language account of an amazing Czech UFO case: a military helicopter...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://znojemsky.denik.cz/zpravy_region/ufo-vranov-prehrada-vrtulnik-cil-hranice-inspirace-film-franta-mimozemstan-brno.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: znojemsky.denik.cz">[2Znojemsk Denk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">znojemsky.denik.cz</span><span class="citation-popover-snippet">Znojemsk DenkUFO nad Vranovem ov ve filmu Franta mimozeman8 Feb 2024  Zamit mli do Vranova nad Dyj a objekt, kter mli sledo...</span></span></span>
 
-The helicopter crew was then directed toward the contact by ground control because the Mi-24 itself lacked a powerful onboard search radar suitable for long-range target acquisition. This detail is important technically: the aircraft depended heavily on vectors from controllers and intermittent visual confirmation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://trebicsky.denik.cz/zpravy_region/hon-na-ufo-trebicsko-vranopvska-prehrada-vysocina-jizni-morava-vrtulnik-20240712.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trebicsky.denik.cz">[Trebic Sky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trebicsky.denik.cz</span><span class="citation-popover-title">Trebic Sky Hon na UFO nad Třebíčskem</span><span class="citation-popover-snippet">Armádní vrtulník se zapojil do...12 Jul 2024 — Sestřelit UFO. Tesaříkův stroj neměl radar, a tak musel spoléhat na navádění ze země a vi...</span></span></span>
+The helicopter crew was then directed toward the contact by ground control because the Mi-24 itself lacked a powerful onboard search radar suitable for long-range target acquisition. This detail is important technically: the aircraft depended heavily on vectors from controllers and intermittent visual confirmation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://trebicsky.denik.cz/zpravy_region/hon-na-ufo-trebicsko-vranopvska-prehrada-vysocina-jizni-morava-vrtulnik-20240712.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trebicsky.denik.cz">[Trebic Sky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trebicsky.denik.cz</span><span class="citation-popover-title">Trebic Sky Hon na UFO nad Tebskem</span><span class="citation-popover-snippet">Armdn vrtulnk se zapojil do...12 Jul 2024  Sestelit UFO. Tesakv stroj neml radar, a tak musel spolhat na navdn ze zem a vi...</span></span></span>
 
 Some retellings claim the target manoeuvred repeatedly across the border area and changed speed rapidly. UFO researchers later highlighted these claims as evidence of extraordinary performance, while critics note that estimated speed calculations made during stressful aerial pursuit are notoriously unreliable without instrument-grade telemetry.
 
 ### The reported visual sighting
 
-According to the later testimony associated with Špaček, one crew member eventually saw a dark, elongated object described as cigar-shaped or cylindrical. The object reportedly lacked visible wings and conventional flight surfaces. <span class="citation-chip-wrap"><a class="citation-chip" href="https://praguepig.com/2018/08/vranov-nad-dyji-ufo-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: praguepig.com">[PraguePig.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">praguepig.com</span><span class="citation-popover-title">Prague Pig.com The Vranov nad Dyjí UFO Case</span><span class="citation-popover-snippet">The Vranov nad Dyjí UFO Case - PraguePig.com31 Aug 2018 — An English-language account of an amazing Czech UFO case: a military helicopter...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cs.wikipedia.org/wiki/UFO_nad_Vranovem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia Descriptions vary between sources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">e Jedenapadesátý aneb historie 51...Read more...</span></span></span>, but several recurring details appear repeatedly:
+According to the later testimony associated with paek, one crew member eventually saw a dark, elongated object described as cigar-shaped or cylindrical. The object reportedly lacked visible wings and conventional flight surfaces. <span class="citation-chip-wrap"><a class="citation-chip" href="https://praguepig.com/2018/08/vranov-nad-dyji-ufo-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: praguepig.com">[PraguePig.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">praguepig.com</span><span class="citation-popover-title">Prague Pig.com The Vranov nad Dyj UFO Case</span><span class="citation-popover-snippet">The Vranov nad Dyj UFO Case - PraguePig.com31 Aug 2018  An English-language account of an amazing Czech UFO case: a military helicopter...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cs.wikipedia.org/wiki/UFO_nad_Vranovem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia Descriptions vary between sources]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">e Jedenapadest aneb historie 51...Read more...</span></span></span>, but several recurring details appear repeatedly:
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
@@ -280,18 +280,18 @@ According to the later testimony associated with Špaček, one crew member event
 * The object was dark or black.
 * It was elongated rather than disc-shaped.
 * It appeared to move unpredictably.
-* It reportedly used the sun’s position to complicate observation.
+* It reportedly used the suns position to complicate observation.
 * The crew struggled to maintain stable pursuit geometry.
 
 </div>
 
-Some accounts further state that the object accelerated dramatically after periods of slower movement. Later newspaper retellings claimed estimated speeds ranging from relatively ordinary aircraft performance up to several thousand kilometres per hour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://trebicsky.denik.cz/zpravy_region/hon-na-ufo-trebicsko-vranopvska-prehrada-vysocina-jizni-morava-vrtulnik-20240712.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trebicsky.denik.cz">[Trebic Sky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trebicsky.denik.cz</span><span class="citation-popover-title">Trebic Sky Hon na UFO nad Třebíčskem</span><span class="citation-popover-snippet">Armádní vrtulník se zapojil do...12 Jul 2024 — Sestřelit UFO. Tesaříkův stroj neměl radar, a tak musel spoléhat na navádění ze země a vi...</span></span></span>
+Some accounts further state that the object accelerated dramatically after periods of slower movement. Later newspaper retellings claimed estimated speeds ranging from relatively ordinary aircraft performance up to several thousand kilometres per hour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://trebicsky.denik.cz/zpravy_region/hon-na-ufo-trebicsko-vranopvska-prehrada-vysocina-jizni-morava-vrtulnik-20240712.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: trebicsky.denik.cz">[Trebic Sky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">trebicsky.denik.cz</span><span class="citation-popover-title">Trebic Sky Hon na UFO nad Tebskem</span><span class="citation-popover-snippet">Armdn vrtulnk se zapojil do...12 Jul 2024  Sestelit UFO. Tesakv stroj neml radar, a tak musel spolhat na navdn ze zem a vi...</span></span></span>
 
 Those extreme speed estimates are among the weakest parts of the case evidentially. They are based on retrospective descriptions rather than preserved instrumentation. No independently verified radar plots or timing logs have been publicly released to support the more dramatic numerical claims.
 
 ### The reported order to engage
 
-The most controversial part of the story concerns the alleged command instruction to fire on the object. Several Czech-language summaries and UFO-oriented retellings state that the crew received authorisation or pressure to engage the target. Aktuálně.cz - Víte, co se právě děje <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.azet.sk/magazin/clanok/eE6oSfd/tajomne-ufo-nad-nadrzou-vranov-ani-po-38-rokoch-zahadu-nevyriesili-sledovali-ho-25-hodiny/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: azet.sk">[2azet.sk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">azet.sk</span><span class="citation-popover-snippet">Tajomné UFO nad nádržou Vranov: Ani po 38 rokoch...31 Jul 2025 — Pilot nadporučík Jaroslav Špaček dostal príkaz, aby objekt prenasledoval...</span></span></span>
+The most controversial part of the story concerns the alleged command instruction to fire on the object. Several Czech-language summaries and UFO-oriented retellings state that the crew received authorisation or pressure to engage the target. Aktuln.cz - Vte, co se prv dje <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.azet.sk/magazin/clanok/eE6oSfd/tajomne-ufo-nad-nadrzou-vranov-ani-po-38-rokoch-zahadu-nevyriesili-sledovali-ho-25-hodiny/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: azet.sk">[2azet.sk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">azet.sk</span><span class="citation-popover-snippet">Tajomn UFO nad ndrou Vranov: Ani po 38 rokoch...31 Jul 2025  Pilot nadporuk Jaroslav paek dostal prkaz, aby objekt prenasledoval...</span></span></span>
 
 Yet even within pro-UFO versions of the incident, the helicopter crew reportedly hesitated or failed to obtain a safe firing opportunity. Two explanations usually appear:
 
@@ -303,9 +303,9 @@ That second point is significant because Vranov Reservoir was a busy recreationa
 No public military order sheet or weapons log confirming a formal fire command has surfaced. The claim therefore remains dependent on witness recollections published years after the event.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2Yw71lkjq28" title="Armádní souboj s UFO: Nový svědek a další incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2Yw71lkjq28" target="_blank" rel="noopener noreferrer">Armádní souboj s UFO: Nový svědek a další incident</a></p><p class="youtube-embed-meta">Channel: Badatelé &middot; Views: 52.6K &middot; Uploaded: February 2019 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2Yw71lkjq28" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2Yw71lkjq28">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2Yw71lkjq28" title="Armdn souboj s UFO: Nov svdek a dal incident" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2Yw71lkjq28" target="_blank" rel="noopener noreferrer">Armdn souboj s UFO: Nov svdek a dal incident</a></p><p class="youtube-embed-meta">Channel: Badatel &middot; Views: 52.6K &middot; Uploaded: February 2019 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2Yw71lkjq28" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2Yw71lkjq28">Open on YouTube</a></p></div></div></div>
 
-## What makes the radar element important — and difficult to verify
+## What makes the radar element important  and difficult to verify
 
 Radar involvement is the main reason the Vranov case occupies a special place in Czech UFO discussions. Most regional UFO reports depend entirely on eyewitness testimony. Vranov differs because the event allegedly began as an instrument-detected military contact.
 
@@ -313,7 +313,7 @@ However, the radar evidence is also the least accessible part of the story.
 
 ### The missing operational records
 
-Multiple later articles and UFO summaries state that records connected to the pursuit were removed, erased, or never released publicly. Some versions specifically claim that the helicopter crew were instructed after landing to destroy recordings or flight-related materials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://praguepig.com/2018/08/vranov-nad-dyji-ufo-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: praguepig.com">[PraguePig.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">praguepig.com</span><span class="citation-popover-title">Prague Pig.com The Vranov nad Dyjí UFO Case</span><span class="citation-popover-snippet">The Vranov nad Dyjí UFO Case - PraguePig.com31 Aug 2018 — An English-language account of an amazing Czech UFO case: a military helicopter...</span></span></span>
+Multiple later articles and UFO summaries state that records connected to the pursuit were removed, erased, or never released publicly. Some versions specifically claim that the helicopter crew were instructed after landing to destroy recordings or flight-related materials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://praguepig.com/2018/08/vranov-nad-dyji-ufo-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: praguepig.com">[PraguePig.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">praguepig.com</span><span class="citation-popover-title">Prague Pig.com The Vranov nad Dyj UFO Case</span><span class="citation-popover-snippet">The Vranov nad Dyj UFO Case - PraguePig.com31 Aug 2018  An English-language account of an amazing Czech UFO case: a military helicopter...</span></span></span>
 
 If true, this would explain why the case survives mainly through recollection rather than technical documentation. But it also creates a major analytical problem: once the original data chain disappears, later narratives become difficult to audit independently.
 
@@ -348,7 +348,7 @@ Sceptical interpretations generally focus on the possibility of radar ambiguity 
 
 </div>
 
-The fact that the crew reportedly suspected cloud interference early in the event is sometimes cited by sceptics as evidence that atmospheric effects may have contributed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://praguepig.com/2018/08/vranov-nad-dyji-ufo-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: praguepig.com">[PraguePig.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">praguepig.com</span><span class="citation-popover-title">Prague Pig.com The Vranov nad Dyjí UFO Case</span><span class="citation-popover-snippet">The Vranov nad Dyjí UFO Case - PraguePig.com31 Aug 2018 — An English-language account of an amazing Czech UFO case: a military helicopter...</span></span></span>
+The fact that the crew reportedly suspected cloud interference early in the event is sometimes cited by sceptics as evidence that atmospheric effects may have contributed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://praguepig.com/2018/08/vranov-nad-dyji-ufo-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: praguepig.com">[PraguePig.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">praguepig.com</span><span class="citation-popover-title">Prague Pig.com The Vranov nad Dyj UFO Case</span><span class="citation-popover-snippet">The Vranov nad Dyj UFO Case - PraguePig.com31 Aug 2018  An English-language account of an amazing Czech UFO case: a military helicopter...</span></span></span>
 
 On the other hand, believers argue that radar ambiguity alone does not fully explain the combination of radar guidance, visual observation, and prolonged pursuit by trained military personnel.
 
@@ -358,21 +358,21 @@ The core difficulty is that neither side possesses the underlying data needed fo
 <img src="{{ "/assets/images/Czechia_045e2f_vranov_1987_case_daf4d1-Illustration-2-dark.svg" | relative_url }}" alt="Vranov 1987 illustration 2" data-theme-src-dark="{{ "/assets/images/Czechia_045e2f_vranov_1987_case_daf4d1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Czechia_045e2f_vranov_1987_case_daf4d1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the witness testimony remains contested
 
-### Jaroslav Špaček’s role in preserving the case
+### Jaroslav paeks role in preserving the case
 
-The modern form of the Vranov story depends heavily on material attributed to former pilot Jaroslav Špaček, especially references linked to a regimental history of the 51st Helicopter Regiment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://praguepig.com/2018/08/vranov-nad-dyji-ufo-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: praguepig.com">[PraguePig.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">praguepig.com</span><span class="citation-popover-title">Prague Pig.com The Vranov nad Dyjí UFO Case</span><span class="citation-popover-snippet">The Vranov nad Dyjí UFO Case - PraguePig.com31 Aug 2018 — An English-language account of an amazing Czech UFO case: a military helicopter...</span></span></span> Wikipedia This gives the case more credibility than anonymous folklore because the narrative is attached to an identifiable military figure. Yet the pu <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cs.wikipedia.org/wiki/UFO_nad_Vranovem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">e Jedenapadesátý aneb historie 51...Read more...</span></span></span> blic does not possess a full declassified operational dossier confirming every later detail attributed to him.
+The modern form of the Vranov story depends heavily on material attributed to former pilot Jaroslav paek, especially references linked to a regimental history of the 51st Helicopter Regiment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://praguepig.com/2018/08/vranov-nad-dyji-ufo-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: praguepig.com">[PraguePig.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">praguepig.com</span><span class="citation-popover-title">Prague Pig.com The Vranov nad Dyj UFO Case</span><span class="citation-popover-snippet">The Vranov nad Dyj UFO Case - PraguePig.com31 Aug 2018  An English-language account of an amazing Czech UFO case: a military helicopter...</span></span></span> Wikipedia This gives the case more credibility than anonymous folklore because the narrative is attached to an identifiable military figure. Yet the pu <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cs.wikipedia.org/wiki/UFO_nad_Vranovem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">e Jedenapadest aneb historie 51...Read more...</span></span></span> blic does not possess a full declassified operational dossier confirming every later detail attributed to him.
 
 That distinction matters. A named witness increases seriousness, but witness testimony alone does not resolve technical questions about what was actually encountered.
 
 ### The problem of retrospective storytelling
 
-Another complication is the long delay between the event and its broad public circulation. Much of the widely available material emerged decades later through magazine articles, UFO groups, interviews, internet discussions, and documentary-style retellings. Aktuálně.cz - Víte, co se právě děje <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.idnes.cz/brno/zpravy/ufo-pilot-vrtulnik-zahada-vranov-znojemsko.A220712_673156_brno-zpravy_azu" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: idnes.cz">[IDNES Over time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">idnes.cz</span><span class="citation-popover-title">Incident nad Vranovem halí tajemství</span><span class="citation-popover-snippet">Po 35 letech...12 Jul 2022 — Přesto se časem objevila i nová stopa – objekt nepronásledoval jen zmíněný vrtulník, ale také letouny L-39...</span></span></span>, several features of the story appear to have become more dramatic:
+Another complication is the long delay between the event and its broad public circulation. Much of the widely available material emerged decades later through magazine articles, UFO groups, interviews, internet discussions, and documentary-style retellings. Aktuln.cz - Vte, co se prv dje <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.idnes.cz/brno/zpravy/ufo-pilot-vrtulnik-zahada-vranov-znojemsko.A220712_673156_brno-zpravy_azu" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: idnes.cz">[IDNES Over time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">idnes.cz</span><span class="citation-popover-title">Incident nad Vranovem hal tajemstv</span><span class="citation-popover-snippet">Po 35 letech...12 Jul 2022  Pesto se asem objevila i nov stopa  objekt nepronsledoval jen zmnn vrtulnk, ale tak letouny L-39...</span></span></span>, several features of the story appear to have become more dramatic:
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Speed estimates increased.
-* The object’s manoeuvres became more extraordinary.
+* The objects manoeuvres became more extraordinary.
 * The engagement order became more central.
 * Claims of secrecy expanded.
 
@@ -389,9 +389,9 @@ The incident has produced four broad explanatory categories within Czech UFO dis
 
 ### A genuinely unexplained aerial phenomenon
 
-This is the interpretation favoured by many UFO researchers. They argue that the combination of radar detection, military response, visual observation, and reported extreme manoeuvrability cannot be explained adequately by ordinary aircraft or atmospheric effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cs.wikipedia.org/wiki/UFO_nad_Vranovem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">e Jedenapadesátý aneb historie 51...Read more...</span></span></span>
+This is the interpretation favoured by many UFO researchers. They argue that the combination of radar detection, military response, visual observation, and reported extreme manoeuvrability cannot be explained adequately by ordinary aircraft or atmospheric effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cs.wikipedia.org/wiki/UFO_nad_Vranovem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">e Jedenapadest aneb historie 51...Read more...</span></span></span>
 
-Supporters of this interpretation also point to the apparent persistence of the target across a wide area extending toward Brno and Bratislava in some retellings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://praguepig.com/2018/08/vranov-nad-dyji-ufo-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: praguepig.com">[PraguePig.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">praguepig.com</span><span class="citation-popover-title">Prague Pig.com The Vranov nad Dyjí UFO Case</span><span class="citation-popover-snippet">The Vranov nad Dyjí UFO Case - PraguePig.com31 Aug 2018 — An English-language account of an amazing Czech UFO case: a military helicopter...</span></span></span>
+Supporters of this interpretation also point to the apparent persistence of the target across a wide area extending toward Brno and Bratislava in some retellings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://praguepig.com/2018/08/vranov-nad-dyji-ufo-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: praguepig.com">[PraguePig.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">praguepig.com</span><span class="citation-popover-title">Prague Pig.com The Vranov nad Dyj UFO Case</span><span class="citation-popover-snippet">The Vranov nad Dyj UFO Case - PraguePig.com31 Aug 2018  An English-language account of an amazing Czech UFO case: a military helicopter...</span></span></span>
 
 ### A classified military or surveillance aircraft
 
@@ -450,51 +450,93 @@ The unresolved status is actually central to its endurance. If full records had 
 
 ## What can actually be concluded from the surviving evidence
 
-The strongest conclusion supported by available evidence is relatively narrow: a military interception event involving an unidentified radar contact probably did occur near Vranov nad Dyjí on 12 July 1987, and at least some participants later described the experience as highly unusual. <span class="citation-chip-wrap"><a class="citation-chip" href="https://praguepig.com/2018/08/vranov-nad-dyji-ufo-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: praguepig.com">[PraguePig.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">praguepig.com</span><span class="citation-popover-title">Prague Pig.com The Vranov nad Dyjí UFO Case</span><span class="citation-popover-snippet">The Vranov nad Dyjí UFO Case - PraguePig.com31 Aug 2018 — An English-language account of an amazing Czech UFO case: a military helicopter...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cs.wikipedia.org/wiki/UFO_nad_Vranovem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia Beyond that point]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">e Jedenapadesátý aneb historie 51...Read more...</span></span></span>, certainty drops sharply.
+The strongest conclusion supported by available evidence is relatively narrow: a military interception event involving an unidentified radar contact probably did occur near Vranov nad Dyj on 12 July 1987, and at least some participants later described the experience as highly unusual. <span class="citation-chip-wrap"><a class="citation-chip" href="https://praguepig.com/2018/08/vranov-nad-dyji-ufo-case/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: praguepig.com">[PraguePig.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">praguepig.com</span><span class="citation-popover-title">Prague Pig.com The Vranov nad Dyj UFO Case</span><span class="citation-popover-snippet">The Vranov nad Dyj UFO Case - PraguePig.com31 Aug 2018  An English-language account of an amazing Czech UFO case: a military helicopter...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cs.wikipedia.org/wiki/UFO_nad_Vranovem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia Beyond that point]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">e Jedenapadest aneb historie 51...Read more...</span></span></span>, certainty drops sharply.
 
 There is no publicly available technical dataset capable of confirming extraordinary manoeuvres, impossible speeds, or non-human origin. The missing records are not a minor issue; they are the central analytical obstacle. Without them, the incident remains suspended between credible military anomaly and heavily mythologised Cold War UFO story.
 
-That unresolved tension is precisely why the Vranov incident still occupies such a prominent place in Czechia’s UFO history decades later.
+That unresolved tension is precisely why the Vranov incident still occupies such a prominent place in Czechias UFO history decades later.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
+  <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">No matched book cards were available for What Happened During the 1987 Vranov nad Dyjí UFO Interception?, so this fallback keeps a direct Amazon reading path visible.</p>
+      <p class="fr-intro">Books and field guides related to What Happened During the 1987 Vranov nad Dyjí UFO Interception?. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
-    <div class="fr-search-grid">
+    <div class="fr-books-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hynek UFO Report on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eBS4DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hynek UFO Report" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hynek UFO Report">The Hynek UFO Report</a>
+        </h4>
+        <p class="fr-book-author">By J. Allen Hynek</p>
+        
+        <p class="fr-book-desc">Contains numerous radar and pilot encounter evaluations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Hynek+UFO+Report+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">scientific UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Report on Unidentified Flying Objects on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HrbCDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Report on Unidentified Flying Objects" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Report on Unidentified Flying Objects">The Report on Unidentified Flying Objects</a>
+        </h4>
+        <p class="fr-book-author">By Edward J. Ruppelt</p>
+        
+        <p class="fr-book-desc">Explores military investigations and official case analysis.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects+by+Edward+J.+Ruppelt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-      </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+        </h4>
+        <p class="fr-book-author">By Ross Coulthart</p>
+        
+        <p class="fr-book-desc">Examines military testimony and evidence controversies.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+        </h4>
+        <p class="fr-book-author">By Leslie Kean</p>
+        
+        <p class="fr-book-desc">Focuses on military and pilot encounters with corroborating evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
     </article>
     </div>
     <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hynek+UFO+Report&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hynek UFO Report</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Report+on+Unidentified+Flying+Objects&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Report on Unidentified Flying Objects</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
@@ -531,7 +573,7 @@ That unresolved tension is precisely why the Vranov incident still occupies such
       <div class="fr-search-grid">
 
     <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
         <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
       </a>
       <div class="fr-search-info">
@@ -539,7 +581,7 @@ That unresolved tension is precisely why the Vranov incident still occupies such
         <h4 class="fr-search-title">UFO poster</h4>
         <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
         <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books-series-televisio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books-series-televisio" target="_blank" rel="sponsored noopener noreferrer">
           Browse eBay
         </a>
       </div>
@@ -576,7 +618,7 @@ That unresolved tension is precisely why the Vranov incident still occupies such
     </article>
 
     <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-t-shirt-gerry-anderson-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-t-shirt-gerry-anderson-series-tele" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-t-shirt-gerry-anderson-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-t-shirt-gerry-anderson-series-tele" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO t shirt on eBay">
         <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO t shirt on eBay" loading="lazy">
       </a>
       <div class="fr-search-info">
@@ -584,14 +626,14 @@ That unresolved tension is precisely why the Vranov incident still occupies such
         <h4 class="fr-search-title">UFO t shirt</h4>
         <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
         <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Shirt</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-t-shirt-gerry-anderson-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -ticket -programme" data-ebay-reference="vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-t-shirt-gerry-anderson-series-tele" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-t-shirt-gerry-anderson-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-t-shirt-gerry-anderson-series-tele" target="_blank" rel="sponsored noopener noreferrer">
           Browse eBay
         </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books-series-televisio&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vranov-1987-what-happened-during-the-1987-vranov-nad-dyj-ufo-interception-czechia-ufo-poster-book-books-series-televisio&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -806,48 +848,48 @@ That unresolved tension is precisely why the Vranov incident still occupies such
 
 1. <a id="endnote-1"></a>
    Source: praguepig.com  
-   Title: Prague Pig.com The Vranov nad Dyjí UFO Case  
+   Title: Prague Pig.com The Vranov nad Dyj UFO Case  
    Link: <a href="https://praguepig.com/2018/08/vranov-nad-dyji-ufo-case/" target="_blank" rel="noopener noreferrer nofollow">https://praguepig.com/2018/08/vranov-nad-dyji-ufo-case/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Vranov nad Dyjí UFO Case - PraguePig.com31 Aug 2018 — An English-language account of an amazing Czech UFO case: a military helicopter...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Vranov nad Dyj UFO Case - PraguePig.com31 Aug 2018  An English-language account of an amazing Czech UFO case: a military helicopter...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Link: <a href="https://cs.wikipedia.org/wiki/UFO_nad_Vranovem" target="_blank" rel="noopener noreferrer nofollow">https://cs.wikipedia.org/wiki/UFO_nad_Vranovem</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>e Jedenapadesátý aneb historie 51...Read more...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>e Jedenapadest aneb historie 51...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: armyweb.cz  
    Title: v roce 1987 se stretl cesky vrtulnik s pravdepodobnym ufo  
    Link: <a href="https://www.armyweb.cz/clanek/v-roce-1987-se-stretl-cesky-vrtulnik-s-pravdepodobnym-ufo" target="_blank" rel="noopener noreferrer nofollow">https://www.armyweb.cz/clanek/v-roce-1987-se-stretl-cesky-vrtulnik-s-pravdepodobnym-ufo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>V roce 1987 se český armádní vrtulník střetl s...15 Jul 2022 — Letos v červenci je tomu přesně 35 let ode dne, kdy vrtulník tehdejší Čes...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>V roce 1987 se esk armdn vrtulnk stetl s...15 Jul 2022  Letos v ervenci je tomu pesn 35 let ode dne, kdy vrtulnk tehdej es...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: magazin.aktualne.cz  
    Link: <a href="https://magazin.aktualne.cz/udajny-ufo-incident-nad-vranovskou-prehradou/r~d59bceba3b9b11f0bf960cc47ab5f122/" target="_blank" rel="noopener noreferrer nofollow">https://magazin.aktualne.cz/udajny-ufo-incident-nad-vranovskou-prehradou/r~d59bceba3b9b11f0bf960cc47ab5f122/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Československá armáda vs. UFO nad...8 Jun 2025 — Československá armáda proti UFO. Dramatický souboj vrtulníku s objektem porušujícím fyz...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>eskoslovensk armda vs. UFO nad...8 Jun 2025  eskoslovensk armda proti UFO. Dramatick souboj vrtulnku s objektem poruujcm fyz...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: azet.sk  
    Link: <a href="https://www.azet.sk/magazin/clanok/eE6oSfd/tajomne-ufo-nad-nadrzou-vranov-ani-po-38-rokoch-zahadu-nevyriesili-sledovali-ho-25-hodiny/" target="_blank" rel="noopener noreferrer nofollow">https://www.azet.sk/magazin/clanok/eE6oSfd/tajomne-ufo-nad-nadrzou-vranov-ani-po-38-rokoch-zahadu-nevyriesili-sledovali-ho-25-hodiny/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tajomné UFO nad nádržou Vranov: Ani po 38 rokoch...31 Jul 2025 — Pilot nadporučík Jaroslav Špaček dostal príkaz, aby objekt prenasledoval...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tajomn UFO nad ndrou Vranov: Ani po 38 rokoch...31 Jul 2025  Pilot nadporuk Jaroslav paek dostal prkaz, aby objekt prenasledoval...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: idnes.cz  
-   Title: Incident nad Vranovem halí tajemství  
+   Title: Incident nad Vranovem hal tajemstv  
    Link: <a href="https://www.idnes.cz/brno/zpravy/ufo-pilot-vrtulnik-zahada-vranov-znojemsko.A220712_673156_brno-zpravy_azu" target="_blank" rel="noopener noreferrer nofollow">https://www.idnes.cz/brno/zpravy/ufo-pilot-vrtulnik-zahada-vranov-znojemsko.A220712_673156_brno-zpravy_azu</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Po 35 letech...12 Jul 2022 — Přesto se časem objevila i nová stopa – objekt nepronásledoval jen zmíněný vrtulník, ale také letouny L-39...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Po 35 letech...12 Jul 2022  Pesto se asem objevila i nov stopa  objekt nepronsledoval jen zmnn vrtulnk, ale tak letouny L-39...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
-   Title: Vranov nad Topľou  
+   Title: Vranov nad Topou  
    Link: <a href="https://en.wikipedia.org/wiki/Vranov_nad_Top%C4%BEou" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Vranov_nad_Top%C4%BEou</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vranov nad TopľouThe city is divided into three parts: Vranov nad Topľou proper, Čemerné and Lomnica. The city is also known for givin...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vranov nad TopouThe city is divided into three parts: Vranov nad Topou proper, emern and Lomnica. The city is also known for givin...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
-   Title: Vranov nad Topľou  
+   Title: Vranov nad Topou  
    Link: <a href="https://it.wikipedia.org/wiki/Vranov_nad_Top%C4%BEou" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Vranov_nad_Top%C4%BEou</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vranov nad TopľouVranov nad Topľou (in ungherese Varannó, in tedesco Frö(h)nel o Vronau an der Töpl) è una città della Slovacchia, cap...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vranov nad TopouVranov nad Topou (in ungherese Varann, in tedesco Fr(h)nel o Vronau an der Tpl)  una citt della Slovacchia, cap...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
@@ -864,19 +906,19 @@ That unresolved tension is precisely why the Vranov incident still occupies such
 11. <a id="endnote-11"></a>
    Source: znojemsky.denik.cz  
    Link: <a href="https://znojemsky.denik.cz/zpravy_region/ufo-vranov-prehrada-vrtulnik-cil-hranice-inspirace-film-franta-mimozemstan-brno.html" target="_blank" rel="noopener noreferrer nofollow">https://znojemsky.denik.cz/zpravy_region/ufo-vranov-prehrada-vrtulnik-cil-hranice-inspirace-film-franta-mimozemstan-brno.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Znojemský DeníkUFO nad Vranovem ožívá ve filmu Franta mimozemšťan8 Feb 2024 — Zamířit měli do Vranova nad Dyjí a objekt, který měli sledo...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Znojemsk DenkUFO nad Vranovem ov ve filmu Franta mimozeman8 Feb 2024  Zamit mli do Vranova nad Dyj a objekt, kter mli sledo...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: trebicsky.denik.cz  
-   Title: Trebic Sky Hon na UFO nad Třebíčskem  
+   Title: Trebic Sky Hon na UFO nad Tebskem  
    Link: <a href="https://trebicsky.denik.cz/zpravy_region/hon-na-ufo-trebicsko-vranopvska-prehrada-vysocina-jizni-morava-vrtulnik-20240712.html" target="_blank" rel="noopener noreferrer nofollow">https://trebicsky.denik.cz/zpravy_region/hon-na-ufo-trebicsko-vranopvska-prehrada-vysocina-jizni-morava-vrtulnik-20240712.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Armádní vrtulník se zapojil do...12 Jul 2024 — Sestřelit UFO. Tesaříkův stroj neměl radar, a tak musel spoléhat na navádění ze země a vi...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Armdn vrtulnk se zapojil do...12 Jul 2024  Sestelit UFO. Tesakv stroj neml radar, a tak musel spolhat na navdn ze zem a vi...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: amazingczechia.com  
-   Title: Vranov nad Dyjí  
+   Title: Vranov nad Dyj  
    Link: <a href="https://www.amazingczechia.com/destinations/vranov-nad-dyji/" target="_blank" rel="noopener noreferrer nofollow">https://www.amazingczechia.com/destinations/vranov-nad-dyji/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Picturesque Town in South MoraviaVranov nad Dyjí is a fascinating market town located in the south-western part of the South Moravian R...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Picturesque Town in South MoraviaVranov nad Dyj is a fascinating market town located in the south-western part of the South Moravian R...</p></details>
 
 ### Additional References
 
@@ -897,36 +939,36 @@ That unresolved tension is precisely why the Vranov incident still occupies such
 17. <a id="endnote-17"></a>
    Source: reddit.com  
    Link: <a href="https://www.reddit.com/r/aliens/comments/1sc5kjc/one_of_the_best_ufo_sightings_in_which_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1sc5kjc/one_of_the_best_ufo_sightings_in_which_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lieutenant Jaroslav Špaček mentioned the incident in the book Fifty-first, or the...Read more...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lieutenant Jaroslav paek mentioned the incident in the book Fifty-first, or the...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Title: wspomina pilot śmigłowca, porucznik Jaroslav Špaček  
+   Title: wspomina pilot migowca, porucznik Jaroslav paek  
    Link: <a href="https://www.facebook.com/paranormalnapolska/posts/nigdy-wcze%C5%9Bniej-czego%C5%9B-takiego-nie-widzia%C5%82em-wspomina-pilot-%C5%9Bmig%C5%82owca-porucznik-/1298898108925271/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/paranormalnapolska/posts/nigdy-wcze%C5%9Bniej-czego%C5%9B-takiego-nie-widzia%C5%82em-wspomina-pilot-%C5%9Bmig%C5%82owca-porucznik-/1298898108925271/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>„I...12 lipca 1987 roku nad zaporą Vranov na Morawach doszło do jednego z najbardziej dramatycznych incydentów z udziałem UFO w historii...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>I...12 lipca 1987 roku nad zapor Vranov na Morawach doszo do jednego z najbardziej dramatycznych incydentw z udziaem UFO w historii...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
    Title: 1987 vranov czech republic vranov incident  
    Link: <a href="https://www.reddit.com/r/UFOs/comments/1kvvix5/1987_vranov_czech_republic_vranov_incident/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1kvvix5/1987_vranov_czech_republic_vranov_incident/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1987, Vranov, Czech republic &quot;Vranov incident&quot;: r/UFOsArmy helicopter chases UFO in 1987 Czechoslovakia · r/UFOs - Army helicopter chase...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>1987, Vranov, Czech republic &quot;Vranov incident&quot;: r/UFOsArmy helicopter chases UFO in 1987 Czechoslovakia  r/UFOs - Army helicopter chase...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: medium.seznam.cz  
    Link: <a href="https://medium.seznam.cz/clanek/npc-zahadne-setkani-nad-vranovskou-prehradou-ufo-a-armadni-vrtulnik-v-roce-1987-124015" target="_blank" rel="noopener noreferrer nofollow">https://medium.seznam.cz/clanek/npc-zahadne-setkani-nad-vranovskou-prehradou-ufo-a-armadni-vrtulnik-v-roce-1987-124015</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Záhadné setkání nad Vranovskou přehradou: UFO a armádní...24 Feb 2025 — Neexistují žádné veřejně dostupné dokumenty, žádné fotografie, ž...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Zhadn setkn nad Vranovskou pehradou: UFO a armdn...24 Feb 2025  Neexistuj dn veejn dostupn dokumenty, dn fotografie, ...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
    Link: <a href="https://www.facebook.com/groups/528663418654654/posts/1362909075230080/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/528663418654654/posts/1362909075230080/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>he Czech Republic · No photo description available...Read more...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>he Czech Republic  No photo description available...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: pl.anuchildren.org  
    Link: <a href="https://pl.anuchildren.org/incydent-ufo-na-vranovem-w-1987-roku/" target="_blank" rel="noopener noreferrer nofollow">https://pl.anuchildren.org/incydent-ufo-na-vranovem-w-1987-roku/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO na Vranovem w 1987 roku - Dzieci Anu7 Nov 2025 — Incydent ten miał miejsce 12 lipca 1987 roku nad zalewem Vranov, który był pełen tur...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO na Vranovem w 1987 roku - Dzieci Anu7 Nov 2025  Incydent ten mia miejsce 12 lipca 1987 roku nad zalewem Vranov, ktry by peen tur...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
    Link: <a href="https://www.facebook.com/MoviesArchive.Hai/videos/-the-vranov-ufo-incident-a-cold-war-mystery-in-the-skiesduring-the-tension-fille/1339157251371026/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MoviesArchive.Hai/videos/-the-vranov-ufo-incident-a-cold-war-mystery-in-the-skiesduring-the-tension-fille/1339157251371026/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ear the small town of Vranov nad Dyjí. Though not as widely...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ear the small town of Vranov nad Dyj. Though not as widely...</p></details>

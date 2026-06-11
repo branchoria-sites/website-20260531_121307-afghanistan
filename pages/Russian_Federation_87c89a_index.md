@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /russian-federation-87c89a-index/
 description: Focused pages that expand on Russian Federation.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: Russian_Federation_87c89a
 parent_title: Russian Federation

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /israel-4c197d-index/
 description: Focused pages that expand on Uncovering UFO Phenomena Across Israel:....
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: Israel_4c197d
 parent_title: Uncovering UFO Phenomena Across Israel:...

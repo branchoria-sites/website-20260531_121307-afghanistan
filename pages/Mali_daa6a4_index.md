@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /mali-daa6a4-index/
 description: Focused pages that expand on Are There Any Real Mali UFO Cases?.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: Mali_daa6a4
 parent_title: Are There Any Real Mali UFO Cases?
