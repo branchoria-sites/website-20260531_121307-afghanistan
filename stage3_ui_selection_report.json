@@ -1,5 +1,5 @@
 {
-  "selection_strategy": "legacy-resolvers",
+  "selection_strategy": "shared-scorer",
   "ui_priority": "home-first",
   "site_shape": {
     "report_count": 965,
@@ -45,7 +45,6 @@
       "What Really Happened in Australia's UFO Files?",
       "What Do Austria's UFO Reports Really Show?",
       "What Is Behind Azerbaijan's UFO Reports?",
-      "What Really Shapes Bahamas UFO Stories?",
       "What Did Bahrain's UFO Sightings Really Show?",
       "What Do UFO Sightings Reveal About Bangladesh Skies?",
       "What Really Happened in Barbados Skies?",
@@ -64,12 +63,14 @@
       "What Is Really Known About Burundi UFOs?",
       "What UFO Reports Survive Cabo Verde?",
       "What Really Happened in Cambodia's UFO Cases?",
+      "What Do Cameroon's UFO Stories Really Show?",
       "What Canada UFO Reports Really Show",
       "What Counts as a UFO in CAR?",
       "What Is Really Behind Chad's UFO Reports?",
       "How Chile Investigates UFOs and Aerial Phenomena",
       "What China's UFO Cases Really Show",
       "What Is Really Known About Colombia's UFO Stories?",
+      "Have UFOs Really Been Seen Over Comoros?",
       "What Really Counts as a Congo UFO?",
       "What Really Happened in Costa Rica's UFO Record?",
       "What Do Ivorian UFO Reports Really Show?",
@@ -87,6 +88,7 @@
       "What Makes Egypt a Hotspot for UFO Legends?",
       "What Really Flies Over El Salvador?",
       "What Do We Really Know About UFOs in Equatorial Guinea?",
+      "What UFOs Have Been Reported in Eritrea and Why Evidence...",
       "What Really Shapes Estonia's UFO Record?",
       "What Is Really in Eswatini's UFO Record?",
       "What Really Counts as Ethiopia's UFO Evidence?",
@@ -101,12 +103,9 @@
       "What Greece's UFO Records Reveal About Sky Mysteries",
       "Why Grenada Became a UFO Footnote",
       "What Guatemala’s UFO Reports Really Reveal",
-      "What Do UFO Reports in Guinea Really Show?",
       "What Do Guinea Bissau's UFO Reports Really Show?",
+      "What Do UFO Reports in Guinea Really Show?",
       "What We Know About UFO Sightings in Guyana",
-      "What Do Cameroon's UFO Stories Really Show?",
-      "Have UFOs Really Been Seen Over Comoros?",
-      "What UFOs Have Been Reported in Eritrea and Why Evidence...",
       "What Really Happened in Haiti's UFO Record?",
       "What Do Honduras UFO Reports Really Show?",
       "What Do Hungary's UFO Stories Really Show?",
@@ -117,8 +116,10 @@
       "What Unidentified Aerial Phenomena Have Been Recorded in...",
       "What Is Really Seen Over Ireland?",
       "Uncovering UFO Phenomena Across Israel: Sightings and...",
+      "What Makes Italy’s UFO Record Unique and Contested?",
       "What Is Really In Jamaica's UFO Record?",
       "What Makes Japan's UFO Record So Unusual?",
+      "What Counts as a UFO in Jordan?",
       "What Is Really Seen Over Kazakhstan?",
       "What Really Fell From Kenya's Skies?",
       "What Is Really Known About Kiribati UFOs?",
@@ -136,14 +137,13 @@
       "Madagascar's UFO Record: Famous Case, Thin Archive",
       "What Are Malawi's Documented UFOs and Sky Mysteries?",
       "What Do Malaysia's UFO Stories Really Show?",
+      "What Do We Know About UFO Sightings in Maldives?",
       "Are There Any Real Mali UFO Cases?",
       "What Has Malta Really Seen in the Sky?",
       "What Really Explains Marshall Islands UFO Reports?",
       "Why Are Mauritania's UFO Records So Sparse?",
-      "What Really Happened in Mexico's UFO Cases?",
-      "What Makes Italy’s UFO Record Unique and Contested?",
-      "What Counts as a UFO in Jordan?",
       "What Really Happened in Mauritius Sky Sightings?",
+      "What Really Happened in Mexico's UFO Cases?",
       "Why Micronesia Has So Few UFO Cases",
       "Are Monaco UFO Sightings Really Mysterious?",
       "What Do Mongolia's UFO Reports Really Show?",
@@ -151,11 +151,11 @@
       "Morocco's UFO Mystery And Its Best Explanations",
       "What Really Survives in Mozambique's UFO Record?",
       "What Is Really Behind Myanmar UFO Reports?",
+      "What Is Really Behind Namibia's UFO Stories?",
       "What Do Nauru UFO Reports Really Show?",
       "What Really Happened in Nepal's UFO Record?",
       "What Really Happened in Dutch UFO Cases?",
       "What New Zealand's UFO Files Really Show",
-      "What Do We Know About UFO Sightings in Maldives?",
       "What Really Happened in Nicaragua's UFO Stories?",
       "What Is Really Known About Niger UFOs?",
       "What Do Nigeria's UFO Reports Really Show?",
@@ -202,7 +202,9 @@
       "What Makes Sweden's UFO Record Different?",
       "What Is Switzerland's UFO Record Really Worth?",
       "What Syria's UFO Files Really Show",
+      "What Do Tajikistan's UFO Reports Really Show?",
       "What Really Counts as a Thai UFO?",
+      "What Really Shapes Bahamas UFO Stories?",
       "What Do Timor Leste UFO Reports Really Show?",
       "What Really Happened in Togo's UFO Files?",
       "What Really Exists in Tonga's UFO Record?",
@@ -213,8 +215,6 @@
       "What Can Tuvalu's UFO Record Really Show?",
       "What Really Happened in Uganda's UFO Reports?",
       "What Is Really Seen Over Ukraine?",
-      "What Is Really Behind Namibia's UFO Stories?",
-      "What Do Tajikistan's UFO Reports Really Show?",
       "What Is Really Seen Over UAE Skies?",
       "What Really Happened in Britain's UFO Files?",
       "What Do Tanzania's UFO Reports Really Show?",
@@ -230,13 +230,76 @@
     ]
   },
   "selected": {
-    "visual_profile": "atlas",
-    "layout_archetype": "atlas",
+    "visual_profile": "compact",
+    "layout_archetype": "compact-grid",
     "home_layout_mode": "vertical",
     "auto_home_layout_mode": "catalog",
     "hierarchy_viz_mode": "hybrid",
     "palette": "north-atlantic",
-    "motif": "orbital"
+    "motif": "horizon"
   },
-  "candidates": []
+  "candidates": [
+    {
+      "profile": "compact",
+      "layout": "compact-grid",
+      "home_score": 58,
+      "article_score": 18,
+      "interaction_score": 13,
+      "score": 3700,
+      "reasons": [
+        "compact profile suits large hierarchies",
+        "compact-grid handles dense trees",
+        "compact-grid suits hybrid graph/list layout"
+      ]
+    },
+    {
+      "profile": "compact",
+      "layout": "atlas",
+      "home_score": 34,
+      "article_score": 12,
+      "interaction_score": 13,
+      "score": 2320,
+      "reasons": [
+        "compact profile suits large hierarchies"
+      ]
+    },
+    {
+      "profile": "atlas",
+      "layout": "dossier",
+      "home_score": 28,
+      "article_score": 12,
+      "interaction_score": 16,
+      "score": 2080,
+      "reasons": [
+        "atlas+dossier suits hybrid hierarchy"
+      ]
+    },
+    {
+      "profile": "editorial",
+      "layout": "dossier",
+      "home_score": 12,
+      "article_score": 16,
+      "interaction_score": 14,
+      "score": 1360,
+      "reasons": []
+    },
+    {
+      "profile": "editorial",
+      "layout": "magazine",
+      "home_score": 12,
+      "article_score": 16,
+      "interaction_score": 14,
+      "score": 1360,
+      "reasons": []
+    },
+    {
+      "profile": "atlas",
+      "layout": "atlas",
+      "home_score": 12,
+      "article_score": 12,
+      "interaction_score": 16,
+      "score": 1280,
+      "reasons": []
+    }
+  ]
 }
