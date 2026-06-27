@@ -1,5 +1,6 @@
 {
   "kind": "world-countries",
+  "mapLayout": "world",
   "itemType": "country",
   "mapAsset": "world.svg",
   "dataAsset": "world-countries.json",

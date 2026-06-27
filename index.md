@@ -197,4 +197,3 @@ site_image_description: A night view of a remote Afghan airfield with mountains 
   <p class="home-map-panel-note">Use the map to jump into a country file, or browse the full country list below.</p>
   <p class="home-map-panel-actions"><a class="nav-pill" href="{{ '/contents/' | relative_url }}">Contents</a></p>
 </section>
-
